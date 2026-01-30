@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Game List</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="wrap">
+    <header class="header">
+      <h1>Game Library</h1>
+      <p class="sub">Search titles, filter by console, click to copy a title.</p>
+    </header>
+
+    <section class="controls">
+      <input id="search" type="search" placeholder="Search games..." autocomplete="off" />
+      <select id="consoleFilter">
+        <option value="">All consoles</option>
+      </select>
+      <label class="checkbox">
+        <input id="onlyStartsWith" type="checkbox" />
+        Starts with (instead of contains)
+      </label>
+    </section>
+
+    <section id="status" class="status" aria-live="polite"></section>
+
+    <section id="list" class="list" aria-label="Game results"></section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
