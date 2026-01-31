@@ -8,25 +8,32 @@
 </head>
 <body>
   <main class="wrap">
-    <header class="header">
-      <h1>Game Library</h1>
-      <p class="sub">Search titles, filter by console, click to copy a title.</p>
+    <header class="header sticky-bar">
+      <h1 class="header-title">Game Library</h1>
+      <section class="controls">
+        <input id="search" type="search" placeholder="Search games" autocomplete="off" aria-label="Search games" />
+        <select id="consoleFilter" aria-label="Filter by console">
+          <option value="">All consoles</option>
+        </select>
+        <select id="sortBy" aria-label="Sort by">
+          <option value="title">A–Z</option>
+          <option value="console">By console</option>
+        </select>
+      </section>
     </header>
 
-    <section class="controls">
-      <input id="search" type="search" placeholder="Search games..." autocomplete="off" />
-      <select id="consoleFilter">
-        <option value="">All consoles</option>
-      </select>
-      <label class="checkbox">
-        <input id="onlyStartsWith" type="checkbox" />
-        Starts with (instead of contains)
-      </label>
-    </section>
+    <p id="status" class="status" aria-live="polite"></p>
 
-    <section id="status" class="status" aria-live="polite"></section>
-
-    <section id="list" class="list" aria-label="Game results"></section>
+    <div class="list-viewport">
+      <div class="list-scroll" id="listScroll" role="region" aria-label="Game list">
+        <div class="list-inner" id="listInner">
+          <div class="list-window" id="listWindow">
+            <ul id="list" class="list" aria-label="Games"></ul>
+          </div>
+        </div>
+      </div>
+      <nav class="az-jump" id="azJump" aria-label="Jump to letter"></nav>
+    </div>
   </main>
 
   <script src="app.js"></script>

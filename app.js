@@ -10,16 +10,26 @@ const CONSOLE_CONFIG = {
   PS1:         { icon: "ps1.png",       color: "#9ca3af" },
 };
 
+const ROW_HEIGHT = 50;
+const OVERSCAN = 8;
+
 const els = {
   search: $("#search"),
   consoleFilter: $("#consoleFilter"),
-  onlyStartsWith: $("#onlyStartsWith"),
+  sortBy: $("#sortBy"),
   list: $("#list"),
   status: $("#status"),
+  listScroll: $("#listScroll"),
+  listInner: $("#listInner"),
+  listWindow: $("#listWindow"),
+  azJump: $("#azJump"),
 };
 
 let allGames = [];
 let consoles = [];
+let filteredItems = [];
+let letterIndex = {};
+let scrollRAF = null;
 
 function norm(s) {
   return (s || "").toLowerCase().trim();
@@ -79,70 +89,161 @@ function getConsoleStyle(consoleName) {
   };
 }
 
-function renderList(items) {
-  els.list.innerHTML = "";
-  for (const g of items) {
-    const style = getConsoleStyle(g.console);
+const displayText = (g) => g.display || `${g.title} [${g.serial}]`;
 
-    const card = document.createElement("div");
-    card.className = "card";
+function createCard(g) {
+  const style = getConsoleStyle(g.console);
+  const li = document.createElement("li");
+  li.className = "card";
+  li.style.borderLeftColor = style.color;
 
-    const iconWrap = document.createElement("div");
-    iconWrap.className = "card-icon";
-    if (style.icon) {
-      const img = document.createElement("img");
-      img.src = style.icon;
-      img.alt = g.console;
-      img.loading = "lazy";
-      img.onerror = () => { img.remove(); iconWrap.classList.add("no-icon"); };
-      iconWrap.appendChild(img);
-    } else {
-      iconWrap.classList.add("no-icon");
-    }
-
-    const displayText = g.display || `${g.title} [${g.serial}]`;
-
-    const titleBox = document.createElement("div");
-    titleBox.className = "card-title-box";
-    titleBox.style.backgroundColor = style.color;
-    if (style.textDark) titleBox.classList.add("text-dark");
-
-    const title = document.createElement("span");
-    title.className = "title";
-    title.textContent = displayText;
-    titleBox.appendChild(title);
-
-    const btn = document.createElement("button");
-    btn.className = "copy";
-    btn.type = "button";
-    btn.textContent = "Copy";
-    btn.addEventListener("click", () => copyText(displayText));
-
-    card.appendChild(iconWrap);
-    card.appendChild(titleBox);
-    card.appendChild(btn);
-    els.list.appendChild(card);
+  const iconWrap = document.createElement("div");
+  iconWrap.className = "card-icon";
+  if (style.icon) {
+    const img = document.createElement("img");
+    img.src = style.icon;
+    img.alt = g.console;
+    img.loading = "lazy";
+    img.onerror = () => { img.remove(); iconWrap.classList.add("no-icon"); };
+    iconWrap.appendChild(img);
+  } else {
+    iconWrap.classList.add("no-icon");
   }
+
+  const titleBox = document.createElement("div");
+  titleBox.className = "card-title-box";
+  titleBox.style.backgroundColor = style.color;
+  if (style.textDark) titleBox.classList.add("text-dark");
+
+  const titleSpan = document.createElement("span");
+  titleSpan.className = "card-title";
+  titleSpan.textContent = g.title;
+  const serialSpan = document.createElement("span");
+  serialSpan.className = "card-serial";
+  serialSpan.textContent = ` [${g.serial}]`;
+  titleBox.appendChild(titleSpan);
+  titleBox.appendChild(serialSpan);
+
+  const btn = document.createElement("button");
+  btn.className = "copy";
+  btn.type = "button";
+  btn.textContent = "Copy";
+  btn.addEventListener("click", () => copyText(displayText(g)));
+
+  li.appendChild(iconWrap);
+  li.appendChild(titleBox);
+  li.appendChild(btn);
+  return li;
+}
+
+function updateVirtualList() {
+  if (!els.listScroll || !els.listInner || !els.listWindow) return;
+  if (!filteredItems.length) {
+    els.listInner.style.height = "0";
+    els.list.innerHTML = "";
+    return;
+  }
+  const total = filteredItems.length;
+  const scrollTop = els.listScroll.scrollTop;
+  const containerHeight = els.listScroll.clientHeight;
+  const start = Math.max(0, Math.floor(scrollTop / ROW_HEIGHT) - OVERSCAN);
+  const end = Math.min(total, Math.ceil((scrollTop + containerHeight) / ROW_HEIGHT) + OVERSCAN);
+
+  els.listInner.style.height = `${total * ROW_HEIGHT}px`;
+  els.listWindow.style.top = `${start * ROW_HEIGHT}px`;
+  els.listWindow.style.height = `${(end - start) * ROW_HEIGHT}px`;
+
+  els.list.innerHTML = "";
+  for (let i = start; i < end; i++) {
+    els.list.appendChild(createCard(filteredItems[i]));
+  }
+
+  if (els.sortBy.value === "title" && els.azJump && !els.azJump.hidden) {
+    const display = (g) => (g.display || g.title || "").toLowerCase();
+    const firstCh = (display(filteredItems[start])[0] || "").toUpperCase();
+    let currentLetter = null;
+    if (/\d/.test(firstCh)) currentLetter = "#";
+    else {
+      for (const letter of "ABCDEFGHIJKLMNOPQRSTUVWXYZ") {
+        if (letterIndex[letter] !== undefined && letterIndex[letter] <= start) currentLetter = letter;
+      }
+    }
+    els.azJump.querySelectorAll("button").forEach((btn) => {
+      btn.classList.toggle("current", btn.dataset.letter === currentLetter);
+    });
+  }
+}
+
+function buildLetterIndex() {
+  letterIndex = {};
+  const display = (g) => (g.display || g.title || "").toLowerCase();
+  for (let i = 0; i < filteredItems.length; i++) {
+    const ch = (display(filteredItems[i])[0] || "").toUpperCase();
+    if (/\d/.test(ch)) {
+      if (letterIndex["#"] === undefined) letterIndex["#"] = i;
+    } else if (/[A-Z]/.test(ch) && letterIndex[ch] === undefined) {
+      letterIndex[ch] = i;
+    }
+  }
+}
+
+function renderAzJump() {
+  els.azJump.innerHTML = "";
+  if (els.sortBy.value !== "title" || filteredItems.length === 0) {
+    els.azJump.hidden = true;
+    return;
+  }
+  els.azJump.hidden = false;
+  const addBtn = (key, label) => {
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.textContent = label;
+    btn.dataset.letter = key;
+    btn.disabled = letterIndex[key] === undefined;
+    btn.addEventListener("click", () => {
+      const idx = letterIndex[key];
+      if (idx != null) els.listScroll.scrollTop = idx * ROW_HEIGHT;
+    });
+    els.azJump.appendChild(btn);
+  };
+  addBtn("#", "#");
+  for (const letter of "ABCDEFGHIJKLMNOPQRSTUVWXYZ") addBtn(letter, letter);
 }
 
 function applyFilters() {
   const q = norm(els.search.value);
   const c = els.consoleFilter.value;
-  const startsWith = els.onlyStartsWith.checked;
+  const sort = els.sortBy.value;
 
   let items = allGames;
 
   if (c) items = items.filter(g => g.console === c);
 
-  if (q) {
-    items = items.filter(g => {
-      const t = norm(g.title);
-      return startsWith ? t.startsWith(q) : t.includes(q);
+  if (q) items = items.filter(g => norm(g.title).includes(q));
+
+  if (sort === "title") {
+    items = [...items].sort((a, b) => {
+      const da = (a.display || `${a.title} [${a.serial}]`).toLowerCase();
+      const db = (b.display || `${b.title} [${b.serial}]`).toLowerCase();
+      return da.localeCompare(db);
+    });
+  } else {
+    items = [...items].sort((a, b) => {
+      const cc = (a.console || "").localeCompare(b.console || "");
+      if (cc !== 0) return cc;
+      const da = (a.display || a.title).toLowerCase();
+      const db = (b.display || b.title).toLowerCase();
+      return da.localeCompare(db);
     });
   }
 
-  els.status.textContent = `${items.length.toLocaleString()} / ${allGames.length.toLocaleString()} shown`;
-  renderList(items);
+  filteredItems = items;
+  els.status.textContent = `${items.length.toLocaleString()} / ${allGames.length.toLocaleString()}`;
+
+  if (els.listScroll) els.listScroll.scrollTop = 0;
+  if (els.sortBy.value === "title") buildLetterIndex();
+  renderAzJump();
+  updateVirtualList();
 }
 
 async function loadJson(path) {
@@ -177,7 +278,24 @@ async function init() {
 
   els.search.addEventListener("input", applyFilters);
   els.consoleFilter.addEventListener("change", applyFilters);
-  els.onlyStartsWith.addEventListener("change", applyFilters);
+  els.sortBy.addEventListener("change", applyFilters);
+
+  if (els.listScroll) {
+    els.listScroll.addEventListener("scroll", () => {
+      if (scrollRAF) cancelAnimationFrame(scrollRAF);
+      scrollRAF = requestAnimationFrame(() => {
+        updateVirtualList();
+        scrollRAF = null;
+      });
+    }, { passive: true });
+    window.addEventListener("resize", () => {
+      if (scrollRAF) cancelAnimationFrame(scrollRAF);
+      scrollRAF = requestAnimationFrame(() => {
+        updateVirtualList();
+        scrollRAF = null;
+      });
+    });
+  }
 
   applyFilters();
 }
