@@ -297,18 +297,39 @@ button.copy:active { background: rgba(255,255,255,0.1); }
 .toast.show { display: inline-block; }
 
 @media (max-width: 640px) {
-  .wrap { padding: var(--space-lg) 14px; }
-  .header-title { font-size: 1.25rem; line-height: 1.4; }
-  .controls { flex-direction: column; align-items: stretch; }
-  input[type="search"] { min-width: 0; }
+  :root { --row-height: 68px; }
+  .wrap { padding: 10px 12px; }
+  .header.sticky-bar { padding: var(--space) 12px var(--space); }
+  .header-title { font-size: 1.15rem; line-height: 1.3; margin-bottom: var(--space); }
+  .controls {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: var(--space);
+    align-items: center;
+  }
+  .controls input[type="search"] {
+    flex: 1 1 100%;
+    min-width: 0;
+    padding: var(--space) 10px;
+    font-size: 14px;
+  }
+  .controls select {
+    flex: 1 1 0;
+    min-width: 0;
+    padding: var(--space) 8px;
+    font-size: 13px;
+  }
   .card {
     grid-template-columns: 24px 1fr auto;
-    padding: var(--space-md) var(--space-md);
-    gap: var(--space-md);
+    padding: var(--space) var(--space-md);
+    gap: var(--space);
+    height: var(--row-height);
+    min-height: var(--row-height);
+    max-height: var(--row-height);
   }
   .card-icon { width: 24px; height: 24px; }
-  .card-title-box { padding: var(--space) var(--space); }
-  .card-title { font-size: 14px; line-height: 1.5; white-space: normal; }
-  .card-serial { font-size: 12px; line-height: 1.5; }
-  button.copy { min-height: 44px; line-height: 1.4; }
+  .card-title-box { padding: var(--space) var(--space); min-height: 0; overflow: visible; }
+  .card-title { font-size: 13px; line-height: 1.4; white-space: normal; overflow: visible; text-overflow: clip; display: block; }
+  .card-serial { font-size: 11px; line-height: 1.4; }
+  button.copy { min-height: 40px; padding: var(--space) var(--space-md); font-size: 13px; }
 }

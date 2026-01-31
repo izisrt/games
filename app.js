@@ -10,8 +10,12 @@ const CONSOLE_CONFIG = {
   PS1:         { icon: "ps1.png",       color: "#9ca3af" },
 };
 
-const ROW_HEIGHT = 50;
 const OVERSCAN = 8;
+
+function getRowHeight() {
+  const px = getComputedStyle(document.documentElement).getPropertyValue("--row-height").trim();
+  return px ? parseFloat(px) || 50 : 50;
+}
 
 const els = {
   search: $("#search"),
@@ -143,15 +147,16 @@ function updateVirtualList() {
     els.list.innerHTML = "";
     return;
   }
+  const rowH = getRowHeight();
   const total = filteredItems.length;
   const scrollTop = els.listScroll.scrollTop;
   const containerHeight = els.listScroll.clientHeight;
-  const start = Math.max(0, Math.floor(scrollTop / ROW_HEIGHT) - OVERSCAN);
-  const end = Math.min(total, Math.ceil((scrollTop + containerHeight) / ROW_HEIGHT) + OVERSCAN);
+  const start = Math.max(0, Math.floor(scrollTop / rowH) - OVERSCAN);
+  const end = Math.min(total, Math.ceil((scrollTop + containerHeight) / rowH) + OVERSCAN);
 
-  els.listInner.style.height = `${total * ROW_HEIGHT}px`;
-  els.listWindow.style.top = `${start * ROW_HEIGHT}px`;
-  els.listWindow.style.height = `${(end - start) * ROW_HEIGHT}px`;
+  els.listInner.style.height = `${total * rowH}px`;
+  els.listWindow.style.top = `${start * rowH}px`;
+  els.listWindow.style.height = `${(end - start) * rowH}px`;
 
   els.list.innerHTML = "";
   for (let i = start; i < end; i++) {
@@ -202,7 +207,7 @@ function renderAzJump() {
     btn.disabled = letterIndex[key] === undefined;
     btn.addEventListener("click", () => {
       const idx = letterIndex[key];
-      if (idx != null) els.listScroll.scrollTop = idx * ROW_HEIGHT;
+      if (idx != null) els.listScroll.scrollTop = idx * getRowHeight();
     });
     els.azJump.appendChild(btn);
   };
