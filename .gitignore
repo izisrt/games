@@ -1,0 +1,17 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node / Python junk (if you ever use them)
+node_modules/
+__pycache__/
+*.pyc
+
+# Archives / big stuff you probably don't want
+*.zip
+*.7z
+*.rar
+
+# Optional: if you keep raw lists locally but don't want them published
+# lists/
