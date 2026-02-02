@@ -1,9 +1,12 @@
 const $ = (sel) => document.querySelector(sel);
 
-// Console icon path (icons/ folder) and box color. Add your icon files: gamecube.png, wii.png, ps1.png, ps2.png
+// Console icon path (icons/ folder) and box color. Add your icon files: gamecube.png, wii.png, ps1.png, ps2.png, n64.png, nes.png, snes.png
 const CONSOLE_CONFIG = {
-  GameCube:    { icon: "gamecube.png", color: "#6d28d9" },   // purple
+  GameCube:    { icon: "gamecube.png", color: "#695BAE" },   // purple
   Wii:         { icon: "wii.png",       color: "#f8fafc" },  // white
+  N64:         { icon: "n64.png",       color: "#01942C" },
+  NES:         { icon: "nes.png",       color: "#FF0000" },  // gray
+  SNES:        { icon: "snes.png",      color: "#B0ACE1" },  // dark gray
   "PlayStation 1": { icon: "ps1.png",   color: "#9ca3af" },  // gray
   "PlayStation 2": { icon: "ps2.png",   color: "#1a2930" },   // dark gray
   PS2:         { icon: "ps2.png",       color: "#374151" },

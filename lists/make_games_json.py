@@ -4,8 +4,9 @@ from pathlib import Path
 
 # Matches either:
 #  - [SLUS-20265] / [SCUS-94677] etc
-#  - [RMCE01] / [GMSE01] / [RSBE01] etc (6-char disc IDs)
-SERIAL_RE = re.compile(r"\[((?:[A-Z]{3,5}-\d{3,6})|(?:[A-Z0-9]{6}))\]", re.I)
+#  - [RMCE01] / [GMSE01] etc (6-char disc IDs)
+#  - [N64] / [NES] etc (short console codes, 2–5 chars)
+SERIAL_RE = re.compile(r"\[((?:[A-Z]{3,5}-\d{3,6})|(?:[A-Z0-9]{6})|(?:[A-Z0-9]{2,5}))\]", re.I)
 
 
 def parse_file(txt_path: Path):
@@ -39,10 +40,11 @@ def parse_file(txt_path: Path):
     return games
 
 def dedupe(games):
+    """Remove duplicates by (console, serial, title) so games sharing a serial (e.g. [N64]) all stay."""
     seen = set()
     out = []
     for g in games:
-        key = (g["console"], g["serial"] or g["title"].lower())
+        key = (g["console"], g["serial"] or "", g["title"].lower())
         if key in seen:
             continue
         seen.add(key)
@@ -67,7 +69,8 @@ def main():
     all_games = dedupe(all_games)
     all_games.sort(key=lambda g: (g["console"], g["title"].lower()))
 
-    out_path = here / "games.json"
+    # Write to project root so the website loads it
+    out_path = here.parent / "games.json"
     out_path.write_text(json.dumps(all_games, indent=2, ensure_ascii=False), encoding="utf-8")
 
     print(f"\nWrote {len(all_games)} total -> {out_path}")
