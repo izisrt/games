@@ -1,4 +1,4 @@
 {
-    "visibleConsoles": []
+    "visibleConsoles": [ "n64", "snes", "ps2", "nes" , "gamecube"]
   }
   
