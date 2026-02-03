@@ -1,4 +1,11 @@
 {
-    "visibleConsoles": [ "n64", "snes", "ps2", "nes" , "gamecube"]
+  "consoles": {
+    "GameCube": true,
+    "Wii": false,
+    "N64": true,
+    "NES": true,
+    "SNES": true,
+    "PS1": true,
+    "PS2": true
   }
-  
+}

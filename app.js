@@ -7,10 +7,10 @@ const CONSOLE_CONFIG = {
   N64:         { icon: "n64.png",       color: "#01942C" },
   NES:         { icon: "nes.png",       color: "#FF0000" },  // gray
   SNES:        { icon: "snes.png",      color: "#B0ACE1" },  // dark gray
-  "PlayStation 1": { icon: "ps1.png",   color: "#9ca3af" },  // gray
+  "PlayStation 1": { icon: "PS1.png",   color: "#9ca3af" },  // gray
   "PlayStation 2": { icon: "ps2.png",   color: "#1a2930" },   // dark gray
   PS2:         { icon: "ps2.png",       color: "#374151" },
-  PS1:         { icon: "ps1.png",       color: "#9ca3af" },
+  PS1:         { icon: "PS1.png",       color: "#9ca3af" },
 };
 
 const OVERSCAN = 8;
@@ -274,11 +274,10 @@ async function init() {
   // Keep only games that have a real serial
   allGames = allGames.filter(g => typeof g.serial === "string" && g.serial.trim().length > 0);
 
-  // Apply console visibility allowlist
-  const allow = (config.visibleConsoles || []).map(s => s.trim()).filter(Boolean);
-  if (allow.length > 0) {
-    const allowSet = new Set(allow.map(s => s.toLowerCase()));
-    allGames = allGames.filter(g => allowSet.has((g.console || "").toLowerCase()));
+  // Apply console visibility: config.consoles = { "GameCube": true, "PS2": false, ... }
+  const cons = config.consoles;
+  if (cons && typeof cons === "object") {
+    allGames = allGames.filter(g => cons[g.console] === true);
   }
 
   consoles = unique(allGames.map(g => g.console).filter(Boolean));
