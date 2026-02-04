@@ -73,3 +73,31 @@ This reads all `*.txt` files in `lists/`, merges and dedupes them, and writes **
   ```
 
 After that, refresh the site (or restart the local server) to see the new systems and games.
+
+---
+
+## Cover index for box art (grid view)
+
+Game cover images live under the **`Covers/`** folder, grouped by console, e.g.:
+
+- `Covers/gamecube/...`
+- `Covers/ps2/...`
+- `Covers/wii/...`
+
+Filenames can be serial-based, title-based, or `Title [Serial]`. To avoid guessing at runtime, a small index file is built ahead of time.
+
+### Build the cover index
+
+From the project root:
+
+```bash
+npm run build:index
+```
+
+This scans `Covers/**` for image files (`.webp`, `.png`, `.jpg`, `.jpeg`) and writes a JSON index to:
+
+- `docs/coverIndex.json`
+
+The site loads this file at runtime to map each game (by console + serial/title) to a cover image without doing lots of network 404 probes.
+
+Run `npm run build:index` any time you add, remove, or rename cover images before committing or deploying.

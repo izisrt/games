@@ -10,6 +10,9 @@
   --space-lg: 16px;
   --line: 1.5;
   --row-height: 50px;
+  --grid-row-height: 220px;
+  /* Base tile width for grid view; smaller value = more columns on wide screens */
+  --grid-tile-width: 120px;
 }
 
 * { box-sizing: border-box; }
@@ -24,7 +27,7 @@ body {
 }
 
 .wrap {
-  max-width: 720px;
+  max-width: 1100px;
   margin: 0 auto;
   padding: 0 20px;
   height: 100vh;
@@ -32,6 +35,14 @@ body {
   text-align: left;
   display: flex;
   flex-direction: column;
+}
+
+/* In grid mode, let the main container span the full viewport width */
+.grid-mode .wrap {
+  max-width: none;
+  width: 100%;
+  padding-left: 12px;
+  padding-right: 12px;
 }
 
 .header {
@@ -92,6 +103,20 @@ select {
 }
 select:focus { border-color: var(--accent); }
 
+.view-toggle {
+  padding: var(--space-md) var(--space-md);
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  font-size: 14px;
+  line-height: 1.4;
+  cursor: pointer;
+}
+.view-toggle:hover {
+  border-color: var(--accent);
+}
+
 .status {
   flex-shrink: 0;
   margin: 0 0 var(--space);
@@ -149,6 +174,63 @@ select:focus { border-color: var(--accent); }
 }
 .list .card {
   flex-shrink: 0;
+}
+
+.list.grid-view {
+  display: grid;
+  /* Fixed-width columns so JS virtualization can match layout exactly */
+  grid-template-columns: repeat(auto-fill, var(--grid-tile-width));
+  justify-content: flex-start;
+  gap: var(--space);
+}
+
+.grid-tile {
+  position: relative;
+  /* PS2 cover aspect ratio (W/H = 512/736) for all tiles */
+  aspect-ratio: 512 / 736;
+  height: auto;
+  border-radius: 0;
+  background: transparent;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.grid-cover-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.grid-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.65);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px;
+  opacity: 0;
+  transition: opacity 120ms ease-out;
+}
+
+.grid-overlay-text {
+  font-size: 12px;
+  line-height: 1.3;
+  text-align: center;
+  color: var(--text);
+}
+
+.grid-tile:hover .grid-overlay {
+  opacity: 1;
+}
+
+/* For missing covers, always show the overlay text (title/serial) */
+.grid-tile.missing-cover .grid-overlay {
+  opacity: 1;
+}
+.grid-tile.missing-cover .grid-overlay-text {
+  color: #ffffff;
 }
 
 .card {
@@ -297,7 +379,7 @@ button.copy:active { background: rgba(255,255,255,0.1); }
 .toast.show { display: inline-block; }
 
 @media (max-width: 640px) {
-  :root { --row-height: 68px; }
+  :root { --row-height: 68px; --grid-row-height: 200px; }
   .wrap { padding: 10px 12px; }
   .header.sticky-bar { padding: var(--space) 12px var(--space); }
   .header-title { font-size: 1.15rem; line-height: 1.3; margin-bottom: var(--space); }
@@ -313,7 +395,8 @@ button.copy:active { background: rgba(255,255,255,0.1); }
     padding: var(--space) 10px;
     font-size: 14px;
   }
-  .controls select {
+  .controls select,
+  .controls .view-toggle {
     flex: 1 1 0;
     min-width: 0;
     padding: var(--space) 8px;
