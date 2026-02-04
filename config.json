@@ -1,7 +1,7 @@
 {
   "consoles": {
     "GameCube": true,
-    "Wii": false,
+    "Wii": true,
     "N64": true,
     "NES": true,
     "SNES": true,
