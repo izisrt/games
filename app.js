@@ -459,6 +459,7 @@ function applyFilters() {
   const q = norm(els.search.value);
   const c = els.consoleFilter.value;
   const sort = els.sortBy.value;
+  const searchText = getSearchText();
 
   let items = allGames;
 
@@ -467,14 +468,26 @@ function applyFilters() {
   if (q) items = items.filter(g => norm(g.title).includes(q));
 
   let sorted = [...items];
+  let effectiveSort = sort;
 
-  if (sort === "title") {
+  // In grid view, switch to alphabetical when searching, back to random when cleared.
+  if (viewMode === "grid" && els.sortBy) {
+    if (searchText.length > 0 && effectiveSort === "random") {
+      effectiveSort = "title";
+      els.sortBy.value = "title";
+    } else if (searchText.length === 0 && effectiveSort === "title") {
+      effectiveSort = "random";
+      els.sortBy.value = "random";
+    }
+  }
+
+  if (effectiveSort === "title") {
     sorted.sort((a, b) => {
       const da = (a.display || `${a.title} [${a.serial}]`).toLowerCase();
       const db = (b.display || `${b.title} [${b.serial}]`).toLowerCase();
       return da.localeCompare(db);
     });
-  } else if (sort === "console") {
+  } else if (effectiveSort === "console") {
     sorted.sort((a, b) => {
       const cc = (a.console || "").localeCompare(b.console || "");
       if (cc !== 0) return cc;
@@ -482,7 +495,7 @@ function applyFilters() {
       const db = (b.display || b.title).toLowerCase();
       return da.localeCompare(db);
     });
-  } else if (sort === "random") {
+  } else if (effectiveSort === "random") {
     // Fisher–Yates shuffle for random but deterministic within this call
     for (let i = sorted.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
