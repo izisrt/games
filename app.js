@@ -3,6 +3,7 @@ const $ = (sel) => document.querySelector(sel);
 // Console icon path (icons/ folder) and box color. Add your icon files: gamecube.png, wii.png, ps1.png, ps2.png, n64.png, nes.png, snes.png
 const CONSOLE_CONFIG = {
   GameCube:    { icon: "gamecube.png", color: "#695BAE" },   // purple
+  DS:          { icon: "ds.png",       color: "#334155" },   // slate (add icons/ds.png)
   GBA:         { icon: "missing.webp",  color: "#3b82f6" },  // placeholder icon; replace with gba.png if desired
   Wii:         { icon: "wii.png",       color: "#f8fafc" },  // white
   N64:         { icon: "n64.png",       color: "#01942C" },
@@ -39,7 +40,11 @@ function getSearchText() {
 
 const els = {
   search: $("#search"),
-  consoleFilter: $("#consoleFilter"),
+  consolePicker: $("#consolePicker"),
+  consolePickerSummary: $("#consolePickerSummary"),
+  consoleChecks: $("#consoleChecks"),
+  consoleSelectAll: $("#consoleSelectAll"),
+  consoleSelectNone: $("#consoleSelectNone"),
   sortBy: $("#sortBy"),
   viewToggle: $("#viewToggle"),
   list: $("#list"),
@@ -56,6 +61,7 @@ let filteredItems = [];
 let letterIndex = {};
 let scrollRAF = null;
 let gridItems = null; // derived array used only in grid view
+let selectedConsoles = null; // Set<string> | null
 
 // --- Helpers shared by list + grid views ---
 
@@ -72,6 +78,7 @@ function getConsoleKey(consoleName) {
   const c = (consoleName || "").toLowerCase();
   // Covers for Wii and GameCube currently live under a shared "wii_gc" folder
   if (c === "wii" || c === "gamecube") return "wii_gc";
+  if (c === "ds" || c === "nds") return "ds";
   if (c === "gba") return "gba";
   if (c === "gamecube") return "gamecube";
   if (c === "wii") return "wii";
@@ -104,7 +111,9 @@ function getCoverUrl(g) {
   const byTitleForConsole =
     (coverIndex.byTitle && coverIndex.byTitle[key]) || {};
 
-  const rawSerial = (g.serial || "").toUpperCase().trim();
+  // `g.serial` is what we display/copy (console tag like "PS2", "Wii", "GC").
+  // For systems that have real IDs, we keep them in `g.id` for cover lookup.
+  const rawSerial = (g.id || g.serial || "").toUpperCase().trim();
   const isSerialConsole = SERIAL_FIRST_CONSOLES.has(key);
   const isGenericSerial = GENERIC_SERIALS.has(rawSerial);
 
@@ -210,14 +219,61 @@ async function copyText(text) {
   }
 }
 
-function renderConsoles() {
-  els.consoleFilter.innerHTML = `<option value="">All consoles</option>`;
-  for (const c of consoles) {
-    const opt = document.createElement("option");
-    opt.value = c;
-    opt.textContent = c;
-    els.consoleFilter.appendChild(opt);
+function updateConsolePickerSummary() {
+  if (!els.consolePickerSummary) return;
+  const total = consoles.length;
+  const selected = selectedConsoles ? selectedConsoles.size : 0;
+  if (selected === 0) {
+    els.consolePickerSummary.textContent = "No consoles";
+  } else if (selected === total) {
+    els.consolePickerSummary.textContent = "All consoles";
+  } else {
+    els.consolePickerSummary.textContent = `Consoles (${selected}/${total})`;
   }
+}
+
+function getSelectedConsoleSet() {
+  if (selectedConsoles) return selectedConsoles;
+  selectedConsoles = new Set();
+  if (!els.consoleChecks) return selectedConsoles;
+  const inputs = els.consoleChecks.querySelectorAll('input[type="checkbox"][data-console]');
+  for (const input of inputs) {
+    if (input.checked) selectedConsoles.add(input.dataset.console);
+  }
+  return selectedConsoles;
+}
+
+function setAllConsoleChecks(checked) {
+  if (!els.consoleChecks) return;
+  const inputs = els.consoleChecks.querySelectorAll('input[type="checkbox"][data-console]');
+  for (const input of inputs) input.checked = checked;
+  selectedConsoles = new Set(checked ? consoles : []);
+  updateConsolePickerSummary();
+}
+
+function renderConsoles() {
+  if (!els.consoleChecks) return;
+  els.consoleChecks.innerHTML = "";
+  selectedConsoles = new Set(consoles); // default: all on
+
+  for (const c of consoles) {
+    const label = document.createElement("label");
+    label.className = "console-check";
+
+    const cb = document.createElement("input");
+    cb.type = "checkbox";
+    cb.checked = true;
+    cb.dataset.console = c;
+
+    const text = document.createElement("span");
+    text.textContent = c;
+
+    label.appendChild(cb);
+    label.appendChild(text);
+    els.consoleChecks.appendChild(label);
+  }
+
+  updateConsolePickerSummary();
 }
 
 function getConsoleStyle(consoleName) {
@@ -291,6 +347,9 @@ function createGridTile(g) {
   img.dataset.src = coverUrl;
 
   const consoleKey = getConsoleKey(g.console);
+  // Useful for console-specific styling (crop tweaks, etc.)
+  if (g.console) li.dataset.console = g.console;
+  if (consoleKey) li.dataset.consoleKey = consoleKey;
   // For PS2 (and optionally PS1 / Wii+GC shared set), use contain so the full cover shows.
   if (consoleKey === "ps2" || consoleKey === "ps1" || consoleKey === "wii_gc") {
     img.classList.add("fit-contain");
@@ -456,13 +515,17 @@ function renderAzJump() {
 
 function applyFilters() {
   const q = norm(els.search.value);
-  const c = els.consoleFilter.value;
   const sort = els.sortBy.value;
   const searchText = getSearchText();
 
   let items = allGames;
 
-  if (c) items = items.filter(g => g.console === c);
+  const selected = getSelectedConsoleSet();
+  if (selected.size > 0) {
+    items = items.filter(g => selected.has(g.console));
+  } else {
+    items = [];
+  }
 
   if (q) items = items.filter(g => norm(g.title).includes(q));
 
@@ -511,12 +574,11 @@ function applyFilters() {
     const showMissing = searchText.length >= 2;
     if (showMissing) {
       gridItems = filteredItems;
-      els.status.textContent = `${filteredItems.length.toLocaleString()} / ${allGames.length.toLocaleString()}`;
+      els.status.textContent = `${filteredItems.length.toLocaleString()} / ${allGames.length.toLocaleString()} — Click cover art to copy title`;
     } else {
       gridItems = filteredItems.filter(hasCover);
       const visible = gridItems.length;
-      els.status.textContent =
-        `${visible.toLocaleString()} / ${filteredItems.length.toLocaleString()} (missing covers hidden; type 2+ letters to include)`;
+      els.status.textContent = `${visible.toLocaleString()} / ${filteredItems.length.toLocaleString()} — Click cover art to copy title`;
     }
   } else {
     gridItems = null;
@@ -566,7 +628,29 @@ async function init() {
   }
 
   els.search.addEventListener("input", applyFilters);
-  els.consoleFilter.addEventListener("change", applyFilters);
+  if (els.consoleChecks) {
+    els.consoleChecks.addEventListener("change", (e) => {
+      const t = e.target;
+      if (!t || t.type !== "checkbox" || !t.dataset.console) return;
+      const set = getSelectedConsoleSet();
+      if (t.checked) set.add(t.dataset.console);
+      else set.delete(t.dataset.console);
+      updateConsolePickerSummary();
+      applyFilters();
+    });
+  }
+  if (els.consoleSelectAll) {
+    els.consoleSelectAll.addEventListener("click", () => {
+      setAllConsoleChecks(true);
+      applyFilters();
+    });
+  }
+  if (els.consoleSelectNone) {
+    els.consoleSelectNone.addEventListener("click", () => {
+      setAllConsoleChecks(false);
+      applyFilters();
+    });
+  }
   els.sortBy.addEventListener("change", applyFilters);
   if (els.viewToggle) {
     els.viewToggle.addEventListener("click", () => {
@@ -611,6 +695,9 @@ async function init() {
       const target = event.target;
       const tag = target && target.tagName;
       if (tag === "INPUT" || tag === "TEXTAREA" || tag === "SELECT" || tag === "BUTTON") {
+        return;
+      }
+      if (els.consolePicker && els.consolePicker.contains(target)) {
         return;
       }
 

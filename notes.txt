@@ -1,0 +1,13 @@
+python -m http.server 8080 
+
+npm run build:games
+
+
+
+git status
+
+git add -A
+
+git commit -m "Update files"
+
+git push

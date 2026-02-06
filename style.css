@@ -103,6 +103,81 @@ select {
 }
 select:focus { border-color: var(--accent); }
 
+.console-picker {
+  position: relative;
+}
+.console-picker > summary {
+  list-style: none;
+  padding: var(--space-md) var(--space-md);
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  font-size: 14px;
+  line-height: 1.4;
+  cursor: pointer;
+  user-select: none;
+  outline: none;
+}
+.console-picker > summary::-webkit-details-marker { display: none; }
+.console-picker[open] > summary { border-color: var(--accent); }
+.console-picker-panel {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  min-width: 240px;
+  max-width: min(360px, calc(100vw - 24px));
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+  z-index: 20;
+}
+.console-picker-actions {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+.console-picker-actions button {
+  flex: 1;
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.04);
+  color: var(--text);
+  font-size: 13px;
+  cursor: pointer;
+}
+.console-picker-actions button:hover { border-color: var(--accent); }
+.console-checks {
+  display: grid;
+  gap: 8px;
+  max-height: 260px;
+  overflow: auto;
+  padding-right: 4px;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.25) transparent;
+}
+.console-checks::-webkit-scrollbar { width: 8px; }
+.console-checks::-webkit-scrollbar-track { background: transparent; }
+.console-checks::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.25);
+  border-radius: 4px;
+}
+.console-check {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 13px;
+  line-height: 1.2;
+}
+.console-check input[type="checkbox"] {
+  width: 16px;
+  height: 16px;
+  accent-color: var(--accent);
+}
+
 .view-toggle {
   padding: var(--space-md) var(--space-md);
   border-radius: 8px;
@@ -199,7 +274,13 @@ select:focus { border-color: var(--accent); }
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: 50% 50%;
   display: block;
+}
+
+/* GBA covers: keep cover-crop but bias view to the right */
+.grid-tile[data-console="GBA"] .grid-cover-img:not(.fit-contain) {
+  object-position: 88% 50%;
 }
 
 .grid-overlay {
@@ -396,11 +477,19 @@ button.copy:active { background: rgba(255,255,255,0.1); }
     font-size: 14px;
   }
   .controls select,
-  .controls .view-toggle {
+  .controls .view-toggle,
+  .controls .console-picker {
     flex: 1 1 0;
     min-width: 0;
     padding: var(--space) 8px;
     font-size: 13px;
+  }
+  .console-picker-panel {
+    position: static;
+    margin-top: 8px;
+    min-width: 0;
+    max-width: none;
+    width: 100%;
   }
   .card {
     grid-template-columns: 24px 1fr auto;

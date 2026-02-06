@@ -1,0 +1,107 @@
+Generated: 2026-02-06T17:00:48
+ROMs found: 1644
+Indexed games: 1644
+Matched to DAT (SHA1): 1644
+Matched to DAT (name): 0
+Missing DAT match: 0
+Missing cover: 61
+Duplicate entry IDs: 0
+Cover name dupes: 33
+
+=== Duplicate cover names (normalized stem collisions) ===
+aly aj adventure, the (usa): Aly & AJ Adventure, The (USA).webp, Aly _ AJ Adventure, The (USA).webp
+brain quest grades 3 4 (usa): Brain Quest - Grades 3 & 4 (USA).webp, Brain Quest - Grades 3 _ 4 (USA).webp
+brain quest grades 5 6 (usa): Brain Quest - Grades 5 & 6 (USA).webp, Brain Quest - Grades 5 _ 6 (USA).webp
+cookie cream (usa): Cookie & Cream (USA).webp, Cookie _ Cream (USA).webp
+cooking mama 3 shop chop (usa): Cooking Mama 3 - Shop & Chop (USA).webp, Cooking Mama 3 - Shop _ Chop (USA).webp
+dora kai lan's pet shelter (usa): Dora & Kai-Lan's Pet Shelter (USA).webp, Dora _ Kai-Lan's Pet Shelter (USA).webp
+elf bowling 1 2 (usa): Elf Bowling 1 & 2 (USA).webp, Elf Bowling 1 _ 2 (USA).webp
+harlem globetrotters world tour (usa): Harlem Globetrotters - World Tour (USA).webp, Harlem Globetrotters World Tour (USA).webp
+hi hi puffy amiyumi the genie the amp (usa): Hi Hi Puffy AmiYumi - The Genie & the Amp (USA).webp, Hi Hi Puffy AmiYumi - The Genie _ the Amp (USA).webp
+holly hobbie friends (usa): Holly Hobbie & Friends (USA).webp, Holly Hobbie _ Friends (USA).webp
+junior classic books fairytales (usa): Junior Classic Books & Fairytales (USA).webp, Junior Classic Books _ Fairytales (USA).webp
+kids learn math a+ edition (usa): Kids Learn - Math - A+ Edition (USA).webp, Kids Learn Math - A+ Edition (USA).webp
+kids learn spelling grammar a+ edition (usa): Kids Learn - Spelling and Grammar - A+ Edition (USA).webp, Kids Learn Spelling and Grammar - A+ Edition (USA).webp
+legacy of ys books i ii (usa): Legacy of Ys - Books I & II (USA).webp, Legacy of Ys - Books I _ II (USA).webp
+loving life with hello kitty friends (usa): Loving Life with Hello Kitty & Friends (USA).webp, Loving Life with Hello Kitty _ Friends (USA).webp
+my virtual tutor reading 1st grade to 2nd grade (usa): My Virtual Tutor - Reading - 1st Grade to 2nd Grade (USA).webp, My Virtual Tutor - Reading 1st Grade to 2nd Grade (USA).webp
+my virtual tutor reading pre k to kindergarten (usa): My Virtual Tutor - Reading - Pre-K to Kindergarten (USA).webp, My Virtual Tutor - Reading Pre-K to Kindergarten (USA).webp
+mysterious case of dr. jekyll mr. hyde, the (usa): Mysterious Case of Dr. Jekyll & Mr. Hyde, The (USA).webp, Mysterious Case of Dr. Jekyll _ Mr. Hyde, The (USA).webp
+m m's adventure (usa): M&M's - Adventure (USA).webp, M_M's - Adventure (USA).webp
+nintendogs chihuahua friends (usa): Nintendogs - Chihuahua & Friends (USA).webp, Nintendogs - Chihuahua _ Friends (USA).webp
+nintendogs dachshund friends (usa): Nintendogs - Dachshund & Friends (USA).webp, Nintendogs - Dachshund _ Friends (USA).webp
+original frisbee disc sports ultimate golf (usa): Original Frisbee Disc Sports - Ultimate & Golf (USA).webp, Original Frisbee Disc Sports - Ultimate _ Golf (USA).webp
+paws claws best friends dogs cats (usa): Paws & Claws - Best Friends - Dogs & Cats (USA).webp, Paws _ Claws - Best Friends - Dogs _ Cats (USA).webp
+paws claws pampered pets (usa): Paws & Claws - Pampered Pets (USA).webp, Paws _ Claws - Pampered Pets (USA).webp
+paws claws pet resort (usa): Paws & Claws - Pet Resort (USA).webp, Paws _ Claws - Pet Resort (USA).webp
+paws claws pet vet (usa): Paws & Claws - Pet Vet (USA).webp, Paws _ Claws - Pet Vet (USA).webp
+paws claws pet vet australian adventures (usa): Paws & Claws - Pet Vet - Australian Adventures (USA).webp, Paws _ Claws - Pet Vet - Australian Adventures (USA).webp
+paws claws pet vet 2 (usa): Paws & Claws - Pet Vet 2 (USA).webp, Paws _ Claws - Pet Vet 2 (USA).webp
+paws claws regal resort (usa): Paws & Claws - Regal Resort (USA).webp, Paws _ Claws - Regal Resort (USA).webp
+ringling bros. barnum bailey circus friends asian elephants (usa): Ringling Bros. and Barnum & Bailey - Circus Friends - Asian Elephants (USA).webp, Ringling Bros. and Barnum _ Bailey - Circus Friends - Asian Elephants (USA).webp
+shrek ogres dronkeys (usa): Shrek - Ogres & Dronkeys (USA).webp, Shrek - Ogres _ Dronkeys (USA).webp
+sudokuro sudoku kakuro games (usa): Sudokuro - Sudoku & Kakuro Games (USA).webp, Sudokuro - Sudoku _ Kakuro Games (USA).webp
+witches vampires the secrets of ashburry (usa): Witches & Vampires - The Secrets of Ashburry (USA).webp, Witches _ Vampires - The Secrets of Ashburry (USA).webp
+
+=== Missing cover (by No-Intro name) ===
+2006 FIFA World Cup - Germany 2006 (USA) (En,Fr,De,Es,It)
+Amazing Spider-Man, The (USA) (En,Fr,Es)
+AniMates! (USA) (En,Fr)
+Army Men - Soldiers of Misfortune (USA) (En,Fr,De,Es,It)
+Biker Mice from Mars (USA) (En,Fr,Es)
+Charlotte's Web (USA) (En,Fr,De,Es,It)
+Chicken Little - Ace in Action (USA) (En,Fr,De,Es,It)
+DiRT 2 (USA) (En,Fr,Es)
+Dream Chronicles (USA) (En,Fr)
+FIFA Soccer 07 (USA) (En,Fr,De,Es,It,Nl)
+Finding Nemo - Escape to the Big Blue - Special Edition (USA) (En,Fr,Es) (Rev 1)
+Happy Feet (USA) (En,Fr)
+I Spy - Game Pack (USA)
+Jam Sessions - Sing and Play Guitar (USA) (En,Fr,De,Es,It,Nl) (Rev 1)
+Jambo! Safari - Animal Rescue (USA) (En,Fr,De,Es,It)
+Jewel Master - Cradle of Athena (USA) (En,Fr,Es) (Rev 1)
+Jillian Michaels Fitness Ultimatum 2010 (USA) (En,Es)
+Jonas (USA) (En,Fr,Es) (Rev 1)
+Junior Mystery Quest (USA) (En,Fr,Es)
+Just in Time Translations - Say It in 6 Languages (USA) (En,Ja,Fr,De,Es,It,Zh)
+Knights (USA) (En,Fr,De,Es,Nl)
+Master of Illusion (USA, Australia)
+Max & the Magic Marker (USA) (En,Fr,De,Es,Nl)
+Monster Jam - Path of Destruction (USA) (En,Fr)
+My Fun Facts Coach (USA) (En,Fr)
+Mystery Case Files - MillionHeir (USA, Australia) (En,Fr,Es) (Rev 1)
+Need for Speed Carbon - Own the City (USA) (En,Fr,De,Es,It)
+Nintendo DS Browser (USA, Europe) (En,Fr,De,Es,It)
+Petz - Catz Clan (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da) (Rev 1)
+Petz - Horseshoe Ranch (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da)
+Petz - Monkeyz House (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da)
+Petz - Pony Beauty Pageant (USA) (En,Fr,Es)
+Petz Rescue - Endangered Paradise (USA) (En,Fr,Es)
+Petz Rescue - Ocean Patrol (USA) (En,Fr,Es)
+Petz Rescue - Wildlife Vet (USA) (En,Fr,Es,Pt)
+Phineas and Ferb (USA) (En,Fr) (Rev 1)
+Pirates (USA) (En,Fr,De,Es,Nl)
+Relay Station (USA)
+Rubik's World (USA) (En,Fr,Es)
+Salon Superstar (USA) (En,Fr,De,Es,It)
+SEGA Casino (USA) (En,Fr,De,Es,It)
+SEGA Superstars Tennis (USA) (En,Fr,De,Es,It)
+Skate It (USA) (En,Fr,De,Es,It,Nl)
+Spider-Man - Web of Shadows (USA) (En,Fr)
+SpongeBob SquarePants Featuring Nicktoons - Globs of Doom (USA) (En,Fr)
+SpongeBob's Surf & Skate - Roadtrip (USA) (En,Fr,Es)
+Superman Returns (USA) (En,Fr,De,Es,It)
+th!nk - Logic Trainer (USA)
+th!nk - Logic Trainer - KIDS! (USA)
+thinkSMART - Chess for Kids (USA) (En,Fr,Es)
+thinkSMART - Labyrinth (USA) (En,Fr)
+thinkSMART - Power UP your brain! (USA) (Rev 1)
+thinkSMART - Power UP your brain! - Kids 8+ (USA) (Rev 1)
+Tom and Jerry Tales (USA) (En,Fr,Es)
+Tom Clancy's EndWar (USA) (En,Fr)
+Ultimate Card Games (USA) (En,Fr,Es)
+USA Today - Crossword Challenge (USA) (En,Es)
+WWE SmackDown vs Raw 2009 Featuring ECW (USA) (En,Fr)
+WWE SmackDown vs Raw 2010 Featuring ECW (USA) (En,Fr,Es)
+Zenses - Ocean (USA) (En,Fr,Es) (Rev 1)
+Zenses - Rainforest (USA) (En,Fr,Es) (Rev 1)

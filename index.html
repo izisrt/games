@@ -12,9 +12,16 @@
       <h1 class="header-title">Game Library</h1>
       <section class="controls">
         <input id="search" type="search" placeholder="Search games" autocomplete="off" aria-label="Search games" />
-        <select id="consoleFilter" aria-label="Filter by console">
-          <option value="">All consoles</option>
-        </select>
+        <details id="consolePicker" class="console-picker">
+          <summary id="consolePickerSummary" aria-label="Filter by console">All consoles</summary>
+          <div class="console-picker-panel" role="group" aria-label="Console filters">
+            <div class="console-picker-actions">
+              <button id="consoleSelectAll" type="button">Select all</button>
+              <button id="consoleSelectNone" type="button">Deselect all</button>
+            </div>
+            <div id="consoleChecks" class="console-checks"></div>
+          </div>
+        </details>
         <select id="sortBy" aria-label="Sort by">
           <option value="title">A–Z</option>
           <option value="console">By console</option>
