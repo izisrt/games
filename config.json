@@ -1,6 +1,7 @@
 {
   "consoles": {
     "GameCube": true,
+    "GBA": true,
     "Wii": true,
     "N64": true,
     "NES": true,

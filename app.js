@@ -3,6 +3,7 @@ const $ = (sel) => document.querySelector(sel);
 // Console icon path (icons/ folder) and box color. Add your icon files: gamecube.png, wii.png, ps1.png, ps2.png, n64.png, nes.png, snes.png
 const CONSOLE_CONFIG = {
   GameCube:    { icon: "gamecube.png", color: "#695BAE" },   // purple
+  GBA:         { icon: "missing.webp",  color: "#3b82f6" },  // placeholder icon; replace with gba.png if desired
   Wii:         { icon: "wii.png",       color: "#f8fafc" },  // white
   N64:         { icon: "n64.png",       color: "#01942C" },
   NES:         { icon: "nes.png",       color: "#FF0000" },  // gray
@@ -71,6 +72,7 @@ function getConsoleKey(consoleName) {
   const c = (consoleName || "").toLowerCase();
   // Covers for Wii and GameCube currently live under a shared "wii_gc" folder
   if (c === "wii" || c === "gamecube") return "wii_gc";
+  if (c === "gba") return "gba";
   if (c === "gamecube") return "gamecube";
   if (c === "wii") return "wii";
   if (c === "n64") return "n64";
@@ -152,11 +154,8 @@ function setViewMode(mode) {
 
   // Adjust default sort per mode
   if (els.sortBy) {
-    if (viewMode === "grid" && els.sortBy.value !== "random") {
-      els.sortBy.value = "random";
-    } else if (viewMode === "list" && els.sortBy.value === "random") {
-      els.sortBy.value = "title";
-    }
+    if (viewMode === "grid") els.sortBy.value = "random";
+    if (viewMode === "list") els.sortBy.value = "title";
   }
 
   updateViewModeUI();
@@ -470,12 +469,12 @@ function applyFilters() {
   let sorted = [...items];
   let effectiveSort = sort;
 
-  // In grid view, switch to alphabetical when searching, back to random when cleared.
+  // In grid view: typing forces A–Z, clearing forces Random.
   if (viewMode === "grid" && els.sortBy) {
-    if (searchText.length > 0 && effectiveSort === "random") {
+    if (searchText.length > 0) {
       effectiveSort = "title";
       els.sortBy.value = "title";
-    } else if (searchText.length === 0 && effectiveSort === "title") {
+    } else {
       effectiveSort = "random";
       els.sortBy.value = "random";
     }

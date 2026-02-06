@@ -26,40 +26,23 @@ Stop the server with **Ctrl+C** in the terminal.
 
 ## Adding more systems and games
 
-### 1. Add a list file for each system
+### 1. Add or update an index for each system
 
-In the **`lists/`** folder, create one **`.txt`** file per console. The **filename (without .txt)** is the console name shown in the app.
+The site’s `games.json` is now generated from your per-system index files in:
 
-- Existing: `GameCube.txt`, `Wii.txt`, `PS2.txt`
-- Example for a new system: `N64.txt` or `PS1.txt`
+- `lists/Indexs/<system>_Index/<system>_index.json`
 
-### 2. Format of each line
-
-Each line = one game. Include the **serial in brackets** so the script can parse it.
-
-**Supported serial formats:**
-- `[SLUS-20265]` / `[SCUS-94677]` (PlayStation-style)
-- `[GW7E69]` / `[RMCE01]` (6-character disc IDs)
-
-**Examples:**
-```
-007 - Agent Under Fire [GW7E69]
-Super Mario 64 [NUS-006]
-```
-
-Lines without a matching serial are still added but will have no serial (and may be filtered out by the site if it only shows entries with serials). You can use blank lines or lines of `-----` as separators; they’re ignored.
-
-### 3. Rebuild `games.json`
+### 2. Rebuild `games.json`
 
 From the **project root** (the folder that contains `lists/`):
 
 ```bash
-python lists/make_games_json.py
+npm run build:games
 ```
 
-This reads all `*.txt` files in `lists/`, merges and dedupes them, and writes **`games.json`** in the project root (so the website loads it).
+This reads all `lists/Indexs/**/_index.json`, merges + dedupes, and writes **`games.json`** in the project root (so the website loads it).
 
-### 4. (Optional) Show the new console in the app
+### 3. (Optional) Show/hide consoles in the app
 
 - **Filter dropdown:** The new console appears automatically in “All consoles” and the filter once it’s in `games.json`.
 - **Icons and colors:** In **`app.js`**, add an entry to **`CONSOLE_CONFIG`** for the new console name (same as the `.txt` filename without `.txt`), e.g.:
@@ -67,10 +50,7 @@ This reads all `*.txt` files in `lists/`, merges and dedupes them, and writes **
   N64: { icon: "n64.png", color: "#333333" },
   ```
   Then add the image (e.g. `n64.png`) in the **`icons/`** folder.
-- **Config filter:** If you use **`config.json`** with `visibleConsoles`, add the new console name there if you want it included when that filter is used, e.g.:
-  ```json
-  "visibleConsoles": ["PS2", "GameCube", "N64"]
-  ```
+- **Config filter:** Use **`config.json`** `consoles` flags to show/hide systems.
 
 After that, refresh the site (or restart the local server) to see the new systems and games.
 

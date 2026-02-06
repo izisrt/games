@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "build:games": "node scripts/build_games_json.js",
+    "build:all": "npm run build:games && npm run build:index",
     "build:index": "node scripts/build_cover_index.js"
   }
 }
