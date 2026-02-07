@@ -1,0 +1,4 @@
+[2026-02-07 15:49:16] START
+[2026-02-07 15:49:16] Input=C:\RetroArch-Win64\thumbnails\Nintendo - Game Boy\Named_Boxarts Output=C:\Users\izidore\Desktop\CODING\GamesList\Covers\gb MaxBox=512x736 qPrimary=86 qFallback=82 maxKB=140 method=6 overwrite=False NoPadding=true
+[2026-02-07 15:49:16] TotalFiles=482
+[2026-02-07 15:49:54] END converted=482 skipped=0 reencoded=0 failed=0 webpCount=482 totalMB=13.6 avgKB=28.9 maxKB=94.8

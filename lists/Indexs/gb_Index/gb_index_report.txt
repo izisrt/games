@@ -1,0 +1,14 @@
+Generated: 2026-02-07T15:58:18
+ROMs found: 486
+Matched to DAT (indexed): 486
+Missing in DAT: 0
+Missing cover: 5
+Excluded UNL: 0
+Moved UNL ROMs: 0 -> F:\GB\_UNL_QUARANTINE
+
+=== DAT titles missing cover (by DAT title) ===
+Beavis and Butt-head (USA, Europe)
+Game & Watch Gallery (USA) (Rev 1) (SGB Enhanced)
+Jetsons, The - Robot Panic (USA, Europe) (Rev 1)
+RoboCop Versus The Terminator (USA)
+seaQuest DSV (USA, Europe) (SGB Enhanced)

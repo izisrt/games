@@ -283,6 +283,11 @@ select:focus { border-color: var(--accent); }
   object-position: 88% 50%;
 }
 
+/* GB covers: keep cover-crop but bias view to the left */
+.grid-tile[data-console="GB"] .grid-cover-img:not(.fit-contain) {
+  object-position: 75% 50%;
+}
+
 .grid-overlay {
   position: absolute;
   inset: 0;

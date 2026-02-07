@@ -40,6 +40,7 @@ function consoleDisplayName(metaSystem, folderName) {
   if (sys.toLowerCase() === "nes" || folder.startsWith("nes")) return "NES";
   if (sys.toLowerCase() === "snes" || folder.startsWith("snes")) return "SNES";
   if (sys.toLowerCase() === "gba" || folder.startsWith("gba")) return "GBA";
+  if (sys.toLowerCase() === "gb" || folder.startsWith("gb")) return "GB";
 
   // Fall back to system string as-is if present
   if (sys) return sys;

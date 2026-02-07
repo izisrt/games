@@ -54,6 +54,7 @@ function consoleKeyFromIndexFolder(folderName) {
   if (base.startsWith("nes")) return "nes";
   if (base.startsWith("snes")) return "snes";
   if (base.startsWith("gba")) return "gba";
+  if (base.startsWith("gb")) return "gb";  // after gba so gba_Index doesn't match
   // Wii + GC covers live under shared Covers/wii_gc, and runtime expects "wii_gc"
   if (base.startsWith("wii") || base.startsWith("gc")) return "wii_gc";
   return null;

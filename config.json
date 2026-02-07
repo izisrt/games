@@ -2,6 +2,7 @@
   "consoles": {
     "GameCube": true,
     "DS": true,
+    "GB": true,
     "GBA": true,
     "Wii": true,
     "N64": true,
@@ -11,5 +12,3 @@
     "PS2": true
   }
 }
-
-
