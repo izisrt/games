@@ -1,4 +1,0 @@
-[2026-02-06 15:13:08] START
-[2026-02-06 15:13:08] Input=C:\RetroArch-Win64\thumbnails\Nintendo - Nintendo DS\Named_Boxarts Output=C:\Users\izidore\Desktop\CODING\GamesList\Covers\ds MaxBox=512x736 qPrimary=92 qFallback=86 maxKB=140 method=6 overwrite=False NoPadding=true
-[2026-02-06 15:13:08] TotalFiles=1575
-[2026-02-06 15:15:21] END converted=1575 skipped=0 reencoded=0 failed=0 webpCount=1575 totalMB=100.9 avgKB=65.6 maxKB=115.7

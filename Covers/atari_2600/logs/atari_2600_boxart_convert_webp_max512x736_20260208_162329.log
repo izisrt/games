@@ -1,4 +1,0 @@
-[2026-02-08 16:23:29] START
-[2026-02-08 16:23:29] Input=C:\RetroArch-Win64\thumbnails\Atari - 2600\Named_Boxarts Output=C:\Users\izidore\Desktop\CODING\GamesList\Covers\atari_2600 MaxBox=512x736 qPrimary=86 qFallback=82 maxKB=140 method=6 overwrite=False NoPadding=true
-[2026-02-08 16:23:29] TotalFiles=450
-[2026-02-08 16:24:13] END converted=450 skipped=0 reencoded=0 failed=0 webpCount=450 totalMB=22.9 avgKB=52.1 maxKB=121.7
