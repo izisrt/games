@@ -1,5 +1,2735 @@
 [
   {
+    "title": "3-D Tic-Tac-Toe",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "3-D Tic-Tac-Toe [2600]"
+  },
+  {
+    "title": "Adventure",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Adventure [2600]"
+  },
+  {
+    "title": "Adventures of TRON",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Adventures of TRON [2600]"
+  },
+  {
+    "title": "Air Raid",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Air Raid [2600]"
+  },
+  {
+    "title": "Air Raiders",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Air Raiders [2600]"
+  },
+  {
+    "title": "Air-Sea Battle ~ Target Fun",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Air-Sea Battle ~ Target Fun [2600]"
+  },
+  {
+    "title": "Airlock",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Airlock [2600]"
+  },
+  {
+    "title": "Alien",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Alien [2600]"
+  },
+  {
+    "title": "Alpha Beam with Ernie",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Alpha Beam with Ernie [2600]"
+  },
+  {
+    "title": "Amidar",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Amidar [2600]"
+  },
+  {
+    "title": "Armor Ambush",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Armor Ambush [2600]"
+  },
+  {
+    "title": "Artillery Duel",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Artillery Duel [2600]"
+  },
+  {
+    "title": "Assault",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Assault [2600]"
+  },
+  {
+    "title": "Asteroids",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Asteroids [2600]"
+  },
+  {
+    "title": "Astroblast",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Astroblast [2600]"
+  },
+  {
+    "title": "Atari Video Cube",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Atari Video Cube [2600]"
+  },
+  {
+    "title": "Atlantis",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Atlantis [2600]"
+  },
+  {
+    "title": "Atlantis II",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Atlantis II [2600]"
+  },
+  {
+    "title": "Bachelor Party",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Bachelor Party [2600]"
+  },
+  {
+    "title": "Bachelorette Party",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Bachelorette Party [2600]"
+  },
+  {
+    "title": "Backgammon",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Backgammon [2600]"
+  },
+  {
+    "title": "Bank Heist",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Bank Heist [2600]"
+  },
+  {
+    "title": "Barnstorming",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Barnstorming [2600]"
+  },
+  {
+    "title": "Basic Math",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Basic Math [2600]"
+  },
+  {
+    "title": "BASIC Programming",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "BASIC Programming [2600]"
+  },
+  {
+    "title": "Basketball",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Basketball [2600]"
+  },
+  {
+    "title": "Battlezone",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Battlezone [2600]"
+  },
+  {
+    "title": "Beamrider",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Beamrider [2600]"
+  },
+  {
+    "title": "Beany Bopper",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Beany Bopper [2600]"
+  },
+  {
+    "title": "Beat'Em & Eat'Em",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Beat'Em & Eat'Em [2600]"
+  },
+  {
+    "title": "Berenstain Bears",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Berenstain Bears [2600]"
+  },
+  {
+    "title": "Bermuda Triangle",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Bermuda Triangle [2600]"
+  },
+  {
+    "title": "Berzerk",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Berzerk [2600]"
+  },
+  {
+    "title": "Big Bird's Egg Catch",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Big Bird's Egg Catch [2600]"
+  },
+  {
+    "title": "Black Jack",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Black Jack [2600]"
+  },
+  {
+    "title": "Blueprint",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Blueprint [2600]"
+  },
+  {
+    "title": "BMX Air Master",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "BMX Air Master [2600]"
+  },
+  {
+    "title": "Bobby Is Going Home",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Bobby Is Going Home [2600]"
+  },
+  {
+    "title": "Boing!",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Boing! [2600]"
+  },
+  {
+    "title": "Bowling",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Bowling [2600]"
+  },
+  {
+    "title": "Boxing",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Boxing [2600]"
+  },
+  {
+    "title": "Brain Games",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Brain Games [2600]"
+  },
+  {
+    "title": "Breakout ~ Breakaway IV",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Breakout ~ Breakaway IV [2600]"
+  },
+  {
+    "title": "Bridge",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Bridge [2600]"
+  },
+  {
+    "title": "Buck Rogers - Planet of Zoom",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Buck Rogers - Planet of Zoom [2600]"
+  },
+  {
+    "title": "Bugs",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Bugs [2600]"
+  },
+  {
+    "title": "Bump 'n' Jump",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Bump 'n' Jump [2600]"
+  },
+  {
+    "title": "Bumper Bash",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Bumper Bash [2600]"
+  },
+  {
+    "title": "BurgerTime",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "BurgerTime [2600]"
+  },
+  {
+    "title": "Burning Desire",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Burning Desire [2600]"
+  },
+  {
+    "title": "Cakewalk",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Cakewalk [2600]"
+  },
+  {
+    "title": "California Games",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "California Games [2600]"
+  },
+  {
+    "title": "Canyon Bomber",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Canyon Bomber [2600]"
+  },
+  {
+    "title": "Carnival",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Carnival [2600]"
+  },
+  {
+    "title": "Casino ~ Poker Plus",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Casino ~ Poker Plus [2600]"
+  },
+  {
+    "title": "Cat Trax",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Cat Trax [2600]"
+  },
+  {
+    "title": "Cathouse Blues",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Cathouse Blues [2600]"
+  },
+  {
+    "title": "Centipede",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Centipede [2600]"
+  },
+  {
+    "title": "Championship Soccer ~ Soccer",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Championship Soccer ~ Soccer [2600]"
+  },
+  {
+    "title": "Chase the Chuck Wagon",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Chase the Chuck Wagon [2600]"
+  },
+  {
+    "title": "Checkers",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Checkers [2600]"
+  },
+  {
+    "title": "China Syndrome",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "China Syndrome [2600]"
+  },
+  {
+    "title": "Chopper Command",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Chopper Command [2600]"
+  },
+  {
+    "title": "Chuck Norris Superkicks",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Chuck Norris Superkicks [2600]"
+  },
+  {
+    "title": "Circus Atari",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Circus Atari [2600]"
+  },
+  {
+    "title": "Coco Nuts",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Coco Nuts [2600]"
+  },
+  {
+    "title": "Codebreaker",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Codebreaker [2600]"
+  },
+  {
+    "title": "Color Bar Generator",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Color Bar Generator [2600]"
+  },
+  {
+    "title": "Combat ~ Tank-Plus",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Combat ~ Tank-Plus [2600]"
+  },
+  {
+    "title": "Commando",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Commando [2600]"
+  },
+  {
+    "title": "Commando Raid",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Commando Raid [2600]"
+  },
+  {
+    "title": "Communist Mutants from Space",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Communist Mutants from Space [2600]"
+  },
+  {
+    "title": "Condor Attack",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Condor Attack [2600]"
+  },
+  {
+    "title": "Congo Bongo",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Congo Bongo [2600]"
+  },
+  {
+    "title": "Cookie Monster Munch",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Cookie Monster Munch [2600]"
+  },
+  {
+    "title": "Cosmic Ark",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Cosmic Ark [2600]"
+  },
+  {
+    "title": "Cosmic Commuter",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Cosmic Commuter [2600]"
+  },
+  {
+    "title": "Cosmic Creeps",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Cosmic Creeps [2600]"
+  },
+  {
+    "title": "Cosmic Swarm",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Cosmic Swarm [2600]"
+  },
+  {
+    "title": "Crackpots",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Crackpots [2600]"
+  },
+  {
+    "title": "Crash Dive",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Crash Dive [2600]"
+  },
+  {
+    "title": "Crazy Climber",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Crazy Climber [2600]"
+  },
+  {
+    "title": "Cross Force",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Cross Force [2600]"
+  },
+  {
+    "title": "Crossbow",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Crossbow [2600]"
+  },
+  {
+    "title": "Crypts of Chaos",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Crypts of Chaos [2600]"
+  },
+  {
+    "title": "Crystal Castles",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Crystal Castles [2600]"
+  },
+  {
+    "title": "Custer's Revenge",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Custer's Revenge [2600]"
+  },
+  {
+    "title": "Dan Kitchen's Tomcat - The F-14 Fighter Simulator",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Dan Kitchen's Tomcat - The F-14 Fighter Simulator [2600]"
+  },
+  {
+    "title": "Dark Cavern",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Dark Cavern [2600]"
+  },
+  {
+    "title": "Dark Chambers",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Dark Chambers [2600]"
+  },
+  {
+    "title": "David Crane's Pitfall II - Lost Caverns",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "David Crane's Pitfall II - Lost Caverns [2600]"
+  },
+  {
+    "title": "Deadly Duck",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Deadly Duck [2600]"
+  },
+  {
+    "title": "Death Trap",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Death Trap [2600]"
+  },
+  {
+    "title": "Defender",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Defender [2600]"
+  },
+  {
+    "title": "Demolition Herby",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Demolition Herby [2600]"
+  },
+  {
+    "title": "Demon Attack",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Demon Attack [2600]"
+  },
+  {
+    "title": "Demons to Diamonds",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Demons to Diamonds [2600]"
+  },
+  {
+    "title": "Desert Falcon",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Desert Falcon [2600]"
+  },
+  {
+    "title": "Dice Puzzle",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Dice Puzzle [2600]"
+  },
+  {
+    "title": "Dig Dug",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Dig Dug [2600]"
+  },
+  {
+    "title": "Dishaster",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Dishaster [2600]"
+  },
+  {
+    "title": "Dodge 'Em ~ Dodger Cars",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Dodge 'Em ~ Dodger Cars [2600]"
+  },
+  {
+    "title": "Dolphin",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Dolphin [2600]"
+  },
+  {
+    "title": "Donkey Kong",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Donkey Kong [2600]"
+  },
+  {
+    "title": "Donkey Kong Junior",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Donkey Kong Junior [2600]"
+  },
+  {
+    "title": "Double Dragon",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Double Dragon [2600]"
+  },
+  {
+    "title": "Double Dunk",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Double Dunk [2600]"
+  },
+  {
+    "title": "Dragonfire",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Dragonfire [2600]"
+  },
+  {
+    "title": "Dragonstomper",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Dragonstomper [2600]"
+  },
+  {
+    "title": "Dragster",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Dragster [2600]"
+  },
+  {
+    "title": "E.T. - The Extra-Terrestrial",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "E.T. - The Extra-Terrestrial [2600]"
+  },
+  {
+    "title": "Eggomania",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Eggomania [2600]"
+  },
+  {
+    "title": "Eli's Ladder",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Eli's Ladder [2600]"
+  },
+  {
+    "title": "Encounter at L-5",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Encounter at L-5 [2600]"
+  },
+  {
+    "title": "Enduro",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Enduro [2600]"
+  },
+  {
+    "title": "Entombed",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Entombed [2600]"
+  },
+  {
+    "title": "Escape from the Mindmaster",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Escape from the Mindmaster [2600]"
+  },
+  {
+    "title": "Espial",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Espial [2600]"
+  },
+  {
+    "title": "Extra Terrestrials",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Extra Terrestrials [2600]"
+  },
+  {
+    "title": "Fantastic Voyage",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Fantastic Voyage [2600]"
+  },
+  {
+    "title": "Farmyard Fun",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Farmyard Fun [2600]"
+  },
+  {
+    "title": "Fast Eddie",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Fast Eddie [2600]"
+  },
+  {
+    "title": "Fast Food",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Fast Food [2600]"
+  },
+  {
+    "title": "Fatal Run",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Fatal Run [2600]"
+  },
+  {
+    "title": "Fathom",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Fathom [2600]"
+  },
+  {
+    "title": "Final Approach",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Final Approach [2600]"
+  },
+  {
+    "title": "Fire Fighter",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Fire Fighter [2600]"
+  },
+  {
+    "title": "Fire Fly",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Fire Fly [2600]"
+  },
+  {
+    "title": "Fire Spinner",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Fire Spinner [2600]"
+  },
+  {
+    "title": "Fireball",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Fireball [2600]"
+  },
+  {
+    "title": "Fishing Derby",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Fishing Derby [2600]"
+  },
+  {
+    "title": "Flag Capture ~ Capture",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Flag Capture ~ Capture [2600]"
+  },
+  {
+    "title": "Flash Gordon",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Flash Gordon [2600]"
+  },
+  {
+    "title": "Football",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Football [2600]"
+  },
+  {
+    "title": "Frankenstein's Monster",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Frankenstein's Monster [2600]"
+  },
+  {
+    "title": "Freeway",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Freeway [2600]"
+  },
+  {
+    "title": "Frisco",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Frisco [2600]"
+  },
+  {
+    "title": "Frogger",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Frogger [2600]"
+  },
+  {
+    "title": "Frogger II - Threeedeep!",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Frogger II - Threeedeep! [2600]"
+  },
+  {
+    "title": "Frogs and Flies",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Frogs and Flies [2600]"
+  },
+  {
+    "title": "Front Line",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Front Line [2600]"
+  },
+  {
+    "title": "Frostbite",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Frostbite [2600]"
+  },
+  {
+    "title": "G.I. Joe - Cobra Strike",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "G.I. Joe - Cobra Strike [2600]"
+  },
+  {
+    "title": "Galaxian",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Galaxian [2600]"
+  },
+  {
+    "title": "Gamma-Attack",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Gamma-Attack [2600]"
+  },
+  {
+    "title": "Gangster Alley",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Gangster Alley [2600]"
+  },
+  {
+    "title": "Gas Hog",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Gas Hog [2600]"
+  },
+  {
+    "title": "Gauntlet",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Gauntlet [2600]"
+  },
+  {
+    "title": "Ghost Manor",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Ghost Manor [2600]"
+  },
+  {
+    "title": "Ghostbusters",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Ghostbusters [2600]"
+  },
+  {
+    "title": "Gigolo",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Gigolo [2600]"
+  },
+  {
+    "title": "Glacier Patrol",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Glacier Patrol [2600]"
+  },
+  {
+    "title": "Glib - Video Word Game",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Glib - Video Word Game [2600]"
+  },
+  {
+    "title": "Golf",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Golf [2600]"
+  },
+  {
+    "title": "Gopher",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Gopher [2600]"
+  },
+  {
+    "title": "Gorf",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Gorf [2600]"
+  },
+  {
+    "title": "Grand Prix",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Grand Prix [2600]"
+  },
+  {
+    "title": "Gravitar",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Gravitar [2600]"
+  },
+  {
+    "title": "Great Escape",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Great Escape [2600]"
+  },
+  {
+    "title": "Gremlins",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Gremlins [2600]"
+  },
+  {
+    "title": "Guardian",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Guardian [2600]"
+  },
+  {
+    "title": "Gyruss",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Gyruss [2600]"
+  },
+  {
+    "title": "H.E.R.O.",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "H.E.R.O. [2600]"
+  },
+  {
+    "title": "Halloween",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Halloween [2600]"
+  },
+  {
+    "title": "Hangman ~ Spelling",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Hangman ~ Spelling [2600]"
+  },
+  {
+    "title": "Haunted House",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Haunted House [2600]"
+  },
+  {
+    "title": "Hole Hunter",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Hole Hunter [2600]"
+  },
+  {
+    "title": "Home Run ~ Baseball",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Home Run ~ Baseball [2600]"
+  },
+  {
+    "title": "Human Cannonball ~ Cannon Man",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Human Cannonball ~ Cannon Man [2600]"
+  },
+  {
+    "title": "Hunt & Score ~ Memory Match",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Hunt & Score ~ Memory Match [2600]"
+  },
+  {
+    "title": "I Want My Mommy",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "I Want My Mommy [2600]"
+  },
+  {
+    "title": "I.Q. 180",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "I.Q. 180 [2600]"
+  },
+  {
+    "title": "Ice Hockey",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Ice Hockey [2600]"
+  },
+  {
+    "title": "Ikari Warriors",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Ikari Warriors [2600]"
+  },
+  {
+    "title": "Indy 500 ~ Race",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Indy 500 ~ Race [2600]"
+  },
+  {
+    "title": "Infiltrate",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Infiltrate [2600]"
+  },
+  {
+    "title": "International Soccer",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "International Soccer [2600]"
+  },
+  {
+    "title": "IQ 180",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "IQ 180 [2600]"
+  },
+  {
+    "title": "James Bond 007",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "James Bond 007 [2600]"
+  },
+  {
+    "title": "Jawbreaker",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Jawbreaker [2600]"
+  },
+  {
+    "title": "Journey Escape",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Journey Escape [2600]"
+  },
+  {
+    "title": "Joust",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Joust [2600]"
+  },
+  {
+    "title": "Jr. Pac-Man",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Jr. Pac-Man [2600]"
+  },
+  {
+    "title": "Jungle Fever",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Jungle Fever [2600]"
+  },
+  {
+    "title": "Jungle Hunt",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Jungle Hunt [2600]"
+  },
+  {
+    "title": "Kaboom!",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Kaboom! [2600]"
+  },
+  {
+    "title": "Kangaroo",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Kangaroo [2600]"
+  },
+  {
+    "title": "Karate",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Karate [2600]"
+  },
+  {
+    "title": "Keystone Kapers",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Keystone Kapers [2600]"
+  },
+  {
+    "title": "Killer Satellites",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Killer Satellites [2600]"
+  },
+  {
+    "title": "King Kong",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "King Kong [2600]"
+  },
+  {
+    "title": "Klax",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Klax [2600]"
+  },
+  {
+    "title": "Knight on the Town",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Knight on the Town [2600]"
+  },
+  {
+    "title": "Kool-Aid Man",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Kool-Aid Man [2600]"
+  },
+  {
+    "title": "Krull",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Krull [2600]"
+  },
+  {
+    "title": "Kung-Fu Master",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Kung-Fu Master [2600]"
+  },
+  {
+    "title": "Lady in Wading",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Lady in Wading [2600]"
+  },
+  {
+    "title": "Laser Blast",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Laser Blast [2600]"
+  },
+  {
+    "title": "Laser Gates",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Laser Gates [2600]"
+  },
+  {
+    "title": "Lilly Adventure",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Lilly Adventure [2600]"
+  },
+  {
+    "title": "Lochjaw",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Lochjaw [2600]"
+  },
+  {
+    "title": "Lock 'n' Chase",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Lock 'n' Chase [2600]"
+  },
+  {
+    "title": "London Blitz",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "London Blitz [2600]"
+  },
+  {
+    "title": "Lost Luggage",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Lost Luggage [2600]"
+  },
+  {
+    "title": "M.A.D.",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "M.A.D. [2600]"
+  },
+  {
+    "title": "M.A.S.H",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "M.A.S.H [2600]"
+  },
+  {
+    "title": "MagiCard",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "MagiCard [2600]"
+  },
+  {
+    "title": "Malagai",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Malagai [2600]"
+  },
+  {
+    "title": "Mangia'",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Mangia' [2600]"
+  },
+  {
+    "title": "Marauder",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Marauder [2600]"
+  },
+  {
+    "title": "Marine Wars",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Marine Wars [2600]"
+  },
+  {
+    "title": "Mario Bros.",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Mario Bros. [2600]"
+  },
+  {
+    "title": "Master Builder",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Master Builder [2600]"
+  },
+  {
+    "title": "Masters of the Universe - The Power of He-Man",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Masters of the Universe - The Power of He-Man [2600]"
+  },
+  {
+    "title": "Math Gran Prix",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Math Gran Prix [2600]"
+  },
+  {
+    "title": "Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers [2600]"
+  },
+  {
+    "title": "Mega Force",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Mega Force [2600]"
+  },
+  {
+    "title": "MegaBoy",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "MegaBoy [2600]"
+  },
+  {
+    "title": "MegaMania - A Space Nightmare",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "MegaMania - A Space Nightmare [2600]"
+  },
+  {
+    "title": "Midnight Magic",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Midnight Magic [2600]"
+  },
+  {
+    "title": "Millipede",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Millipede [2600]"
+  },
+  {
+    "title": "Mind Maze",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Mind Maze [2600]"
+  },
+  {
+    "title": "Miner 2049er - Starring Bounty Bob",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Miner 2049er - Starring Bounty Bob [2600]"
+  },
+  {
+    "title": "Miner 2049er Volume II",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Miner 2049er Volume II [2600]"
+  },
+  {
+    "title": "Mines of Minos",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Mines of Minos [2600]"
+  },
+  {
+    "title": "Miniature Golf ~ Arcade Golf",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Miniature Golf ~ Arcade Golf [2600]"
+  },
+  {
+    "title": "Missile Command",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Missile Command [2600]"
+  },
+  {
+    "title": "Mission 3,000 A.D.",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Mission 3,000 A.D. [2600]"
+  },
+  {
+    "title": "Mogul Maniac",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Mogul Maniac [2600]"
+  },
+  {
+    "title": "Montezuma's Revenge - Featuring Panama Joe",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Montezuma's Revenge - Featuring Panama Joe [2600]"
+  },
+  {
+    "title": "Moon Patrol",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Moon Patrol [2600]"
+  },
+  {
+    "title": "Moonsweeper",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Moonsweeper [2600]"
+  },
+  {
+    "title": "Morse Code Tutor",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Morse Code Tutor [2600]"
+  },
+  {
+    "title": "Motocross Racer",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Motocross Racer [2600]"
+  },
+  {
+    "title": "MotoRodeo",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "MotoRodeo [2600]"
+  },
+  {
+    "title": "Mountain King",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Mountain King [2600]"
+  },
+  {
+    "title": "Mouse Trap",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Mouse Trap [2600]"
+  },
+  {
+    "title": "Mr. Do!",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Mr. Do! [2600]"
+  },
+  {
+    "title": "Mr. Do!'s Castle",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Mr. Do!'s Castle [2600]"
+  },
+  {
+    "title": "Mr. Postman",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Mr. Postman [2600]"
+  },
+  {
+    "title": "Ms. Pac-Man",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Ms. Pac-Man [2600]"
+  },
+  {
+    "title": "Name This Game",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Name This Game [2600]"
+  },
+  {
+    "title": "Night Driver",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Night Driver [2600]"
+  },
+  {
+    "title": "No Escape!",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "No Escape! [2600]"
+  },
+  {
+    "title": "Nuts",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Nuts [2600]"
+  },
+  {
+    "title": "Obelix",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Obelix [2600]"
+  },
+  {
+    "title": "Off the Wall",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Off the Wall [2600]"
+  },
+  {
+    "title": "Oink!",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Oink! [2600]"
+  },
+  {
+    "title": "Omega Race",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Omega Race [2600]"
+  },
+  {
+    "title": "Oscar's Trash Race",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Oscar's Trash Race [2600]"
+  },
+  {
+    "title": "Othello",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Othello [2600]"
+  },
+  {
+    "title": "Out of Control",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Out of Control [2600]"
+  },
+  {
+    "title": "Outlaw ~ Gunslinger",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Outlaw ~ Gunslinger [2600]"
+  },
+  {
+    "title": "Pac-Man",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Pac-Man [2600]"
+  },
+  {
+    "title": "Party Mix",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Party Mix [2600]"
+  },
+  {
+    "title": "Pengo",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Pengo [2600]"
+  },
+  {
+    "title": "Pete Rose Baseball",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Pete Rose Baseball [2600]"
+  },
+  {
+    "title": "Phantom UFO",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Phantom UFO [2600]"
+  },
+  {
+    "title": "Pharaoh's Curse",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Pharaoh's Curse [2600]"
+  },
+  {
+    "title": "Phaser Patrol",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Phaser Patrol [2600]"
+  },
+  {
+    "title": "Phoenix",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Phoenix [2600]"
+  },
+  {
+    "title": "Picnic",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Picnic [2600]"
+  },
+  {
+    "title": "Piece o' Cake",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Piece o' Cake [2600]"
+  },
+  {
+    "title": "Pigs in Space - Starring Miss Piggy",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Pigs in Space - Starring Miss Piggy [2600]"
+  },
+  {
+    "title": "Pitfall! - Pitfall Harry's Jungle Adventure",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Pitfall! - Pitfall Harry's Jungle Adventure [2600]"
+  },
+  {
+    "title": "Planet Patrol",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Planet Patrol [2600]"
+  },
+  {
+    "title": "Plaque Attack",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Plaque Attack [2600]"
+  },
+  {
+    "title": "Polaris",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Polaris [2600]"
+  },
+  {
+    "title": "Pole Position",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Pole Position [2600]"
+  },
+  {
+    "title": "Pooyan",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Pooyan [2600]"
+  },
+  {
+    "title": "Popeye",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Popeye [2600]"
+  },
+  {
+    "title": "Porky's",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Porky's [2600]"
+  },
+  {
+    "title": "Pressure Cooker",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Pressure Cooker [2600]"
+  },
+  {
+    "title": "Private Eye",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Private Eye [2600]"
+  },
+  {
+    "title": "Q-bert",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Q-bert [2600]"
+  },
+  {
+    "title": "Q-bert's Qubes",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Q-bert's Qubes [2600]"
+  },
+  {
+    "title": "Quadrun",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Quadrun [2600]"
+  },
+  {
+    "title": "Quest for Quintana Roo",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Quest for Quintana Roo [2600]"
+  },
+  {
+    "title": "Quick Step!",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Quick Step! [2600]"
+  },
+  {
+    "title": "Rabbit Transit",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Rabbit Transit [2600]"
+  },
+  {
+    "title": "Racing Car",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Racing Car [2600]"
+  },
+  {
+    "title": "Racquetball",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Racquetball [2600]"
+  },
+  {
+    "title": "Radar",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Radar [2600]"
+  },
+  {
+    "title": "Radar Lock",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Radar Lock [2600]"
+  },
+  {
+    "title": "Raft Rider",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Raft Rider [2600]"
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Raiders of the Lost Ark [2600]"
+  },
+  {
+    "title": "Ram It",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Ram It [2600]"
+  },
+  {
+    "title": "Rampage!",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Rampage! [2600]"
+  },
+  {
+    "title": "Raumpatrouille",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Raumpatrouille [2600]"
+  },
+  {
+    "title": "Reactor",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Reactor [2600]"
+  },
+  {
+    "title": "RealSports Baseball",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "RealSports Baseball [2600]"
+  },
+  {
+    "title": "RealSports Boxing",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "RealSports Boxing [2600]"
+  },
+  {
+    "title": "RealSports Football",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "RealSports Football [2600]"
+  },
+  {
+    "title": "RealSports Soccer",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "RealSports Soccer [2600]"
+  },
+  {
+    "title": "RealSports Tennis",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "RealSports Tennis [2600]"
+  },
+  {
+    "title": "RealSports Volleyball",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "RealSports Volleyball [2600]"
+  },
+  {
+    "title": "Red Sea Crossing",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Red Sea Crossing [2600]"
+  },
+  {
+    "title": "Rescue Terra I",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Rescue Terra I [2600]"
+  },
+  {
+    "title": "Revenge of the Beefsteak Tomatoes",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Revenge of the Beefsteak Tomatoes [2600]"
+  },
+  {
+    "title": "Riddle of the Sphinx",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Riddle of the Sphinx [2600]"
+  },
+  {
+    "title": "River Patrol",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "River Patrol [2600]"
+  },
+  {
+    "title": "River Raid",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "River Raid [2600]"
+  },
+  {
+    "title": "River Raid II",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "River Raid II [2600]"
+  },
+  {
+    "title": "Road Runner",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Road Runner [2600]"
+  },
+  {
+    "title": "Robin Hood",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Robin Hood [2600]"
+  },
+  {
+    "title": "Robot Tank",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Robot Tank [2600]"
+  },
+  {
+    "title": "Roc 'n Rope",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Roc 'n Rope [2600]"
+  },
+  {
+    "title": "Room of Doom",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Room of Doom [2600]"
+  },
+  {
+    "title": "Rubik's Cube",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Rubik's Cube [2600]"
+  },
+  {
+    "title": "Save Our Ship",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Save Our Ship [2600]"
+  },
+  {
+    "title": "Sea Battle",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Sea Battle [2600]"
+  },
+  {
+    "title": "Sea Hawk",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Sea Hawk [2600]"
+  },
+  {
+    "title": "Sea Hunt ~ Scuba Diver",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Sea Hunt ~ Scuba Diver [2600]"
+  },
+  {
+    "title": "Sea Monster",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Sea Monster [2600]"
+  },
+  {
+    "title": "Seaquest",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Seaquest [2600]"
+  },
+  {
+    "title": "Secret Quest",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Secret Quest [2600]"
+  },
+  {
+    "title": "Sentinel",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Sentinel [2600]"
+  },
+  {
+    "title": "Shootin' Gallery",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Shootin' Gallery [2600]"
+  },
+  {
+    "title": "Shuttle Orbiter",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Shuttle Orbiter [2600]"
+  },
+  {
+    "title": "Sir Lancelot",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Sir Lancelot [2600]"
+  },
+  {
+    "title": "Skate Boardin'",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Skate Boardin' [2600]"
+  },
+  {
+    "title": "Skeet Shoot",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Skeet Shoot [2600]"
+  },
+  {
+    "title": "Ski Run",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Ski Run [2600]"
+  },
+  {
+    "title": "Skiing",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Skiing [2600]"
+  },
+  {
+    "title": "Sky Diver ~ Dare Diver",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Sky Diver ~ Dare Diver [2600]"
+  },
+  {
+    "title": "Sky Jinks",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Sky Jinks [2600]"
+  },
+  {
+    "title": "Sky Skipper",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Sky Skipper [2600]"
+  },
+  {
+    "title": "Slot Machine ~ Slots",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Slot Machine ~ Slots [2600]"
+  },
+  {
+    "title": "Slot Racers ~ Maze",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Slot Racers ~ Maze [2600]"
+  },
+  {
+    "title": "Smurf - Rescue in Gargamel's Castle",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Smurf - Rescue in Gargamel's Castle [2600]"
+  },
+  {
+    "title": "Smurfs Save the Day",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Smurfs Save the Day [2600]"
+  },
+  {
+    "title": "Sneak 'n Peek",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Sneak 'n Peek [2600]"
+  },
+  {
+    "title": "Snoopy and the Red Baron",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Snoopy and the Red Baron [2600]"
+  },
+  {
+    "title": "Solar Fox",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Solar Fox [2600]"
+  },
+  {
+    "title": "Solar Storm",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Solar Storm [2600]"
+  },
+  {
+    "title": "Solaris",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Solaris [2600]"
+  },
+  {
+    "title": "Sorcerer",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Sorcerer [2600]"
+  },
+  {
+    "title": "Sorcerer's Apprentice",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Sorcerer's Apprentice [2600]"
+  },
+  {
+    "title": "Space Attack",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Space Attack [2600]"
+  },
+  {
+    "title": "Space Cavern",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Space Cavern [2600]"
+  },
+  {
+    "title": "Space Invaders",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Space Invaders [2600]"
+  },
+  {
+    "title": "Space Jockey",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Space Jockey [2600]"
+  },
+  {
+    "title": "Space Shuttle - A Journey into Space",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Space Shuttle - A Journey into Space [2600]"
+  },
+  {
+    "title": "Space Tunnel",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Space Tunnel [2600]"
+  },
+  {
+    "title": "Space War ~ Space Combat",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Space War ~ Space Combat [2600]"
+  },
+  {
+    "title": "Spacechase",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Spacechase [2600]"
+  },
+  {
+    "title": "SpaceMaster X-7",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "SpaceMaster X-7 [2600]"
+  },
+  {
+    "title": "Spider Fighter",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Spider Fighter [2600]"
+  },
+  {
+    "title": "Spider Maze",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Spider Maze [2600]"
+  },
+  {
+    "title": "Spider-Man",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Spider-Man [2600]"
+  },
+  {
+    "title": "Spike's Peak",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Spike's Peak [2600]"
+  },
+  {
+    "title": "Spitfire Attack",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Spitfire Attack [2600]"
+  },
+  {
+    "title": "Springer",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Springer [2600]"
+  },
+  {
+    "title": "Sprint Master",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Sprint Master [2600]"
+  },
+  {
+    "title": "Spy Hunter",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Spy Hunter [2600]"
+  },
+  {
+    "title": "Squeeze Box",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Squeeze Box [2600]"
+  },
+  {
+    "title": "Squirrel ~ O Esquilo",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Squirrel ~ O Esquilo [2600]"
+  },
+  {
+    "title": "Sssnake",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Sssnake [2600]"
+  },
+  {
+    "title": "Stampede",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Stampede [2600]"
+  },
+  {
+    "title": "Star Fox",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Star Fox [2600]"
+  },
+  {
+    "title": "Star Raiders",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Star Raiders [2600]"
+  },
+  {
+    "title": "Star Ship ~ Outer Space",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Star Ship ~ Outer Space [2600]"
+  },
+  {
+    "title": "Star Strike",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Star Strike [2600]"
+  },
+  {
+    "title": "Star Trek - Strategic Operations Simulator",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Star Trek - Strategic Operations Simulator [2600]"
+  },
+  {
+    "title": "Star Voyager",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Star Voyager [2600]"
+  },
+  {
+    "title": "Star Wars - Jedi Arena",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Star Wars - Jedi Arena [2600]"
+  },
+  {
+    "title": "Star Wars - Return of the Jedi - Death Star Battle",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Star Wars - Return of the Jedi - Death Star Battle [2600]"
+  },
+  {
+    "title": "Star Wars - The Arcade Game",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Star Wars - The Arcade Game [2600]"
+  },
+  {
+    "title": "Star Wars - The Empire Strikes Back",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Star Wars - The Empire Strikes Back [2600]"
+  },
+  {
+    "title": "Stargate",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Stargate [2600]"
+  },
+  {
+    "title": "Stargunner",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Stargunner [2600]"
+  },
+  {
+    "title": "StarMaster",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "StarMaster [2600]"
+  },
+  {
+    "title": "Steeplechase",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Steeplechase [2600]"
+  },
+  {
+    "title": "Stellar Track",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Stellar Track [2600]"
+  },
+  {
+    "title": "Stone Age",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Stone Age [2600]"
+  },
+  {
+    "title": "Strategy X",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Strategy X [2600]"
+  },
+  {
+    "title": "Strawberry Shortcake - Musical Match-Ups",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Strawberry Shortcake - Musical Match-Ups [2600]"
+  },
+  {
+    "title": "Street Racer ~ Speedway II",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Street Racer ~ Speedway II [2600]"
+  },
+  {
+    "title": "Stronghold",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Stronghold [2600]"
+  },
+  {
+    "title": "Stunt Man",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Stunt Man [2600]"
+  },
+  {
+    "title": "Sub-Scan",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Sub-Scan [2600]"
+  },
+  {
+    "title": "Submarine Commander",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Submarine Commander [2600]"
+  },
+  {
+    "title": "Subterranea",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Subterranea [2600]"
+  },
+  {
+    "title": "Suicide Mission",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Suicide Mission [2600]"
+  },
+  {
+    "title": "Summer Games",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Summer Games [2600]"
+  },
+  {
+    "title": "Super Baseball",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Super Baseball [2600]"
+  },
+  {
+    "title": "Super Breakout",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Super Breakout [2600]"
+  },
+  {
+    "title": "Super Challenge Baseball",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Super Challenge Baseball [2600]"
+  },
+  {
+    "title": "Super Challenge Football",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Super Challenge Football [2600]"
+  },
+  {
+    "title": "Super Cobra",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Super Cobra [2600]"
+  },
+  {
+    "title": "Super Football",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Super Football [2600]"
+  },
+  {
+    "title": "Superman",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Superman [2600]"
+  },
+  {
+    "title": "Surround ~ Chase",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Surround ~ Chase [2600]"
+  },
+  {
+    "title": "Survival Island",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Survival Island [2600]"
+  },
+  {
+    "title": "Survival Run",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Survival Run [2600]"
+  },
+  {
+    "title": "Sweat! The Decathlon Game",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Sweat! The Decathlon Game [2600]"
+  },
+  {
+    "title": "Sword of Saros",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Sword of Saros [2600]"
+  },
+  {
+    "title": "Swordfight",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Swordfight [2600]"
+  },
+  {
+    "title": "SwordQuest - EarthWorld",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "SwordQuest - EarthWorld [2600]"
+  },
+  {
+    "title": "SwordQuest - FireWorld",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "SwordQuest - FireWorld [2600]"
+  },
+  {
+    "title": "SwordQuest - WaterWorld",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "SwordQuest - WaterWorld [2600]"
+  },
+  {
+    "title": "Tac-Scan",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Tac-Scan [2600]"
+  },
+  {
+    "title": "Tanks but No Tanks",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Tanks but No Tanks [2600]"
+  },
+  {
+    "title": "Tapeworm",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Tapeworm [2600]"
+  },
+  {
+    "title": "Tapper",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Tapper [2600]"
+  },
+  {
+    "title": "Tax Avoiders",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Tax Avoiders [2600]"
+  },
+  {
+    "title": "Taz",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Taz [2600]"
+  },
+  {
+    "title": "Tennis",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Tennis [2600]"
+  },
+  {
+    "title": "The Activision Decathlon",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "The Activision Decathlon [2600]"
+  },
+  {
+    "title": "The Challenge of.... NEXAR",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "The Challenge of.... NEXAR [2600]"
+  },
+  {
+    "title": "The Earth Dies Screaming",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "The Earth Dies Screaming [2600]"
+  },
+  {
+    "title": "The Music Machine",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "The Music Machine [2600]"
+  },
+  {
+    "title": "The Official Frogger",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "The Official Frogger [2600]"
+  },
+  {
+    "title": "The Texas Chainsaw Massacre",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "The Texas Chainsaw Massacre [2600]"
+  },
+  {
+    "title": "Threshold",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Threshold [2600]"
+  },
+  {
+    "title": "Thunderground",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Thunderground [2600]"
+  },
+  {
+    "title": "Time Pilot",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Time Pilot [2600]"
+  },
+  {
+    "title": "Time Warp",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Time Warp [2600]"
+  },
+  {
+    "title": "Title Match Pro Wrestling",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Title Match Pro Wrestling [2600]"
+  },
+  {
+    "title": "Tomarc the Barbarian",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Tomarc the Barbarian [2600]"
+  },
+  {
+    "title": "Tooth Protectors",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Tooth Protectors [2600]"
+  },
+  {
+    "title": "Towering Inferno",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Towering Inferno [2600]"
+  },
+  {
+    "title": "Track and Field",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Track and Field [2600]"
+  },
+  {
+    "title": "Trick Shot",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Trick Shot [2600]"
+  },
+  {
+    "title": "TRON - Deadly Discs",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "TRON - Deadly Discs [2600]"
+  },
+  {
+    "title": "Tunnel Runner",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Tunnel Runner [2600]"
+  },
+  {
+    "title": "Turmoil",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Turmoil [2600]"
+  },
+  {
+    "title": "Tutankham",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Tutankham [2600]"
+  },
+  {
+    "title": "Universal Chaos",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Universal Chaos [2600]"
+  },
+  {
+    "title": "Up 'n Down",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Up 'n Down [2600]"
+  },
+  {
+    "title": "Vanguard",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Vanguard [2600]"
+  },
+  {
+    "title": "Venture",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Venture [2600]"
+  },
+  {
+    "title": "Video Checkers ~ Checkers",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Video Checkers ~ Checkers [2600]"
+  },
+  {
+    "title": "Video Chess",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Video Chess [2600]"
+  },
+  {
+    "title": "Video Jogger",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Video Jogger [2600]"
+  },
+  {
+    "title": "Video Life",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Video Life [2600]"
+  },
+  {
+    "title": "Video Olympics ~ Pong Sports",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Video Olympics ~ Pong Sports [2600]"
+  },
+  {
+    "title": "Video Pinball ~ Arcade Pinball",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Video Pinball ~ Arcade Pinball [2600]"
+  },
+  {
+    "title": "Video Reflex",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Video Reflex [2600]"
+  },
+  {
+    "title": "Wabbit",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Wabbit [2600]"
+  },
+  {
+    "title": "Wall Ball",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Wall Ball [2600]"
+  },
+  {
+    "title": "Wall-Defender",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Wall-Defender [2600]"
+  },
+  {
+    "title": "Warlords",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Warlords [2600]"
+  },
+  {
+    "title": "Warplock",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Warplock [2600]"
+  },
+  {
+    "title": "Winter Games",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Winter Games [2600]"
+  },
+  {
+    "title": "Wizard of Wor",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Wizard of Wor [2600]"
+  },
+  {
+    "title": "Word Zapper",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Word Zapper [2600]"
+  },
+  {
+    "title": "World End",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "World End [2600]"
+  },
+  {
+    "title": "Worm War I",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Worm War I [2600]"
+  },
+  {
+    "title": "X-Man",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "X-Man [2600]"
+  },
+  {
+    "title": "Xenophobe",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Xenophobe [2600]"
+  },
+  {
+    "title": "Yars' Revenge",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Yars' Revenge [2600]"
+  },
+  {
+    "title": "Z-Tack",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Z-Tack [2600]"
+  },
+  {
+    "title": "Zaxxon",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Zaxxon [2600]"
+  },
+  {
+    "title": "Zoo Fun",
+    "console": "Atari 2600",
+    "serial": "2600",
+    "display": "Zoo Fun [2600]"
+  },
+  {
     "title": "007 - Blood Stone",
     "console": "DS",
     "serial": "DS",

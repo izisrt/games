@@ -1,0 +1,21 @@
+Generated: 2026-02-08T16:27:05
+ROMs found: 455
+Matched to DAT (indexed): 455
+Missing in DAT: 0
+Missing cover: 7
+Excluded UNL: 0
+Moved UNL ROMs: 0 -> F:\Atari_2600\_UNL_QUARANTINE
+
+=== DAT titles missing cover (by DAT title) ===
+Cosmic Ark (USA) (Rev 1)
+Dan Kitchen's Tomcat - The F-14 Fighter Simulator (USA)
+David Crane's Pitfall II - Lost Caverns (USA)
+RealSports Baseball (USA) (NTSC)
+Save Our Ship (USA)
+Tanks but No Tanks (USA)
+Zoo Fun (USA)
+
+
+=== Cover quarantine ===
+Duplicates moved: 1 -> F:\Atari_2600\_COVER_QUARANTINE\duplicates
+Orphaned moved: 1 -> F:\Atari_2600\_COVER_QUARANTINE\orphaned

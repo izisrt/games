@@ -41,6 +41,7 @@ function consoleDisplayName(metaSystem, folderName) {
   if (sys.toLowerCase() === "snes" || folder.startsWith("snes")) return "SNES";
   if (sys.toLowerCase() === "gba" || folder.startsWith("gba")) return "GBA";
   if (sys.toLowerCase() === "gb" || folder.startsWith("gb")) return "GB";
+  if (sys.toLowerCase() === "atari 2600" || folder.startsWith("atari_2600")) return "Atari 2600";
 
   // Fall back to system string as-is if present
   if (sys) return sys;
@@ -57,6 +58,7 @@ function consoleTag(metaSystem, fallback) {
   const sys = String(metaSystem || "").trim();
   // Prefer the short console tag shown in brackets. (Index meta.system sometimes uses longer names.)
   if (sys.toLowerCase() === "nds") return "DS";
+  if (sys.toLowerCase() === "atari 2600") return "2600";
   return sys || String(fallback || "").trim() || null;
 }
 

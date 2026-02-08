@@ -5,6 +5,7 @@ const CONSOLE_CONFIG = {
   GameCube:    { icon: "gamecube.png", color: "#695BAE" },   // purple
   DS:          { icon: "ds.png",       color: "#334155" },   // slate (add icons/ds.png)
   GB:          { icon: "gb.png",       color: "#4a5568" },   // gray (add icons/gb.png)
+  "Atari 2600": { icon: "atari2600.png", color: "#1a1a2e" },  // dark (add icons/atari2600.png)
   GBA:         { icon: "missing.webp",  color: "#3b82f6" },  // placeholder icon; replace with gba.png if desired
   Wii:         { icon: "wii.png",       color: "#f8fafc" },  // white
   N64:         { icon: "n64.png",       color: "#01942C" },
@@ -82,6 +83,7 @@ function getConsoleKey(consoleName) {
   if (c === "ds" || c === "nds") return "ds";
   if (c === "gba") return "gba";
   if (c === "gb" || c === "game boy") return "gb";
+  if (c === "atari 2600" || c === "2600") return "atari_2600";
   if (c === "gamecube") return "gamecube";
   if (c === "wii") return "wii";
   if (c === "n64") return "n64";
