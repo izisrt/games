@@ -2730,6 +2730,1824 @@
     "display": "Zoo Fun [2600]"
   },
   {
+    "title": "18 Wheeler - American Pro Trucker",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "18 Wheeler - American Pro Trucker [DC]"
+  },
+  {
+    "title": "4 Wheel Thunder",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "4 Wheel Thunder [DC]"
+  },
+  {
+    "title": "4x4 Evo",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "4x4 Evo [DC]"
+  },
+  {
+    "title": "90 Minutes - Sega Championship Football",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "90 Minutes - Sega Championship Football [DC]"
+  },
+  {
+    "title": "AeroWings",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "AeroWings [DC]"
+  },
+  {
+    "title": "AeroWings 2 - Airstrike",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "AeroWings 2 - Airstrike [DC]"
+  },
+  {
+    "title": "AirForce Delta",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "AirForce Delta [DC]"
+  },
+  {
+    "title": "Alien Front Online",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Alien Front Online [DC]"
+  },
+  {
+    "title": "Alone in the Dark - The New Nightmare",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Alone in the Dark - The New Nightmare [DC]"
+  },
+  {
+    "title": "Aqua GT",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Aqua GT [DC]"
+  },
+  {
+    "title": "Armada",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Armada [DC]"
+  },
+  {
+    "title": "Army Men - Sarge's Heroes",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Army Men - Sarge's Heroes [DC]"
+  },
+  {
+    "title": "Atari Anniversary Edition",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Atari Anniversary Edition [DC]"
+  },
+  {
+    "title": "Bang! Gunship Elite",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Bang! Gunship Elite [DC]"
+  },
+  {
+    "title": "Bangai-O",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Bangai-O [DC]"
+  },
+  {
+    "title": "Blue Stinger",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Blue Stinger [DC]"
+  },
+  {
+    "title": "Bomberman Online",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Bomberman Online [DC]"
+  },
+  {
+    "title": "Buggy Heat",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Buggy Heat [DC]"
+  },
+  {
+    "title": "Bust-A-Move 4",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Bust-A-Move 4 [DC]"
+  },
+  {
+    "title": "Caesars Palace 2000 - Millennium Gold Edition",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Caesars Palace 2000 - Millennium Gold Edition [DC]"
+  },
+  {
+    "title": "Cannon Spike",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Cannon Spike [DC]"
+  },
+  {
+    "title": "Capcom vs. SNK",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Capcom vs. SNK [DC]"
+  },
+  {
+    "title": "Carrier",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Carrier [DC]"
+  },
+  {
+    "title": "Centipede",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Centipede [DC]"
+  },
+  {
+    "title": "Championship Surfer",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Championship Surfer [DC]"
+  },
+  {
+    "title": "Charge 'N Blast",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Charge 'N Blast [DC]"
+  },
+  {
+    "title": "Chicken Run",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Chicken Run [DC]"
+  },
+  {
+    "title": "ChuChu Rocket!",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "ChuChu Rocket! [DC]"
+  },
+  {
+    "title": "Coaster Works",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Coaster Works [DC]"
+  },
+  {
+    "title": "Confidential Mission",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Confidential Mission [DC]"
+  },
+  {
+    "title": "Conflict Zone",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Conflict Zone [DC]"
+  },
+  {
+    "title": "Crazy Taxi",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Crazy Taxi [DC]"
+  },
+  {
+    "title": "Crazy Taxi 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Crazy Taxi 2 [DC]"
+  },
+  {
+    "title": "Cyber Troopers - Virtual-On - Oratorio Tangram",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Cyber Troopers - Virtual-On - Oratorio Tangram [DC]"
+  },
+  {
+    "title": "D2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "D2 [DC]"
+  },
+  {
+    "title": "Dave Mirra Freestyle BMX",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Dave Mirra Freestyle BMX [DC]"
+  },
+  {
+    "title": "Daytona USA",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Daytona USA [DC]"
+  },
+  {
+    "title": "Daytona USA 2001",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Daytona USA 2001 [DC]"
+  },
+  {
+    "title": "Dead or Alive 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Dead or Alive 2 [DC]"
+  },
+  {
+    "title": "Deadly Skies",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Deadly Skies [DC]"
+  },
+  {
+    "title": "Death Crimson OX",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Death Crimson OX [DC]"
+  },
+  {
+    "title": "Deep Fighter",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Deep Fighter [DC]"
+  },
+  {
+    "title": "Demolition Racer - No Exit",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Demolition Racer - No Exit [DC]"
+  },
+  {
+    "title": "Dino Crisis",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Dino Crisis [DC]"
+  },
+  {
+    "title": "Disney-Pixar Buzz Lightyear of Star Command",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Disney-Pixar Buzz Lightyear of Star Command [DC]"
+  },
+  {
+    "title": "Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue!",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue! [DC]"
+  },
+  {
+    "title": "Disney's 102 Dalmatians - Puppies to the Rescue",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Disney's 102 Dalmatians - Puppies to the Rescue [DC]"
+  },
+  {
+    "title": "Disney's Dinosaur",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Disney's Dinosaur [DC]"
+  },
+  {
+    "title": "Disney's Donald Duck - Goin' Quackers",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Disney's Donald Duck - Goin' Quackers [DC]"
+  },
+  {
+    "title": "Disney's Donald Duck - Quack Attack",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Disney's Donald Duck - Quack Attack [DC]"
+  },
+  {
+    "title": "Draconus - Cult of the Wyrm",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Draconus - Cult of the Wyrm [DC]"
+  },
+  {
+    "title": "Dragon Riders - Chronicles of Pern",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Dragon Riders - Chronicles of Pern [DC]"
+  },
+  {
+    "title": "Dragons Blood",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Dragons Blood [DC]"
+  },
+  {
+    "title": "Ducati World",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Ducati World [DC]"
+  },
+  {
+    "title": "Ducati World - Racing Challenge",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Ducati World - Racing Challenge [DC]"
+  },
+  {
+    "title": "Dynamite Cop",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Dynamite Cop [DC]"
+  },
+  {
+    "title": "Ecco the Dolphin - Defender of the Future",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Ecco the Dolphin - Defender of the Future [DC]"
+  },
+  {
+    "title": "ECW Anarchy Rulz",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "ECW Anarchy Rulz [DC]"
+  },
+  {
+    "title": "ECW Hardcore Revolution",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "ECW Hardcore Revolution [DC]"
+  },
+  {
+    "title": "Elemental Gimmick Gear",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Elemental Gimmick Gear [DC]"
+  },
+  {
+    "title": "ESPN International Track & Field",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "ESPN International Track & Field [DC]"
+  },
+  {
+    "title": "ESPN NBA 2Night",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "ESPN NBA 2Night [DC]"
+  },
+  {
+    "title": "European Super League",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "European Super League [DC]"
+  },
+  {
+    "title": "Evil Dead - Hail to the King",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Evil Dead - Hail to the King [DC]"
+  },
+  {
+    "title": "Evil Twin - Cyprien's Chronicles",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Evil Twin - Cyprien's Chronicles [DC]"
+  },
+  {
+    "title": "Evolution - The World of Sacred Device",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Evolution - The World of Sacred Device [DC]"
+  },
+  {
+    "title": "Evolution 2 - Far Off Promise",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Evolution 2 - Far Off Promise [DC]"
+  },
+  {
+    "title": "Exhibition of Speed",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Exhibition of Speed [DC]"
+  },
+  {
+    "title": "Expendable",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Expendable [DC]"
+  },
+  {
+    "title": "F1 Racing Championship",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "F1 Racing Championship [DC]"
+  },
+  {
+    "title": "F1 World Grand Prix",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "F1 World Grand Prix [DC]"
+  },
+  {
+    "title": "F1 World Grand Prix for Dreamcast",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "F1 World Grand Prix for Dreamcast [DC]"
+  },
+  {
+    "title": "F1 World Grand Prix II for Dreamcast",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "F1 World Grand Prix II for Dreamcast [DC]"
+  },
+  {
+    "title": "F355 Challenge - Passione Rossa",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "F355 Challenge - Passione Rossa [DC]"
+  },
+  {
+    "title": "Fatal Fury - Mark of the Wolves",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Fatal Fury - Mark of the Wolves [DC]"
+  },
+  {
+    "title": "Fighting Force 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Fighting Force 2 [DC]"
+  },
+  {
+    "title": "Fighting Vipers 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Fighting Vipers 2 [DC]"
+  },
+  {
+    "title": "Flag to Flag",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Flag to Flag [DC]"
+  },
+  {
+    "title": "Floigan Bros. - Episode 1",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Floigan Bros. - Episode 1 [DC]"
+  },
+  {
+    "title": "Freestyle Scooter",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Freestyle Scooter [DC]"
+  },
+  {
+    "title": "Frogger 2 - Swampy's Revenge",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Frogger 2 - Swampy's Revenge [DC]"
+  },
+  {
+    "title": "Fur Fighters",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Fur Fighters [DC]"
+  },
+  {
+    "title": "Gauntlet Legends",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Gauntlet Legends [DC]"
+  },
+  {
+    "title": "Generator Vol. 1",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Generator Vol. 1 [DC]"
+  },
+  {
+    "title": "Generator Vol. 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Generator Vol. 2 [DC]"
+  },
+  {
+    "title": "GigaWing",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "GigaWing [DC]"
+  },
+  {
+    "title": "GigaWing 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "GigaWing 2 [DC]"
+  },
+  {
+    "title": "GK - Giant Killers",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "GK - Giant Killers [DC]"
+  },
+  {
+    "title": "Grand Theft Auto 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Grand Theft Auto 2 [DC]"
+  },
+  {
+    "title": "Grandia II",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Grandia II [DC]"
+  },
+  {
+    "title": "Gunbird 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Gunbird 2 [DC]"
+  },
+  {
+    "title": "Gundam Side Story 0079 - Rise from the Ashes",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Gundam Side Story 0079 - Rise from the Ashes [DC]"
+  },
+  {
+    "title": "Headhunter",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Headhunter [DC]"
+  },
+  {
+    "title": "Heavy Metal - Geomatrix",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Heavy Metal - Geomatrix [DC]"
+  },
+  {
+    "title": "Hidden & Dangerous",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Hidden & Dangerous [DC]"
+  },
+  {
+    "title": "Hoyle Casino",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Hoyle Casino [DC]"
+  },
+  {
+    "title": "Hydro Thunder",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Hydro Thunder [DC]"
+  },
+  {
+    "title": "Illbleed",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Illbleed [DC]"
+  },
+  {
+    "title": "Incoming",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Incoming [DC]"
+  },
+  {
+    "title": "Industrial Spy - Operation Espionage",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Industrial Spy - Operation Espionage [DC]"
+  },
+  {
+    "title": "Internet Browser V3.0 for Dreamcast",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Internet Browser V3.0 for Dreamcast [DC]"
+  },
+  {
+    "title": "Iron Aces",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Iron Aces [DC]"
+  },
+  {
+    "title": "Jeremy McGrath Supercross 2000",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Jeremy McGrath Supercross 2000 [DC]"
+  },
+  {
+    "title": "Jet Grind Radio",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Jet Grind Radio [DC]"
+  },
+  {
+    "title": "Jet Set Radio",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Jet Set Radio [DC]"
+  },
+  {
+    "title": "Jimmy White's 2 - Cueball",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Jimmy White's 2 - Cueball [DC]"
+  },
+  {
+    "title": "JoJo's Bizarre Adventure",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "JoJo's Bizarre Adventure [DC]"
+  },
+  {
+    "title": "Kao the Kangaroo",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Kao the Kangaroo [DC]"
+  },
+  {
+    "title": "KISS Psycho Circus - The Nightmare Child",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "KISS Psycho Circus - The Nightmare Child [DC]"
+  },
+  {
+    "title": "Le Mans 24 Hours",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Le Mans 24 Hours [DC]"
+  },
+  {
+    "title": "Legacy of Kain - Soul Reaver",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Legacy of Kain - Soul Reaver [DC]"
+  },
+  {
+    "title": "Looney Tunes - Space Race",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Looney Tunes - Space Race [DC]"
+  },
+  {
+    "title": "MagForce Racing",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "MagForce Racing [DC]"
+  },
+  {
+    "title": "Maken X",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Maken X [DC]"
+  },
+  {
+    "title": "Mars Matrix",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Mars Matrix [DC]"
+  },
+  {
+    "title": "Marvel vs. Capcom - Clash of Super Heroes",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Marvel vs. Capcom - Clash of Super Heroes [DC]"
+  },
+  {
+    "title": "Marvel vs. Capcom 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Marvel vs. Capcom 2 [DC]"
+  },
+  {
+    "title": "Marvel vs. Capcom 2 - New Age of Heroes",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Marvel vs. Capcom 2 - New Age of Heroes [DC]"
+  },
+  {
+    "title": "Mat Hoffman's Pro BMX",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Mat Hoffman's Pro BMX [DC]"
+  },
+  {
+    "title": "Max Steel - Covert Missions",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Max Steel - Covert Missions [DC]"
+  },
+  {
+    "title": "Maximum Pool",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Maximum Pool [DC]"
+  },
+  {
+    "title": "MDK2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "MDK2 [DC]"
+  },
+  {
+    "title": "Midway's Greatest Arcade Hits - Volume 1",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Midway's Greatest Arcade Hits - Volume 1 [DC]"
+  },
+  {
+    "title": "Midway's Greatest Arcade Hits - Volume 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Midway's Greatest Arcade Hits - Volume 2 [DC]"
+  },
+  {
+    "title": "Millennium Soldier - Expendable",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Millennium Soldier - Expendable [DC]"
+  },
+  {
+    "title": "MoHo",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "MoHo [DC]"
+  },
+  {
+    "title": "Monaco Grand Prix",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Monaco Grand Prix [DC]"
+  },
+  {
+    "title": "Mortal Kombat Gold",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Mortal Kombat Gold [DC]"
+  },
+  {
+    "title": "Mr. Driller",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Mr. Driller [DC]"
+  },
+  {
+    "title": "Ms. Pac-Man Maze Madness",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Ms. Pac-Man Maze Madness [DC]"
+  },
+  {
+    "title": "MSR - Metropolis Street Racer",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "MSR - Metropolis Street Racer [DC]"
+  },
+  {
+    "title": "MTV Sports - Skateboarding featuring Andy Macdonald",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "MTV Sports - Skateboarding featuring Andy Macdonald [DC]"
+  },
+  {
+    "title": "Namco Museum",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Namco Museum [DC]"
+  },
+  {
+    "title": "NBA 2K",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "NBA 2K [DC]"
+  },
+  {
+    "title": "NBA 2K1",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "NBA 2K1 [DC]"
+  },
+  {
+    "title": "NBA 2K2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "NBA 2K2 [DC]"
+  },
+  {
+    "title": "NBA Hoopz",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "NBA Hoopz [DC]"
+  },
+  {
+    "title": "NBA Showtime - NBA on NBC",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "NBA Showtime - NBA on NBC [DC]"
+  },
+  {
+    "title": "NCAA College Football 2K2 - Road to the Rose Bowl",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "NCAA College Football 2K2 - Road to the Rose Bowl [DC]"
+  },
+  {
+    "title": "NFL 2K",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "NFL 2K [DC]"
+  },
+  {
+    "title": "NFL 2K1",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "NFL 2K1 [DC]"
+  },
+  {
+    "title": "NFL 2K2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "NFL 2K2 [DC]"
+  },
+  {
+    "title": "NFL Blitz 2000",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "NFL Blitz 2000 [DC]"
+  },
+  {
+    "title": "NFL Blitz 2001",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "NFL Blitz 2001 [DC]"
+  },
+  {
+    "title": "NFL QB Club 2001",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "NFL QB Club 2001 [DC]"
+  },
+  {
+    "title": "NFL Quarterback Club 2000",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "NFL Quarterback Club 2000 [DC]"
+  },
+  {
+    "title": "NHL 2K",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "NHL 2K [DC]"
+  },
+  {
+    "title": "NHL 2K2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "NHL 2K2 [DC]"
+  },
+  {
+    "title": "Nightmare Creatures II",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Nightmare Creatures II [DC]"
+  },
+  {
+    "title": "Omikron - The Nomad Soul",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Omikron - The Nomad Soul [DC]"
+  },
+  {
+    "title": "Ooga Booga",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Ooga Booga [DC]"
+  },
+  {
+    "title": "Outtrigger",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Outtrigger [DC]"
+  },
+  {
+    "title": "PenPen",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "PenPen [DC]"
+  },
+  {
+    "title": "PenPen TriIcelon",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "PenPen TriIcelon [DC]"
+  },
+  {
+    "title": "Phantasy Star Online",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Phantasy Star Online [DC]"
+  },
+  {
+    "title": "Phantasy Star Online Ver. 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Phantasy Star Online Ver. 2 [DC]"
+  },
+  {
+    "title": "Planet Ring",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Planet Ring [DC]"
+  },
+  {
+    "title": "Plasma Sword - Nightmare of Bilstein",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Plasma Sword - Nightmare of Bilstein [DC]"
+  },
+  {
+    "title": "POD - Speedzone",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "POD - Speedzone [DC]"
+  },
+  {
+    "title": "POD 2 - Multiplayer Online",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "POD 2 - Multiplayer Online [DC]"
+  },
+  {
+    "title": "Power Stone",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Power Stone [DC]"
+  },
+  {
+    "title": "Power Stone 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Power Stone 2 [DC]"
+  },
+  {
+    "title": "Prince of Persia - Arabian Nights",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Prince of Persia - Arabian Nights [DC]"
+  },
+  {
+    "title": "Pro Pinball Trilogy",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Pro Pinball Trilogy [DC]"
+  },
+  {
+    "title": "Project Justice",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Project Justice [DC]"
+  },
+  {
+    "title": "Project Justice - Rival Schools 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Project Justice - Rival Schools 2 [DC]"
+  },
+  {
+    "title": "Psychic Force 2012",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Psychic Force 2012 [DC]"
+  },
+  {
+    "title": "Q-bert",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Q-bert [DC]"
+  },
+  {
+    "title": "Quake III - Arena",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Quake III - Arena [DC]"
+  },
+  {
+    "title": "Racing Simulation - Monaco Grand Prix",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Racing Simulation - Monaco Grand Prix [DC]"
+  },
+  {
+    "title": "Racing Simulation 2 - Monaco Grand Prix On-Line",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Racing Simulation 2 - Monaco Grand Prix On-Line [DC]"
+  },
+  {
+    "title": "Railroad Tycoon II",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Railroad Tycoon II [DC]"
+  },
+  {
+    "title": "Rayman 2 - The Great Escape",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Rayman 2 - The Great Escape [DC]"
+  },
+  {
+    "title": "Razor Freestyle Scooter",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Razor Freestyle Scooter [DC]"
+  },
+  {
+    "title": "Re-Volt",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Re-Volt [DC]"
+  },
+  {
+    "title": "Ready 2 Rumble Boxing",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Ready 2 Rumble Boxing [DC]"
+  },
+  {
+    "title": "Ready 2 Rumble Boxing - Round 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Ready 2 Rumble Boxing - Round 2 [DC]"
+  },
+  {
+    "title": "Record of Lodoss War",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Record of Lodoss War [DC]"
+  },
+  {
+    "title": "Red Dog - Superior Firepower",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Red Dog - Superior Firepower [DC]"
+  },
+  {
+    "title": "Reel Fishing + Wild",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Reel Fishing + Wild [DC]"
+  },
+  {
+    "title": "Resident Evil - Code - Veronica",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Resident Evil - Code - Veronica [DC]"
+  },
+  {
+    "title": "Resident Evil 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Resident Evil 2 [DC]"
+  },
+  {
+    "title": "Resident Evil 3 - Nemesis",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Resident Evil 3 - Nemesis [DC]"
+  },
+  {
+    "title": "Rez",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Rez [DC]"
+  },
+  {
+    "title": "Roadsters",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Roadsters [DC]"
+  },
+  {
+    "title": "Samba de Amigo",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Samba de Amigo [DC]"
+  },
+  {
+    "title": "San Francisco Rush 2049",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "San Francisco Rush 2049 [DC]"
+  },
+  {
+    "title": "Seaman",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Seaman [DC]"
+  },
+  {
+    "title": "Sega Bass Fishing",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Sega Bass Fishing [DC]"
+  },
+  {
+    "title": "Sega Bass Fishing 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Sega Bass Fishing 2 [DC]"
+  },
+  {
+    "title": "Sega Extreme Sports",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Sega Extreme Sports [DC]"
+  },
+  {
+    "title": "Sega GT",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Sega GT [DC]"
+  },
+  {
+    "title": "Sega Marine Fishing",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Sega Marine Fishing [DC]"
+  },
+  {
+    "title": "Sega Rally 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Sega Rally 2 [DC]"
+  },
+  {
+    "title": "Sega Smash Pack - Volume 1",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Sega Smash Pack - Volume 1 [DC]"
+  },
+  {
+    "title": "Sega Worldwide Soccer 2000",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Sega Worldwide Soccer 2000 [DC]"
+  },
+  {
+    "title": "Sega Worldwide Soccer 2000 - Euro Edition",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Sega Worldwide Soccer 2000 - Euro Edition [DC]"
+  },
+  {
+    "title": "Seventh Cross Evolution",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Seventh Cross Evolution [DC]"
+  },
+  {
+    "title": "Shadow Man",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Shadow Man [DC]"
+  },
+  {
+    "title": "Shenmue",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Shenmue [DC]"
+  },
+  {
+    "title": "Shenmue II",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Shenmue II [DC]"
+  },
+  {
+    "title": "Silent Scope",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Silent Scope [DC]"
+  },
+  {
+    "title": "Silver",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Silver [DC]"
+  },
+  {
+    "title": "Skies of Arcadia",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Skies of Arcadia [DC]"
+  },
+  {
+    "title": "Slave Zero",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Slave Zero [DC]"
+  },
+  {
+    "title": "SnoCross Championship Racing",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "SnoCross Championship Racing [DC]"
+  },
+  {
+    "title": "Snow Surfers",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Snow Surfers [DC]"
+  },
+  {
+    "title": "Soldier of Fortune",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Soldier of Fortune [DC]"
+  },
+  {
+    "title": "Sonic Adventure",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Sonic Adventure [DC]"
+  },
+  {
+    "title": "Sonic Adventure - Limited Edition",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Sonic Adventure - Limited Edition [DC]"
+  },
+  {
+    "title": "Sonic Adventure 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Sonic Adventure 2 [DC]"
+  },
+  {
+    "title": "Sonic Adventure 2 - The Trial",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Sonic Adventure 2 - The Trial [DC]"
+  },
+  {
+    "title": "Sonic Shuffle",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Sonic Shuffle [DC]"
+  },
+  {
+    "title": "Soul Fighter",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Soul Fighter [DC]"
+  },
+  {
+    "title": "Soulcalibur",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Soulcalibur [DC]"
+  },
+  {
+    "title": "South Park - Chef's Luv Shack",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "South Park - Chef's Luv Shack [DC]"
+  },
+  {
+    "title": "South Park Rally",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "South Park Rally [DC]"
+  },
+  {
+    "title": "Space Channel 5",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Space Channel 5 [DC]"
+  },
+  {
+    "title": "Spawn - In the Demon's Hand",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Spawn - In the Demon's Hand [DC]"
+  },
+  {
+    "title": "Spec Ops II - Omega Squad",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Spec Ops II - Omega Squad [DC]"
+  },
+  {
+    "title": "Speed Devils",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Speed Devils [DC]"
+  },
+  {
+    "title": "Speed Devils - Online Racing",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Speed Devils - Online Racing [DC]"
+  },
+  {
+    "title": "Spider-Man",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Spider-Man [DC]"
+  },
+  {
+    "title": "Spirit of Speed 1937",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Spirit of Speed 1937 [DC]"
+  },
+  {
+    "title": "Sports Jam",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Sports Jam [DC]"
+  },
+  {
+    "title": "Star Wars - Demolition",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Star Wars - Demolition [DC]"
+  },
+  {
+    "title": "Star Wars - Episode I - Jedi Power Battles",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Star Wars - Episode I - Jedi Power Battles [DC]"
+  },
+  {
+    "title": "Star Wars - Episode I - Racer",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Star Wars - Episode I - Racer [DC]"
+  },
+  {
+    "title": "StarLancer",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "StarLancer [DC]"
+  },
+  {
+    "title": "Street Fighter Alpha 3",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Street Fighter Alpha 3 [DC]"
+  },
+  {
+    "title": "Street Fighter III - 3rd Strike",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Street Fighter III - 3rd Strike [DC]"
+  },
+  {
+    "title": "Street Fighter III - Double Impact",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Street Fighter III - Double Impact [DC]"
+  },
+  {
+    "title": "Striker Pro 2000",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Striker Pro 2000 [DC]"
+  },
+  {
+    "title": "Stunt GP",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Stunt GP [DC]"
+  },
+  {
+    "title": "Stupid Invaders",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Stupid Invaders [DC]"
+  },
+  {
+    "title": "Super Magnetic Neo",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Super Magnetic Neo [DC]"
+  },
+  {
+    "title": "Super Runabout - San Francisco Edition",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Super Runabout - San Francisco Edition [DC]"
+  },
+  {
+    "title": "Surf Rocket Racers",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Surf Rocket Racers [DC]"
+  },
+  {
+    "title": "Suzuki Alstare - Extreme Racing",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Suzuki Alstare - Extreme Racing [DC]"
+  },
+  {
+    "title": "Sword of the Berserk - Guts' Rage",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Sword of the Berserk - Guts' Rage [DC]"
+  },
+  {
+    "title": "Sydney 2000",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Sydney 2000 [DC]"
+  },
+  {
+    "title": "Tech Romancer",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Tech Romancer [DC]"
+  },
+  {
+    "title": "Tee Off",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Tee Off [DC]"
+  },
+  {
+    "title": "Tennis 2K2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Tennis 2K2 [DC]"
+  },
+  {
+    "title": "Test Drive 6",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Test Drive 6 [DC]"
+  },
+  {
+    "title": "Test Drive Le Mans",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Test Drive Le Mans [DC]"
+  },
+  {
+    "title": "Test Drive V-Rally",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Test Drive V-Rally [DC]"
+  },
+  {
+    "title": "The Grinch",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "The Grinch [DC]"
+  },
+  {
+    "title": "The House of the Dead 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "The House of the Dead 2 [DC]"
+  },
+  {
+    "title": "The King of Fighters - Dream Match 1999",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "The King of Fighters - Dream Match 1999 [DC]"
+  },
+  {
+    "title": "The King of Fighters - Evolution",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "The King of Fighters - Evolution [DC]"
+  },
+  {
+    "title": "The Last Blade 2 - Heart of the Samurai",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "The Last Blade 2 - Heart of the Samurai [DC]"
+  },
+  {
+    "title": "The Next Tetris",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "The Next Tetris [DC]"
+  },
+  {
+    "title": "The Next Tetris - On-Line Edition",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "The Next Tetris - On-Line Edition [DC]"
+  },
+  {
+    "title": "The Nomad Soul",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "The Nomad Soul [DC]"
+  },
+  {
+    "title": "The Ring - Terror's Realm",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "The Ring - Terror's Realm [DC]"
+  },
+  {
+    "title": "The Typing of the Dead",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "The Typing of the Dead [DC]"
+  },
+  {
+    "title": "Time Stalkers",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Time Stalkers [DC]"
+  },
+  {
+    "title": "TNN Motorsports Hardcore Heat",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "TNN Motorsports Hardcore Heat [DC]"
+  },
+  {
+    "title": "Tokyo Highway Challenge",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Tokyo Highway Challenge [DC]"
+  },
+  {
+    "title": "Tokyo Highway Challenge 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Tokyo Highway Challenge 2 [DC]"
+  },
+  {
+    "title": "Tokyo Xtreme Racer",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Tokyo Xtreme Racer [DC]"
+  },
+  {
+    "title": "Tokyo Xtreme Racer 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Tokyo Xtreme Racer 2 [DC]"
+  },
+  {
+    "title": "Tom Clancy's Rainbow Six - Rogue Spear + Mission Pack - Urban Operations",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Tom Clancy's Rainbow Six - Rogue Spear + Mission Pack - Urban Operations [DC]"
+  },
+  {
+    "title": "Tom Clancy's Rainbow Six incl. Eagle Watch Missions",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Tom Clancy's Rainbow Six incl. Eagle Watch Missions [DC]"
+  },
+  {
+    "title": "Tom Clancy's Rainbow Six with Eagle Watch Missions",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Tom Clancy's Rainbow Six with Eagle Watch Missions [DC]"
+  },
+  {
+    "title": "Tomb Raider - The Last Revelation",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Tomb Raider - The Last Revelation [DC]"
+  },
+  {
+    "title": "Tomb Raider Chronicles",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Tomb Raider Chronicles [DC]"
+  },
+  {
+    "title": "Tony Hawk's Pro Skater",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Tony Hawk's Pro Skater [DC]"
+  },
+  {
+    "title": "Tony Hawk's Pro Skater 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Tony Hawk's Pro Skater 2 [DC]"
+  },
+  {
+    "title": "Tony Hawk's Skateboarding",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Tony Hawk's Skateboarding [DC]"
+  },
+  {
+    "title": "Toy Commander",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Toy Commander [DC]"
+  },
+  {
+    "title": "Toy Racer",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Toy Racer [DC]"
+  },
+  {
+    "title": "TrickStyle",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "TrickStyle [DC]"
+  },
+  {
+    "title": "UEFA Dream Soccer",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "UEFA Dream Soccer [DC]"
+  },
+  {
+    "title": "UEFA Striker",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "UEFA Striker [DC]"
+  },
+  {
+    "title": "Ultimate Fighting Championship",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Ultimate Fighting Championship [DC]"
+  },
+  {
+    "title": "Unreal Tournament",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Unreal Tournament [DC]"
+  },
+  {
+    "title": "Urban Chaos",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Urban Chaos [DC]"
+  },
+  {
+    "title": "V-Rally 2 - Expert Edition",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "V-Rally 2 - Expert Edition [DC]"
+  },
+  {
+    "title": "Vanishing Point",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Vanishing Point [DC]"
+  },
+  {
+    "title": "Vigilante 8 - 2nd Offense",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Vigilante 8 - 2nd Offense [DC]"
+  },
+  {
+    "title": "Virtua Athlete 2000",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Virtua Athlete 2000 [DC]"
+  },
+  {
+    "title": "Virtua Athlete 2K",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Virtua Athlete 2K [DC]"
+  },
+  {
+    "title": "Virtua Fighter 3tb",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Virtua Fighter 3tb [DC]"
+  },
+  {
+    "title": "Virtua Striker 2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Virtua Striker 2 [DC]"
+  },
+  {
+    "title": "Virtua Striker 2 Ver. 2000.1",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Virtua Striker 2 Ver. 2000.1 [DC]"
+  },
+  {
+    "title": "Virtua Tennis",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Virtua Tennis [DC]"
+  },
+  {
+    "title": "Virtua Tennis - Sega Professional Tennis",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Virtua Tennis - Sega Professional Tennis [DC]"
+  },
+  {
+    "title": "Wacky Races",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Wacky Races [DC]"
+  },
+  {
+    "title": "Walt Disney World Quest - Magical Racing Tour",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Walt Disney World Quest - Magical Racing Tour [DC]"
+  },
+  {
+    "title": "Wetrix+",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Wetrix+ [DC]"
+  },
+  {
+    "title": "Who Wants to Be a Millionaire",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Who Wants to Be a Millionaire [DC]"
+  },
+  {
+    "title": "Who Wants to Beat Up a Millionaire",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Who Wants to Beat Up a Millionaire [DC]"
+  },
+  {
+    "title": "Wild Metal",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Wild Metal [DC]"
+  },
+  {
+    "title": "World Series Baseball 2K1",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "World Series Baseball 2K1 [DC]"
+  },
+  {
+    "title": "World Series Baseball 2K2",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "World Series Baseball 2K2 [DC]"
+  },
+  {
+    "title": "Worms Armageddon",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Worms Armageddon [DC]"
+  },
+  {
+    "title": "Worms World Party",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Worms World Party [DC]"
+  },
+  {
+    "title": "WWF Attitude",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "WWF Attitude [DC]"
+  },
+  {
+    "title": "WWF Royal Rumble",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "WWF Royal Rumble [DC]"
+  },
+  {
+    "title": "Xtreme Sports",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Xtreme Sports [DC]"
+  },
+  {
+    "title": "Zombie Revenge",
+    "console": "Dreamcast",
+    "serial": "DC",
+    "display": "Zombie Revenge [DC]"
+  },
+  {
     "title": "007 - Blood Stone",
     "console": "DS",
     "serial": "DS",

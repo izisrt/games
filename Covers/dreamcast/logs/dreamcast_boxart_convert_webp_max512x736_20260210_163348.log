@@ -1,0 +1,4 @@
+[2026-02-10 16:33:48] START
+[2026-02-10 16:33:48] Input=C:\RetroArch-Win64\thumbnails\Sega - Dreamcast\Named_Boxarts Output=C:\Users\izidore\Desktop\CODING\GamesList\Covers\dreamcast MaxBox=512x736 qPrimary=75 qFallback=65 maxKB=120 method=6 overwrite=False NoPadding=true
+[2026-02-10 16:33:48] TotalFiles=274
+[2026-02-10 16:34:26] END converted=274 skipped=0 reencoded=0 failed=0 webpCount=274 totalMB=9.8 avgKB=36.5 maxKB=85.9

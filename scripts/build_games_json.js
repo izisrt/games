@@ -42,6 +42,7 @@ function consoleDisplayName(metaSystem, folderName) {
   if (sys.toLowerCase() === "gba" || folder.startsWith("gba")) return "GBA";
   if (sys.toLowerCase() === "gb" || folder.startsWith("gb")) return "GB";
   if (sys.toLowerCase() === "atari 2600" || folder.startsWith("atari_2600")) return "Atari 2600";
+  if (sys.toLowerCase() === "dreamcast" || folder.startsWith("dreamcast")) return "Dreamcast";
 
   // Fall back to system string as-is if present
   if (sys) return sys;
@@ -59,6 +60,7 @@ function consoleTag(metaSystem, fallback) {
   // Prefer the short console tag shown in brackets. (Index meta.system sometimes uses longer names.)
   if (sys.toLowerCase() === "nds") return "DS";
   if (sys.toLowerCase() === "atari 2600") return "2600";
+  if (sys.toLowerCase() === "dreamcast") return "DC";
   return sys || String(fallback || "").trim() || null;
 }
 
@@ -111,6 +113,8 @@ function main() {
       for (const g of games) {
         if (!g) continue;
 
+        // Dreamcast: prefer displayTitle (one per game; multi-disc already collapsed in index).
+        // stripParenGroups removes (USA), (Disc 1), etc., so we get a single title per game.
         const rawTitle =
           (g.displayTitle && String(g.displayTitle).trim()) ||
           stripTrailingBracketSerial(g.datTitle || "") ||

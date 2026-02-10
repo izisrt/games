@@ -1,0 +1,74 @@
+Generated: 2026-02-10T17:12:13
+ROMs dir: F:\Dreamcast
+M3U files: 10
+Multi-disc games (indexed via M3U): 10
+Single-disc ROMs (standalone): 296
+Matched to DAT (indexed): 304
+Missing in DAT: 2
+Missing cover: 48
+
+=== Multi-disc games (M3U) ===
+  Alone in the Dark - The New Nightmare (USA).m3u  (2 disc(s))  ->  Alone in the Dark - The New Nightmare (USA)
+  D2 (USA).m3u  (4 disc(s))  ->  D2 (USA)
+  Deep Fighter (USA).m3u  (2 disc(s))  ->  Deep Fighter (USA)
+  Headhunter (Europe) (En,Fr,De,Es).m3u  (2 disc(s))  ->  Headhunter (Europe)
+  Resident Evil - Code - Veronica (USA).m3u  (2 disc(s))  ->  Resident Evil - Code - Veronica (USA)
+  Resident Evil 2 (USA).m3u  (2 disc(s))  ->  Resident Evil 2 (USA)
+  Shenmue (USA).m3u  (3 disc(s))  ->  Shenmue (USA)
+  Shenmue II (Europe) (En,Fr,De,Es).m3u  (4 disc(s))  ->  Shenmue II (Europe)
+  Skies of Arcadia (USA).m3u  (2 disc(s))  ->  Skies of Arcadia (USA)
+  Stupid Invaders (USA).m3u  (2 disc(s))  ->  Stupid Invaders (USA)
+
+=== ROMs / M3U missing in DAT ===
+Rippin' Riders (USA).chd
+Virtua Tennis 2 - Sega Professional Tennis (Europe) (En,Fr,De,Es).chd
+
+=== Titles missing cover ===
+Aqua GT (Europe) (En,Fr,De)
+Armada (USA)
+Bang! Gunship Elite (USA) (En,Fr,De)
+Buggy Heat (Europe) (En,Fr,De,Es)
+Caesars Palace 2000 - Millennium Gold Edition (USA)
+Deadly Skies (Europe) (En,Fr,De,Es,It)
+Disney's Dinosaur (USA)
+Disney's Donald Duck - Goin' Quackers (USA)
+Disney's Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)
+ESPN NBA 2Night (USA)
+Evolution 2 - Far Off Promise (USA)
+F1 Racing Championship (Europe) (En,Fr,De,Es,It)
+F1 World Grand Prix (USA) (En,Fr,De,Es)
+F1 World Grand Prix for Dreamcast (Europe) (En,Fr,De,Es)
+F1 World Grand Prix II for Dreamcast (Europe) (En,Fr,De,Es,It)
+F355 Challenge - Passione Rossa (USA)
+Fighting Force 2 (USA) (Rev A)
+Fur Fighters (USA) (En,Fr,De,Es)
+Hidden & Dangerous (USA)
+Hoyle Casino (USA)
+Internet Browser V3.0 for Dreamcast (USA)
+Le Mans 24 Hours (Europe) (En,Fr,De,Es,It)
+Maximum Pool (USA)
+Monaco Grand Prix (USA)
+MSR - Metropolis Street Racer (USA)
+NBA Showtime - NBA on NBC (USA)
+NFL 2K1 (USA, Canada)
+Phantasy Star Online (USA) (En,Ja,Fr,De,Es)
+POD - Speedzone (USA)
+POD 2 - Multiplayer Online (Europe)
+Psychic Force 2012 (USA)
+Racing Simulation - Monaco Grand Prix (Europe) (En,Fr,De,Es,It)
+Racing Simulation 2 - Monaco Grand Prix On-Line (Europe)
+Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)
+Ready 2 Rumble Boxing (USA) (Rerelease)
+Sega Worldwide Soccer 2000 (Europe) (En,Fr,De,Es)
+Sega Worldwide Soccer 2000 - Euro Edition (Europe) (En,Fr,De,Es)
+Slave Zero (USA) (Rev A)
+Sonic Adventure - Limited Edition (USA)
+Super Runabout - San Francisco Edition (USA)
+Sword of the Berserk - Guts' Rage (USA)
+TNN Motorsports Hardcore Heat (USA)
+Tom Clancy's Rainbow Six incl. Eagle Watch Missions (Europe)
+Tomb Raider - The Last Revelation (USA)
+Toy Commander (USA) (En,Fr,De,Es)
+Wild Metal (USA) (En,Fr,De,Es,It,Pt)
+Xtreme Sports (USA)
+Zombie Revenge (USA)

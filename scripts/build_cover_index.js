@@ -51,6 +51,7 @@ function consoleKeyFromIndexFolder(folderName) {
   if (base.startsWith("ps1")) return "ps1";
   if (base.startsWith("ds")) return "ds";
   if (base.startsWith("atari_2600")) return "atari_2600";
+  if (base.startsWith("dreamcast")) return "dreamcast";
   if (base.startsWith("n64")) return "n64";
   if (base.startsWith("nes")) return "nes";
   if (base.startsWith("snes")) return "snes";
