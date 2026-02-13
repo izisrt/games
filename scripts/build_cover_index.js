@@ -52,11 +52,13 @@ function consoleKeyFromIndexFolder(folderName) {
   if (base.startsWith("ds")) return "ds";
   if (base.startsWith("atari_2600")) return "atari_2600";
   if (base.startsWith("dreamcast")) return "dreamcast";
+  if (base.startsWith("genesis") || base.startsWith("sega_genesis")) return "genesis";
   if (base.startsWith("n64")) return "n64";
   if (base.startsWith("nes")) return "nes";
   if (base.startsWith("snes")) return "snes";
   if (base.startsWith("gba")) return "gba";
-  if (base.startsWith("gb")) return "gb";  // after gba so gba_Index doesn't match
+  if (base.startsWith("gbc")) return "gbc";  // after gba so gba_Index doesn't match
+  if (base.startsWith("gb")) return "gb";  // after gba/gbc so they don't match
   // Wii + GC covers live under shared Covers/wii_gc, and runtime expects "wii_gc"
   if (base.startsWith("wii") || base.startsWith("gc")) return "wii_gc";
   return null;

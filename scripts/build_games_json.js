@@ -40,9 +40,11 @@ function consoleDisplayName(metaSystem, folderName) {
   if (sys.toLowerCase() === "nes" || folder.startsWith("nes")) return "NES";
   if (sys.toLowerCase() === "snes" || folder.startsWith("snes")) return "SNES";
   if (sys.toLowerCase() === "gba" || folder.startsWith("gba")) return "GBA";
+  if (sys.toLowerCase() === "gbc" || folder.startsWith("gbc")) return "GBC";
   if (sys.toLowerCase() === "gb" || folder.startsWith("gb")) return "GB";
   if (sys.toLowerCase() === "atari 2600" || folder.startsWith("atari_2600")) return "Atari 2600";
   if (sys.toLowerCase() === "dreamcast" || folder.startsWith("dreamcast")) return "Dreamcast";
+  if (sys.toLowerCase() === "genesis" || sys.toLowerCase() === "sega genesis" || folder.startsWith("genesis") || folder.startsWith("sega_genesis")) return "Genesis";
 
   // Fall back to system string as-is if present
   if (sys) return sys;

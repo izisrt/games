@@ -1,0 +1,7 @@
+Generated: 2026-02-13T03:33:19
+ROMs found: 414
+Matched to DAT (indexed): 414
+Missing in DAT: 0
+Missing cover: 0
+Excluded UNL: 0
+Moved UNL ROMs: 0 -> F:\GBC\gbc_index\_UNL_QUARANTINE

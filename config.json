@@ -3,6 +3,7 @@
     "GameCube": true,
     "DS": true,
     "GB": true,
+    "GBC": true,
     "GBA": true,
     "Wii": true,
     "N64": true,
@@ -11,6 +12,7 @@
     "PS1": true,
     "PS2": true,
     "Atari 2600": true,
-    "Dreamcast": true
+    "Dreamcast": true,
+    "Genesis": true
   }
 }

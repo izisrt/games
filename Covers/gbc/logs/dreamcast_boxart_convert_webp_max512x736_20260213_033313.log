@@ -1,0 +1,4 @@
+[2026-02-13 03:33:13] START
+[2026-02-13 03:33:13] Input=C:\Users\izidore\Downloads\gba fix Output=C:\Users\izidore\Desktop\CODING\GamesList\Covers\gbc MaxBox=512x736 qPrimary=75 qFallback=65 maxKB=120 method=6 overwrite=False NoPadding=true
+[2026-02-13 03:33:13] TotalFiles=4
+[2026-02-13 03:33:13] END converted=4 skipped=0 reencoded=0 failed=0 webpCount=414 totalMB=7.3 avgKB=18.0 maxKB=55.5

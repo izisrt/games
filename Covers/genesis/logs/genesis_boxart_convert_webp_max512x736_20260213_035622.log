@@ -1,0 +1,4 @@
+[2026-02-13 03:56:22] START
+[2026-02-13 03:56:22] Input=C:\RetroArch-Win64\thumbnails\Sega - Mega Drive - Genesis\Named_Boxarts Output=C:\Users\izidore\Desktop\CODING\GamesList\Covers\genesis MaxBox=512x736 qPrimary=75 qFallback=65 maxKB=120 method=6 overwrite=False NoPadding=true
+[2026-02-13 03:56:23] TotalFiles=640
+[2026-02-13 03:57:40] END converted=640 skipped=0 reencoded=2 failed=0 webpCount=640 totalMB=32.4 avgKB=51.8 maxKB=116.4
