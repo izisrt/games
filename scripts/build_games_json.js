@@ -57,6 +57,17 @@ function isRealSerialSystem(metaIdType) {
   return t === "serial" || t === "game_id";
 }
 
+function collapseDiscId(id) {
+  return String(id || "")
+    .toUpperCase()
+    .trim()
+    .replace(/[-_\s]*(DISC|DISK)\s*\d+$/i, "");
+}
+
+function isDiscId(id) {
+  return /[-_\s]*(DISC|DISK)\s*\d+$/i.test(String(id || ""));
+}
+
 function consoleTag(metaSystem, fallback) {
   const sys = String(metaSystem || "").trim();
   // Prefer the short console tag shown in brackets. (Index meta.system sometimes uses longer names.)
@@ -85,6 +96,7 @@ function main() {
 
   const out = [];
   const seen = new Set();
+  const seenDisplay = new Set();
 
   for (const sysFolder of systems) {
     const sysPath = path.join(INDEXS_ROOT, sysFolder);
@@ -131,10 +143,14 @@ function main() {
         // Deduping:
         // - For real serial systems, key by (console, serial)
         // - For crc/title systems, key by (console, normalized title)
+        // Multi-disc indexes may use per-disc IDs, but the UI displays and copies
+        // one game title, so collapse those into a single visible entry.
+        const dedupeId = collapseDiscId(rawId);
+        const titleKey = `${displayConsole}|${normalizeTitle(title)}`;
         const key =
           realSerials && hasId
-            ? `${displayConsole}|${rawId}`
-            : `${displayConsole}|${normalizeTitle(title)}`;
+            ? (isDiscId(rawId) ? titleKey : `${displayConsole}|${dedupeId || rawId}`)
+            : titleKey;
         if (seen.has(key)) continue;
         seen.add(key);
 
@@ -148,6 +164,10 @@ function main() {
 
         // Keep the real ID/serial for cover lookup (PS1/PS2/Wii/GC) without showing it.
         if (realSerials && hasId) entry.id = rawId;
+
+        const displayKey = `${entry.console}|${normalizeTitle(entry.display)}`;
+        if (seenDisplay.has(displayKey)) continue;
+        seenDisplay.add(displayKey);
 
         out.push(entry);
       }

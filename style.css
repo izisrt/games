@@ -265,7 +265,7 @@ select:focus { border-color: var(--accent); }
   aspect-ratio: 512 / 736;
   height: auto;
   border-radius: 0;
-  background: transparent;
+  background: linear-gradient(135deg, #181c22, #0f1216);
   overflow: hidden;
   cursor: pointer;
 }
@@ -276,6 +276,10 @@ select:focus { border-color: var(--accent); }
   object-fit: cover;
   object-position: 50% 50%;
   display: block;
+}
+
+.grid-tile.loading .grid-cover-img {
+  opacity: 0;
 }
 
 /* GBA covers: keep cover-crop but bias view to the right */
@@ -316,9 +320,16 @@ select:focus { border-color: var(--accent); }
   opacity: 1;
 }
 
-/* For missing covers, always show the overlay text (title/serial) */
+/* Keep tiles legible while cover art is loading or unavailable. */
+.grid-tile.loading .grid-overlay,
 .grid-tile.missing-cover .grid-overlay {
   opacity: 1;
+}
+.grid-tile.loading .grid-overlay {
+  background: rgba(0, 0, 0, 0.48);
+}
+.grid-tile.missing-cover .grid-overlay {
+  background: rgba(0, 0, 0, 0.72);
 }
 .grid-tile.missing-cover .grid-overlay-text {
   color: #ffffff;
@@ -487,10 +498,17 @@ button.copy:active { background: rgba(255,255,255,0.1); }
     font-size: 14px;
   }
   .controls select,
-  .controls .view-toggle,
+  .controls .view-toggle {
+    flex: 1 1 0;
+    min-width: 0;
+    padding: var(--space) 8px;
+    font-size: 13px;
+  }
   .controls .console-picker {
     flex: 1 1 0;
     min-width: 0;
+  }
+  .controls .console-picker > summary {
     padding: var(--space) 8px;
     font-size: 13px;
   }

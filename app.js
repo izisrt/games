@@ -27,7 +27,6 @@ const GRID_OVERSCAN_ROWS = 4;
 // Default to grid view
 let viewMode = "grid"; // "list" | "grid"
 let coverIndex = null;
-let coverObserver = null;
 
 function getRowHeight() {
   const px = getComputedStyle(document.documentElement).getPropertyValue("--row-height").trim();
@@ -67,6 +66,8 @@ let letterIndex = {};
 let scrollRAF = null;
 let gridItems = null; // derived array used only in grid view
 let selectedConsoles = null; // Set<string> | null
+let virtualRevision = 0;
+let lastVirtualRenderKey = "";
 
 // --- Helpers shared by list + grid views ---
 
@@ -142,29 +143,6 @@ function getCoverUrl(g) {
 
   // 3) Placeholder
   return MISSING_COVER_PATH;
-}
-
-function setupCoverObserver() {
-  if (coverObserver || !("IntersectionObserver" in window)) return;
-  coverObserver = new IntersectionObserver(
-    (entries) => {
-      for (const entry of entries) {
-        if (!entry.isIntersecting) continue;
-        const img = entry.target;
-        const src = img.dataset.src;
-        if (src) {
-          img.src = src;
-          img.removeAttribute("data-src");
-        }
-        coverObserver.unobserve(img);
-      }
-    },
-    {
-      root: els.listScroll || null,
-      rootMargin: "100px 0px",
-      threshold: 0.01,
-    }
-  );
 }
 
 function setViewMode(mode) {
@@ -346,15 +324,14 @@ function createCard(g) {
 
 function createGridTile(g) {
   const li = document.createElement("li");
-  li.className = "grid-tile";
+  li.className = "grid-tile loading";
 
   const img = document.createElement("img");
   img.className = "grid-cover-img";
   img.alt = g.title || "";
-  img.loading = "lazy";
+  img.decoding = "async";
 
   const coverUrl = getCoverUrl(g);
-  img.dataset.src = coverUrl;
 
   const consoleKey = getConsoleKey(g.console);
   // Useful for console-specific styling (crop tweaks, etc.)
@@ -368,9 +345,6 @@ function createGridTile(g) {
   if (coverUrl === MISSING_COVER_PATH) {
     li.classList.add("missing-cover");
   }
-  // Immediately set src for visible tiles so images stay present while scrolling
-  // IntersectionObserver will still manage lazy loading behavior for future tiles.
-  img.src = coverUrl;
 
   const overlay = document.createElement("div");
   overlay.className = "grid-overlay";
@@ -385,11 +359,21 @@ function createGridTile(g) {
 
   li.addEventListener("click", () => copyText(displayText(g)));
 
-  if (coverObserver) {
-    coverObserver.observe(img);
-  } else {
-    img.src = coverUrl;
-  }
+  img.addEventListener("load", () => {
+    li.classList.remove("loading");
+  });
+  img.addEventListener("error", () => {
+    li.classList.add("missing-cover");
+    li.classList.remove("loading");
+    img.classList.remove("fit-contain");
+    if (!img.src.endsWith(MISSING_COVER_PATH)) {
+      img.src = MISSING_COVER_PATH;
+    }
+  });
+
+  // The grid is already virtualized, so eager loading the small visible window
+  // avoids blank tiles while the user scrolls into newly rendered rows.
+  img.src = coverUrl;
 
   return li;
 }
@@ -439,6 +423,17 @@ function updateVirtualList() {
 
     const startIndex = startRow * cols;
     const endIndex = Math.min(totalItems, endRow * cols);
+    const renderKey = [
+      virtualRevision,
+      "grid",
+      cols,
+      totalItems,
+      startIndex,
+      endIndex,
+    ].join(":");
+
+    if (renderKey === lastVirtualRenderKey) return;
+    lastVirtualRenderKey = renderKey;
 
     els.list.innerHTML = "";
     for (let i = startIndex; i < endIndex; i++) {
@@ -460,10 +455,14 @@ function updateVirtualList() {
     total,
     Math.ceil((scrollTop + containerHeight) / rowH) + OVERSCAN
   );
+  const renderKey = [virtualRevision, "list", total, start, end].join(":");
 
   els.listInner.style.height = `${total * rowH}px`;
   els.listWindow.style.top = `${start * rowH}px`;
   els.listWindow.style.height = `${(end - start) * rowH}px`;
+
+  if (renderKey === lastVirtualRenderKey) return;
+  lastVirtualRenderKey = renderKey;
 
   els.list.innerHTML = "";
   for (let i = start; i < end; i++) {
@@ -526,7 +525,6 @@ function renderAzJump() {
 function applyFilters() {
   const q = norm(els.search.value);
   const sort = els.sortBy.value;
-  const searchText = getSearchText();
 
   let items = allGames;
 
@@ -541,17 +539,6 @@ function applyFilters() {
 
   let sorted = [...items];
   let effectiveSort = sort;
-
-  // In grid view: typing forces A–Z, clearing forces Random.
-  if (viewMode === "grid" && els.sortBy) {
-    if (searchText.length > 0) {
-      effectiveSort = "title";
-      els.sortBy.value = "title";
-    } else {
-      effectiveSort = "random";
-      els.sortBy.value = "random";
-    }
-  }
 
   if (effectiveSort === "title") {
     sorted.sort((a, b) => {
@@ -596,6 +583,8 @@ function applyFilters() {
   }
 
   if (els.listScroll) els.listScroll.scrollTop = 0;
+  virtualRevision++;
+  lastVirtualRenderKey = "";
   if (els.sortBy.value === "title") buildLetterIndex();
   renderAzJump();
   updateVirtualList();
@@ -669,7 +658,6 @@ async function init() {
   }
 
   if (els.listScroll) {
-    setupCoverObserver();
     els.listScroll.addEventListener("scroll", () => {
       if (scrollRAF) cancelAnimationFrame(scrollRAF);
       scrollRAF = requestAnimationFrame(() => {

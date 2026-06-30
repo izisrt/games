@@ -14629,25 +14629,11 @@
     "id": "GKBEAF-DISC1"
   },
   {
-    "title": "Baten Kaitos - Eternal Wings and the Lost Ocean",
-    "console": "GameCube",
-    "serial": "GC",
-    "display": "Baten Kaitos - Eternal Wings and the Lost Ocean [GC]",
-    "id": "GKBEAF-DISC2"
-  },
-  {
     "title": "Baten Kaitos Origins",
     "console": "GameCube",
     "serial": "GC",
     "display": "Baten Kaitos Origins [GC]",
     "id": "GK4E01-DISC1"
-  },
-  {
-    "title": "Baten Kaitos Origins",
-    "console": "GameCube",
-    "serial": "GC",
-    "display": "Baten Kaitos Origins [GC]",
-    "id": "GK4E01-DISC2"
   },
   {
     "title": "Batman - Dark Tomorrow",
@@ -15392,13 +15378,6 @@
     "id": "GMXE70-DISC1"
   },
   {
-    "title": "Enter the Matrix",
-    "console": "GameCube",
-    "serial": "GC",
-    "display": "Enter the Matrix [GC]",
-    "id": "GMXE70-DISC2"
-  },
-  {
     "title": "ESPN International Winter Sports 2002",
     "console": "GameCube",
     "serial": "GC",
@@ -15560,13 +15539,6 @@
     "id": "GFFE5D-DISC1"
   },
   {
-    "title": "Freaky Flyers",
-    "console": "GameCube",
-    "serial": "GC",
-    "display": "Freaky Flyers [GC]",
-    "id": "GFFE5D-DISC2"
-  },
-  {
     "title": "Freedom Fighters",
     "console": "GameCube",
     "serial": "GC",
@@ -15677,13 +15649,6 @@
     "serial": "GC",
     "display": "GoldenEye - Rogue Agent [GC]",
     "id": "GOYE69-DISC1"
-  },
-  {
-    "title": "GoldenEye - Rogue Agent",
-    "console": "GameCube",
-    "serial": "GC",
-    "display": "GoldenEye - Rogue Agent [GC]",
-    "id": "GOYE69-DISC2"
   },
   {
     "title": "Gotcha Force",
@@ -15887,13 +15852,6 @@
     "serial": "GC",
     "display": "Killer7 [GC]",
     "id": "GK7E08-DISC1"
-  },
-  {
-    "title": "Killer7",
-    "console": "GameCube",
-    "serial": "GC",
-    "display": "Killer7 [GC]",
-    "id": "GK7E08-DISC2"
   },
   {
     "title": "King Arthur",
@@ -16169,13 +16127,6 @@
     "id": "GR8E69-DISC1"
   },
   {
-    "title": "Medal of Honor - Rising Sun",
-    "console": "GameCube",
-    "serial": "GC",
-    "display": "Medal of Honor - Rising Sun [GC]",
-    "id": "GR8E69-DISC2"
-  },
-  {
     "title": "Mega Man Anniversary Collection",
     "console": "GameCube",
     "serial": "GC",
@@ -16223,13 +16174,6 @@
     "serial": "GC",
     "display": "Metal Gear Solid - The Twin Snakes [GC]",
     "id": "GGSEA4-DISC1"
-  },
-  {
-    "title": "Metal Gear Solid - The Twin Snakes",
-    "console": "GameCube",
-    "serial": "GC",
-    "display": "Metal Gear Solid - The Twin Snakes [GC]",
-    "id": "GGSEA4-DISC2"
   },
   {
     "title": "Metroid Prime",
@@ -17037,25 +16981,11 @@
     "id": "GBIE08-DISC1"
   },
   {
-    "title": "Resident Evil",
-    "console": "GameCube",
-    "serial": "GC",
-    "display": "Resident Evil [GC]",
-    "id": "GBIE08-DISC2"
-  },
-  {
     "title": "Resident Evil - Code - Veronica X",
     "console": "GameCube",
     "serial": "GC",
     "display": "Resident Evil - Code - Veronica X [GC]",
     "id": "GCDE08-DISC1"
-  },
-  {
-    "title": "Resident Evil - Code - Veronica X",
-    "console": "GameCube",
-    "serial": "GC",
-    "display": "Resident Evil - Code - Veronica X [GC]",
-    "id": "GCDE08-DISC2"
   },
   {
     "title": "Resident Evil 2",
@@ -17079,25 +17009,11 @@
     "id": "G4BE08-DISC1"
   },
   {
-    "title": "Resident Evil 4",
-    "console": "GameCube",
-    "serial": "GC",
-    "display": "Resident Evil 4 [GC]",
-    "id": "G4BE08-DISC2"
-  },
-  {
     "title": "Resident Evil Zero",
     "console": "GameCube",
     "serial": "GC",
     "display": "Resident Evil Zero [GC]",
     "id": "GBZE08-DISC1"
-  },
-  {
-    "title": "Resident Evil Zero",
-    "console": "GameCube",
-    "serial": "GC",
-    "display": "Resident Evil Zero [GC]",
-    "id": "GBZE08-DISC2"
   },
   {
     "title": "Ribbit King",
@@ -17597,13 +17513,6 @@
     "id": "GQSEAF-DISC1"
   },
   {
-    "title": "Tales of Symphonia",
-    "console": "GameCube",
-    "serial": "GC",
-    "display": "Tales of Symphonia [GC]",
-    "id": "GQSEAF-DISC2"
-  },
-  {
     "title": "Taz - Wanted",
     "console": "GameCube",
     "serial": "GC",
@@ -17632,25 +17541,11 @@
     "id": "GNIEA4-DISC1"
   },
   {
-    "title": "Teenage Mutant Ninja Turtles 2 - Battle Nexus",
-    "console": "GameCube",
-    "serial": "GC",
-    "display": "Teenage Mutant Ninja Turtles 2 - Battle Nexus [GC]",
-    "id": "GNIEA4-DISC2"
-  },
-  {
     "title": "Teenage Mutant Ninja Turtles 3 - Mutant Nightmare",
     "console": "GameCube",
     "serial": "GC",
     "display": "Teenage Mutant Ninja Turtles 3 - Mutant Nightmare [GC]",
     "id": "G3QEA4-DISC1"
-  },
-  {
-    "title": "Teenage Mutant Ninja Turtles 3 - Mutant Nightmare",
-    "console": "GameCube",
-    "serial": "GC",
-    "display": "Teenage Mutant Ninja Turtles 3 - Mutant Nightmare [GC]",
-    "id": "G3QEA4-DISC2"
   },
   {
     "title": "Terminator 3 - The Redemption",
@@ -17779,13 +17674,6 @@
     "id": "G3AE69-DISC1"
   },
   {
-    "title": "The Lord of the Rings - The Third Age",
-    "console": "GameCube",
-    "serial": "GC",
-    "display": "The Lord of the Rings - The Third Age [GC]",
-    "id": "G3AE69-DISC2"
-  },
-  {
     "title": "The Lord of the Rings - The Two Towers",
     "console": "GameCube",
     "serial": "GC",
@@ -17891,25 +17779,11 @@
     "id": "GW4E69-DISC1"
   },
   {
-    "title": "Tiger Woods PGA Tour 2004",
-    "console": "GameCube",
-    "serial": "GC",
-    "display": "Tiger Woods PGA Tour 2004 [GC]",
-    "id": "GW4E69-DISC2"
-  },
-  {
     "title": "Tiger Woods PGA Tour 2005",
     "console": "GameCube",
     "serial": "GC",
     "display": "Tiger Woods PGA Tour 2005 [GC]",
     "id": "G5TE69-DISC1"
-  },
-  {
-    "title": "Tiger Woods PGA Tour 2005",
-    "console": "GameCube",
-    "serial": "GC",
-    "display": "Tiger Woods PGA Tour 2005 [GC]",
-    "id": "G5TE69-DISC2"
   },
   {
     "title": "TimeSplitters - Future Perfect",
@@ -17989,25 +17863,11 @@
     "id": "GCJE41-DISC1"
   },
   {
-    "title": "Tom Clancy's Splinter Cell - Chaos Theory",
-    "console": "GameCube",
-    "serial": "GC",
-    "display": "Tom Clancy's Splinter Cell - Chaos Theory [GC]",
-    "id": "GCJE41-DISC2"
-  },
-  {
     "title": "Tom Clancy's Splinter Cell - Double Agent",
     "console": "GameCube",
     "serial": "GC",
     "display": "Tom Clancy's Splinter Cell - Double Agent [GC]",
     "id": "GWYE41-DISC1"
-  },
-  {
-    "title": "Tom Clancy's Splinter Cell - Double Agent",
-    "console": "GameCube",
-    "serial": "GC",
-    "display": "Tom Clancy's Splinter Cell - Double Agent [GC]",
-    "id": "GWYE41-DISC2"
   },
   {
     "title": "Tom Clancy's Splinter Cell - Pandora Tomorrow",
@@ -40722,13 +40582,6 @@
     "id": "SLUS-01201-DISC1"
   },
   {
-    "title": "Alone in the Dark The New Nightmare",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Alone in the Dark The New Nightmare [PS1]",
-    "id": "SLUS-01377-DISC2"
-  },
-  {
     "title": "Alundra",
     "console": "PS1",
     "serial": "PS1",
@@ -40820,13 +40673,6 @@
     "id": "SLUS-01253-DISC1"
   },
   {
-    "title": "Arc the Lad Collection Arc the Lad III",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Arc the Lad Collection Arc the Lad III [PS1]",
-    "id": "SLUS-01254-DISC2"
-  },
-  {
     "title": "Arc the Lad Collection The Making of Arc the Lad",
     "console": "PS1",
     "serial": "PS1",
@@ -40881,13 +40727,6 @@
     "serial": "PS1",
     "display": "Armored Core Master of Arena [PS1]",
     "id": "SLUS-01030-DISC1"
-  },
-  {
-    "title": "Armored Core Master of Arena",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Armored Core Master of Arena [PS1]",
-    "id": "SLUS-01081-DISC2"
   },
   {
     "title": "Armored Core Project Phantasma",
@@ -41506,13 +41345,6 @@
     "id": "SLUS-00083-DISC1"
   },
   {
-    "title": "BrainDead 13",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "BrainDead 13 [PS1]",
-    "id": "SLUS-00171-DISC2"
-  },
-  {
     "title": "Bratz Dress Up, Get Down and Be a Bratz Superstar!",
     "console": "PS1",
     "serial": "PS1",
@@ -41912,13 +41744,6 @@
     "id": "SCUS-94700-DISC1"
   },
   {
-    "title": "Chronicles of the Sword",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Chronicles of the Sword [PS1]",
-    "id": "SCUS-94701-DISC2"
-  },
-  {
     "title": "Circuit Breakers",
     "console": "PS1",
     "serial": "PS1",
@@ -41996,13 +41821,6 @@
     "id": "SLUS-00543-DISC1"
   },
   {
-    "title": "Colony Wars",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Colony Wars [PS1]",
-    "id": "SLUS-00554-DISC2"
-  },
-  {
     "title": "Colony Wars Red Sun",
     "console": "PS1",
     "serial": "PS1",
@@ -42017,13 +41835,6 @@
     "id": "SLUS-00379-DISC1"
   },
   {
-    "title": "Command & Conquer",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Command & Conquer [PS1]",
-    "id": "SLUS-00410-DISC2"
-  },
-  {
     "title": "Command & Conquer Red Alert",
     "console": "PS1",
     "serial": "PS1",
@@ -42031,25 +41842,11 @@
     "id": "SLUS-00431-DISC1"
   },
   {
-    "title": "Command & Conquer Red Alert",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Command & Conquer Red Alert [PS1]",
-    "id": "SLUS-00485-DISC2"
-  },
-  {
     "title": "Command & Conquer Red Alert Retaliation",
     "console": "PS1",
     "serial": "PS1",
     "display": "Command & Conquer Red Alert Retaliation [PS1]",
     "id": "SLUS-00665-DISC1"
-  },
-  {
-    "title": "Command & Conquer Red Alert Retaliation",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Command & Conquer Red Alert Retaliation [PS1]",
-    "id": "SLUS-00667-DISC2"
   },
   {
     "title": "Contender",
@@ -42115,13 +41912,6 @@
     "id": "SLUS-00898-DISC1"
   },
   {
-    "title": "Countdown Vampires",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Countdown Vampires [PS1]",
-    "id": "SLUS-01199-DISC2"
-  },
-  {
     "title": "Courier Crisis The Saga of the Modern Fatalist",
     "console": "PS1",
     "serial": "PS1",
@@ -42134,13 +41924,6 @@
     "serial": "PS1",
     "display": "Covert Ops Nuclear Dawn [PS1]",
     "id": "SLUS-01151-DISC1"
-  },
-  {
-    "title": "Covert Ops Nuclear Dawn",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Covert Ops Nuclear Dawn [PS1]",
-    "id": "SLUS-01157-DISC2"
   },
   {
     "title": "Crash Bandicoot",
@@ -42766,25 +42549,11 @@
     "id": "SLUS-01440-DISC1"
   },
   {
-    "title": "Dracula The Last Sanctuary",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Dracula The Last Sanctuary [PS1]",
-    "id": "SLUS-01443-DISC2"
-  },
-  {
     "title": "Dracula The Resurrection",
     "console": "PS1",
     "serial": "PS1",
     "display": "Dracula The Resurrection [PS1]",
     "id": "SLUS-01284-DISC1"
-  },
-  {
-    "title": "Dracula The Resurrection",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Dracula The Resurrection [PS1]",
-    "id": "SLUS-01316-DISC2"
   },
   {
     "title": "Dragon Ball GT - Final Bout",
@@ -42822,25 +42591,11 @@
     "id": "SLUS-01092-DISC1"
   },
   {
-    "title": "Dragon Valor",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Dragon Valor [PS1]",
-    "id": "SLUS-01164-DISC2"
-  },
-  {
     "title": "Dragon Warrior VII",
     "console": "PS1",
     "serial": "PS1",
     "display": "Dragon Warrior VII [PS1]",
     "id": "SLUS-01206-DISC1"
-  },
-  {
-    "title": "Dragon Warrior VII",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Dragon Warrior VII [PS1]",
-    "id": "SLUS-01346-DISC2"
   },
   {
     "title": "DragonHeart Fire & Steel",
@@ -42855,13 +42610,6 @@
     "serial": "PS1",
     "display": "Driver 2 [PS1]",
     "id": "SLUS-01161-DISC1"
-  },
-  {
-    "title": "Driver 2",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Driver 2 [PS1]",
-    "id": "SLUS-01318-DISC2"
   },
   {
     "title": "Driver You Are the Wheelman",
@@ -43102,13 +42850,6 @@
     "id": "SLUS-01072-DISC1"
   },
   {
-    "title": "Evil Dead Hail to the King",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Evil Dead Hail to the King [PS1]",
-    "id": "SLUS-01326-DISC2"
-  },
-  {
     "title": "Evil Zone",
     "console": "PS1",
     "serial": "PS1",
@@ -43228,53 +42969,11 @@
     "id": "SLUS-00920-DISC1"
   },
   {
-    "title": "Fear Effect",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Fear Effect [PS1]",
-    "id": "SLUS-01056-DISC2"
-  },
-  {
-    "title": "Fear Effect",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Fear Effect [PS1]",
-    "id": "SLUS-01057-DISC3"
-  },
-  {
-    "title": "Fear Effect",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Fear Effect [PS1]",
-    "id": "SLUS-01058-DISC4"
-  },
-  {
     "title": "Fear Effect 2 Retro Helix",
     "console": "PS1",
     "serial": "PS1",
     "display": "Fear Effect 2 Retro Helix [PS1]",
     "id": "SLUS-01266-DISC1"
-  },
-  {
-    "title": "Fear Effect 2 Retro Helix",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Fear Effect 2 Retro Helix [PS1]",
-    "id": "SLUS-01275-DISC2"
-  },
-  {
-    "title": "Fear Effect 2 Retro Helix",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Fear Effect 2 Retro Helix [PS1]",
-    "id": "SLUS-01276-DISC3"
-  },
-  {
-    "title": "Fear Effect 2 Retro Helix",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Fear Effect 2 Retro Helix [PS1]",
-    "id": "SLUS-01277-DISC4"
   },
   {
     "title": "Felony 11-79",
@@ -43431,46 +43130,11 @@
     "id": "SCUS-94163-DISC1"
   },
   {
-    "title": "Final Fantasy VII",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Final Fantasy VII [PS1]",
-    "id": "SCUS-94164-DISC2"
-  },
-  {
-    "title": "Final Fantasy VII",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Final Fantasy VII [PS1]",
-    "id": "SCUS-94165-DISC3"
-  },
-  {
     "title": "Final Fantasy VIII",
     "console": "PS1",
     "serial": "PS1",
     "display": "Final Fantasy VIII [PS1]",
     "id": "SLUS-00892-DISC1"
-  },
-  {
-    "title": "Final Fantasy VIII",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Final Fantasy VIII [PS1]",
-    "id": "SLUS-00908-DISC2"
-  },
-  {
-    "title": "Final Fantasy VIII",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Final Fantasy VIII [PS1]",
-    "id": "SLUS-00909-DISC3"
-  },
-  {
-    "title": "Final Fantasy VIII",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Final Fantasy VIII [PS1]",
-    "id": "SLUS-00910-DISC4"
   },
   {
     "title": "Fisherman's Bait 2 Big Ol' Bass",
@@ -43550,20 +43214,6 @@
     "id": "SLUS-00101-DISC1"
   },
   {
-    "title": "Fox Hunt",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Fox Hunt [PS1]",
-    "id": "SLUS-00175-DISC2"
-  },
-  {
-    "title": "Fox Hunt",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Fox Hunt [PS1]",
-    "id": "SLUS-00176-DISC3"
-  },
-  {
     "title": "FOX Sports Golf '99",
     "console": "PS1",
     "serial": "PS1",
@@ -43641,13 +43291,6 @@
     "id": "SLUS-00544-DISC1"
   },
   {
-    "title": "G-Police",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "G-Police [PS1]",
-    "id": "SLUS-00556-DISC2"
-  },
-  {
     "title": "G-Police Weapons of Justice",
     "console": "PS1",
     "serial": "PS1",
@@ -43674,20 +43317,6 @@
     "serial": "PS1",
     "display": "Galerians [PS1]",
     "id": "SLUS-00986-DISC1"
-  },
-  {
-    "title": "Galerians",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Galerians [PS1]",
-    "id": "SLUS-01098-DISC2"
-  },
-  {
-    "title": "Galerians",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Galerians [PS1]",
-    "id": "SLUS-01099-DISC3"
   },
   {
     "title": "Gallop Racer",
@@ -43781,13 +43410,6 @@
     "id": "SLUS-00319-DISC1"
   },
   {
-    "title": "Golden Nugget",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Golden Nugget [PS1]",
-    "id": "SLUS-00555-DISC2"
-  },
-  {
     "title": "Gran Turismo",
     "console": "PS1",
     "serial": "PS1",
@@ -43842,13 +43464,6 @@
     "serial": "PS1",
     "display": "Grandia [PS1]",
     "id": "SCUS-94457-DISC1"
-  },
-  {
-    "title": "Grandia",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Grandia [PS1]",
-    "id": "SCUS-94465-DISC2"
   },
   {
     "title": "Grid Runner",
@@ -43961,13 +43576,6 @@
     "serial": "PS1",
     "display": "Heart of Darkness [PS1]",
     "id": "SLUS-00696-DISC1"
-  },
-  {
-    "title": "Heart of Darkness",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Heart of Darkness [PS1]",
-    "id": "SLUS-00741-DISC2"
   },
   {
     "title": "Hellboy Asylum Seeker",
@@ -44115,13 +43723,6 @@
     "serial": "PS1",
     "display": "In Cold Blood [PS1]",
     "id": "SLUS-01294-DISC1"
-  },
-  {
-    "title": "In Cold Blood",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "In Cold Blood [PS1]",
-    "id": "SLUS-01314-DISC2"
   },
   {
     "title": "In the Hunt",
@@ -44383,20 +43984,6 @@
     "id": "SLUS-00894-DISC1"
   },
   {
-    "title": "Juggernaut",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Juggernaut [PS1]",
-    "id": "SLUS-00988-DISC2"
-  },
-  {
-    "title": "Juggernaut",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Juggernaut [PS1]",
-    "id": "SLUS-00989-DISC3"
-  },
-  {
     "title": "Jumping Flash!",
     "console": "PS1",
     "serial": "PS1",
@@ -44572,27 +44159,6 @@
     "id": "SLUS-01051-DISC1"
   },
   {
-    "title": "Koudelka",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Koudelka [PS1]",
-    "id": "SLUS-01100-DISC2"
-  },
-  {
-    "title": "Koudelka",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Koudelka [PS1]",
-    "id": "SLUS-01101-DISC3"
-  },
-  {
-    "title": "Koudelka",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Koudelka [PS1]",
-    "id": "SLUS-01102-DISC4"
-  },
-  {
     "title": "Krazy Ivan",
     "console": "PS1",
     "serial": "PS1",
@@ -44740,32 +44306,11 @@
     "id": "SLUS-01071-DISC1"
   },
   {
-    "title": "Lunar 2 Eternal Blue Complete",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Lunar 2 Eternal Blue Complete [PS1]",
-    "id": "SLUS-01239-DISC2"
-  },
-  {
-    "title": "Lunar 2 Eternal Blue Complete",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Lunar 2 Eternal Blue Complete [PS1]",
-    "id": "SLUS-01240-DISC3"
-  },
-  {
     "title": "Lunar Silver Star Story Complete",
     "console": "PS1",
     "serial": "PS1",
     "display": "Lunar Silver Star Story Complete [PS1]",
     "id": "SLUS-00628-DISC1"
-  },
-  {
-    "title": "Lunar Silver Star Story Complete",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Lunar Silver Star Story Complete [PS1]",
-    "id": "SLUS-00899-DISC2"
   },
   {
     "title": "M&M's Shell Shocked",
@@ -45053,13 +44598,6 @@
     "serial": "PS1",
     "display": "Metal Gear Solid [PS1]",
     "id": "SLUS-00594-DISC1"
-  },
-  {
-    "title": "Metal Gear Solid",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Metal Gear Solid [PS1]",
-    "id": "SLUS-00776-DISC2"
   },
   {
     "title": "Metal Gear Solid VR Missions",
@@ -46315,13 +45853,6 @@
     "id": "SCUS-94404-DISC1"
   },
   {
-    "title": "Novastorm",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Novastorm [PS1]",
-    "id": "SCUS-94407-DISC2"
-  },
-  {
     "title": "Nuclear Strike",
     "console": "PS1",
     "serial": "PS1",
@@ -46341,13 +45872,6 @@
     "serial": "PS1",
     "display": "Oddworld Abe's Exoddus [PS1]",
     "id": "SLUS-00710-DISC1"
-  },
-  {
-    "title": "Oddworld Abe's Exoddus",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Oddworld Abe's Exoddus [PS1]",
-    "id": "SLUS-00731-DISC2"
   },
   {
     "title": "Oddworld Abe's Oddysee",
@@ -46467,13 +45991,6 @@
     "serial": "PS1",
     "display": "Parasite Eve [PS1]",
     "id": "SLUS-00662-DISC1"
-  },
-  {
-    "title": "Parasite Eve",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Parasite Eve [PS1]",
-    "id": "SLUS-00668-DISC2"
   },
   {
     "title": "Patriotic Pinball",
@@ -46840,20 +46357,6 @@
     "id": "SLUS-00165-DISC1"
   },
   {
-    "title": "Psychic Detective",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Psychic Detective [PS1]",
-    "id": "SLUS-00166-DISC2"
-  },
-  {
-    "title": "Psychic Detective",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Psychic Detective [PS1]",
-    "id": "SLUS-00167-DISC3"
-  },
-  {
     "title": "Psychic Force",
     "console": "PS1",
     "serial": "PS1",
@@ -47197,25 +46700,11 @@
     "id": "SLUS-00421-DISC1"
   },
   {
-    "title": "Resident Evil 2",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Resident Evil 2 [PS1]",
-    "id": "SLUS-00592-DISC2"
-  },
-  {
     "title": "Resident Evil 2 Dual Shock Ver.",
     "console": "PS1",
     "serial": "PS1",
     "display": "Resident Evil 2 Dual Shock Ver. [PS1]",
     "id": "SLUS-00748-DISC1"
-  },
-  {
-    "title": "Resident Evil 2 Dual Shock Ver.",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Resident Evil 2 Dual Shock Ver. [PS1]",
-    "id": "SLUS-00756-DISC2"
   },
   {
     "title": "Resident Evil Director's Cut",
@@ -47309,46 +46798,11 @@
     "id": "SLUS-00681-DISC1"
   },
   {
-    "title": "Rival Schools United by Fate",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Rival Schools United by Fate [PS1]",
-    "id": "SLUS-00771-DISC2"
-  },
-  {
     "title": "Riven The Sequel to Myst",
     "console": "PS1",
     "serial": "PS1",
     "display": "Riven The Sequel to Myst [PS1]",
     "id": "SLUS-00535-DISC1"
-  },
-  {
-    "title": "Riven The Sequel to Myst",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Riven The Sequel to Myst [PS1]",
-    "id": "SLUS-00563-DISC2"
-  },
-  {
-    "title": "Riven The Sequel to Myst",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Riven The Sequel to Myst [PS1]",
-    "id": "SLUS-00564-DISC3"
-  },
-  {
-    "title": "Riven The Sequel to Myst",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Riven The Sequel to Myst [PS1]",
-    "id": "SLUS-00565-DISC4"
-  },
-  {
-    "title": "Riven The Sequel to Myst",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Riven The Sequel to Myst [PS1]",
-    "id": "SLUS-00580-DISC5"
   },
   {
     "title": "Road & Track Presents The Need for Speed",
@@ -47666,13 +47120,6 @@
     "id": "SLUS-00468-DISC1"
   },
   {
-    "title": "Shadow Madness",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Shadow Madness [PS1]",
-    "id": "SLUS-00718-DISC2"
-  },
-  {
     "title": "Shadow Master",
     "console": "PS1",
     "serial": "PS1",
@@ -47720,13 +47167,6 @@
     "serial": "PS1",
     "display": "Shockwave Assault [PS1]",
     "id": "SLUS-00028-DISC1"
-  },
-  {
-    "title": "Shockwave Assault",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Shockwave Assault [PS1]",
-    "id": "SLUS-00137-DISC2"
   },
   {
     "title": "Shrek Treasure Hunt",
@@ -48121,13 +47561,6 @@
     "id": "SCUS-94421-DISC1"
   },
   {
-    "title": "Star Ocean The Second Story",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Star Ocean The Second Story [PS1]",
-    "id": "SCUS-94422-DISC2"
-  },
-  {
     "title": "Star Trek Invasion",
     "console": "PS1",
     "serial": "PS1",
@@ -48175,13 +47608,6 @@
     "serial": "PS1",
     "display": "Star Wars Rebel Assault II The Hidden Empire [PS1]",
     "id": "SLUS-00381-DISC1"
-  },
-  {
-    "title": "Star Wars Rebel Assault II The Hidden Empire",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Star Wars Rebel Assault II The Hidden Empire [PS1]",
-    "id": "SLUS-00386-DISC2"
   },
   {
     "title": "Starblade Alpha",
@@ -48259,13 +47685,6 @@
     "serial": "PS1",
     "display": "Street Fighter Collection [PS1]",
     "id": "SLUS-00584-DISC2"
-  },
-  {
-    "title": "Street Fighter Collection",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Street Fighter Collection [PS1]",
-    "id": "SLUS-00423-DISC1"
   },
   {
     "title": "Street Fighter Collection 2",
@@ -48457,13 +47876,6 @@
     "id": "SCUS-94451-DISC1"
   },
   {
-    "title": "Syphon Filter 2",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Syphon Filter 2 [PS1]",
-    "id": "SCUS-94492-DISC2"
-  },
-  {
     "title": "Syphon Filter 3",
     "console": "PS1",
     "serial": "PS1",
@@ -48518,20 +47930,6 @@
     "serial": "PS1",
     "display": "Tales of Destiny II [PS1]",
     "id": "SLUS-01355-DISC1"
-  },
-  {
-    "title": "Tales of Destiny II",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Tales of Destiny II [PS1]",
-    "id": "SLUS-01367-DISC2"
-  },
-  {
-    "title": "Tales of Destiny II",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Tales of Destiny II [PS1]",
-    "id": "SLUS-01368-DISC3"
   },
   {
     "title": "Tall Infinity",
@@ -48800,13 +48198,6 @@
     "id": "SLUS-00120-DISC1"
   },
   {
-    "title": "The Hive",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "The Hive [PS1]",
-    "id": "SLUS-00182-DISC2"
-  },
-  {
     "title": "The Italian Job",
     "console": "PS1",
     "serial": "PS1",
@@ -48898,27 +48289,6 @@
     "id": "SLUS-00915-DISC1"
   },
   {
-    "title": "The X-Files",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "The X-Files [PS1]",
-    "id": "SLUS-00949-DISC2"
-  },
-  {
-    "title": "The X-Files",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "The X-Files [PS1]",
-    "id": "SLUS-00950-DISC3"
-  },
-  {
-    "title": "The X-Files",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "The X-Files [PS1]",
-    "id": "SLUS-00951-DISC4"
-  },
-  {
     "title": "Theme Hospital",
     "console": "PS1",
     "serial": "PS1",
@@ -48938,13 +48308,6 @@
     "serial": "PS1",
     "display": "Thousand Arms [PS1]",
     "id": "SLUS-00845-DISC1"
-  },
-  {
-    "title": "Thousand Arms",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Thousand Arms [PS1]",
-    "id": "SLUS-00858-DISC2"
   },
   {
     "title": "Thrasher Skate and Destroy",
@@ -49472,13 +48835,6 @@
     "id": "SLUS-01156-DISC1"
   },
   {
-    "title": "Valkyrie Profile",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Valkyrie Profile [PS1]",
-    "id": "SLUS-01179-DISC2"
-  },
-  {
     "title": "Vampire Hunter D",
     "console": "PS1",
     "serial": "PS1",
@@ -49780,13 +49136,6 @@
     "id": "SCUS-94484-DISC1"
   },
   {
-    "title": "Wild Arms 2",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Wild Arms 2 [PS1]",
-    "id": "SCUS-94498-DISC2"
-  },
-  {
     "title": "Wild Thornberrys, The Animal Adventures",
     "console": "PS1",
     "serial": "PS1",
@@ -49808,53 +49157,11 @@
     "id": "SLUS-00019-DISC1"
   },
   {
-    "title": "Wing Commander III Heart of the Tiger",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Wing Commander III Heart of the Tiger [PS1]",
-    "id": "SLUS-00134-DISC2"
-  },
-  {
-    "title": "Wing Commander III Heart of the Tiger",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Wing Commander III Heart of the Tiger [PS1]",
-    "id": "SLUS-00135-DISC3"
-  },
-  {
-    "title": "Wing Commander III Heart of the Tiger",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Wing Commander III Heart of the Tiger [PS1]",
-    "id": "SLUS-00136-DISC4"
-  },
-  {
     "title": "Wing Commander IV The Price of Freedom",
     "console": "PS1",
     "serial": "PS1",
     "display": "Wing Commander IV The Price of Freedom [PS1]",
     "id": "SLUS-00270-DISC1"
-  },
-  {
-    "title": "Wing Commander IV The Price of Freedom",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Wing Commander IV The Price of Freedom [PS1]",
-    "id": "SLUS-00271-DISC2"
-  },
-  {
-    "title": "Wing Commander IV The Price of Freedom",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Wing Commander IV The Price of Freedom [PS1]",
-    "id": "SLUS-00272-DISC3"
-  },
-  {
-    "title": "Wing Commander IV The Price of Freedom",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Wing Commander IV The Price of Freedom [PS1]",
-    "id": "SLUS-00273-DISC4"
   },
   {
     "title": "Wipeout",
@@ -50067,13 +49374,6 @@
     "id": "SLUS-00664-DISC1"
   },
   {
-    "title": "Xenogears",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "Xenogears [PS1]",
-    "id": "SLUS-00669-DISC2"
-  },
-  {
     "title": "Xevious 3D-G+",
     "console": "PS1",
     "serial": "PS1",
@@ -50121,13 +49421,6 @@
     "serial": "PS1",
     "display": "You Don't Know Jack [PS1]",
     "id": "SLUS-00716-DISC1"
-  },
-  {
-    "title": "You Don't Know Jack",
-    "console": "PS1",
-    "serial": "PS1",
-    "display": "You Don't Know Jack [PS1]",
-    "id": "SLUS-00762-DISC2"
   },
   {
     "title": "You Don't Know Jack Mock 2",
@@ -50590,13 +49883,6 @@
     "serial": "PS2",
     "display": "Armored Core - Nexus [PS2]",
     "id": "SLUS-20986-DISC1"
-  },
-  {
-    "title": "Armored Core - Nexus",
-    "console": "PS2",
-    "serial": "PS2",
-    "display": "Armored Core - Nexus [PS2]",
-    "id": "SLUS-21079-DISC2"
   },
   {
     "title": "Armored Core - Nine Breaker",
@@ -51971,13 +51257,6 @@
     "id": "SLUS-20697-DISC1"
   },
   {
-    "title": "Cy Girls",
-    "console": "PS2",
-    "serial": "PS2",
-    "display": "Cy Girls [PS2]",
-    "id": "SLUS-20854-DISC2"
-  },
-  {
     "title": "Cyber Troopers - Virtual-On Marz",
     "console": "PS2",
     "serial": "PS2",
@@ -52235,13 +51514,6 @@
     "serial": "PS2",
     "display": "Devil May Cry 2 [PS2]",
     "id": "SLUS-20484-DISC1"
-  },
-  {
-    "title": "Devil May Cry 2",
-    "console": "PS2",
-    "serial": "PS2",
-    "display": "Devil May Cry 2 [PS2]",
-    "id": "SLUS-20627-DISC2"
   },
   {
     "title": "Devil May Cry 3 - Dante's Awakening",
@@ -54204,13 +53476,6 @@
     "id": "SLUS-21334-DISC1"
   },
   {
-    "title": "Grandia III",
-    "console": "PS2",
-    "serial": "PS2",
-    "display": "Grandia III [PS2]",
-    "id": "SLUS-21345-DISC2"
-  },
-  {
     "title": "Grandia Xtreme",
     "console": "PS2",
     "serial": "PS2",
@@ -54272,13 +53537,6 @@
     "serial": "PS2",
     "display": "Growlanser Generations [PS2]",
     "id": "SLUS-20758-DISC1"
-  },
-  {
-    "title": "Growlanser Generations",
-    "console": "PS2",
-    "serial": "PS2",
-    "display": "Growlanser Generations [PS2]",
-    "id": "SLUS-20759-DISC2"
   },
   {
     "title": "Guilty Gear Isuka",
@@ -56085,20 +55343,6 @@
     "serial": "PS2",
     "display": "Metal Gear Solid 3 - Subsistence [PS2]",
     "id": "SLUS-21359-DISC1"
-  },
-  {
-    "title": "Metal Gear Solid 3 - Subsistence",
-    "console": "PS2",
-    "serial": "PS2",
-    "display": "Metal Gear Solid 3 - Subsistence [PS2]",
-    "id": "SLUS-21243-DISC2"
-  },
-  {
-    "title": "Metal Gear Solid 3 - Subsistence",
-    "console": "PS2",
-    "serial": "PS2",
-    "display": "Metal Gear Solid 3 - Subsistence [PS2]",
-    "id": "SLUS-21360-DISC3"
   },
   {
     "title": "Metal Saga",
@@ -57984,13 +57228,6 @@
     "id": "SLUS-21180-DISC1"
   },
   {
-    "title": "Onimusha - Dawn of Dreams",
-    "console": "PS2",
-    "serial": "PS2",
-    "display": "Onimusha - Dawn of Dreams [PS2]",
-    "id": "SLUS-21362-DISC2"
-  },
-  {
     "title": "Onimusha - Warlords",
     "console": "PS2",
     "serial": "PS2",
@@ -59083,13 +58320,6 @@
     "id": "SLUS-21927-DISC1"
   },
   {
-    "title": "Sakura Wars - So Long, My Love",
-    "console": "PS2",
-    "serial": "PS2",
-    "display": "Sakura Wars - So Long, My Love [PS2]",
-    "id": "SLUS-21930-DISC2"
-  },
-  {
     "title": "Salt Lake 2002",
     "console": "PS2",
     "serial": "PS2",
@@ -59361,13 +58591,6 @@
     "serial": "PS2",
     "display": "Shadow Hearts - Covenant [PS2]",
     "id": "SLUS-21041-DISC1"
-  },
-  {
-    "title": "Shadow Hearts - Covenant",
-    "console": "PS2",
-    "serial": "PS2",
-    "display": "Shadow Hearts - Covenant [PS2]",
-    "id": "SLUS-21044-DISC2"
   },
   {
     "title": "Shadow Hearts - From the New World",
@@ -59979,13 +59202,6 @@
     "id": "SLUS-20806-DISC1"
   },
   {
-    "title": "Space Channel 5 - Special Edition",
-    "console": "PS2",
-    "serial": "PS2",
-    "display": "Space Channel 5 - Special Edition [PS2]",
-    "id": "SLUS-20807-DISC2"
-  },
-  {
     "title": "Space Chimps",
     "console": "PS2",
     "serial": "PS2",
@@ -60180,13 +59396,6 @@
     "serial": "PS2",
     "display": "Star Ocean - Till the End of Time [PS2]",
     "id": "SLUS-20488-DISC1"
-  },
-  {
-    "title": "Star Ocean - Till the End of Time",
-    "console": "PS2",
-    "serial": "PS2",
-    "display": "Star Ocean - Till the End of Time [PS2]",
-    "id": "SLUS-20891-DISC2"
   },
   {
     "title": "Star Trek - Conquest",
@@ -62695,25 +61904,11 @@
     "id": "SLUS-20892-DISC1"
   },
   {
-    "title": "Xenosaga Episode II - Jenseits von Gut und Boese",
-    "console": "PS2",
-    "serial": "PS2",
-    "display": "Xenosaga Episode II - Jenseits von Gut und Boese [PS2]",
-    "id": "SLUS-21133-DISC2"
-  },
-  {
     "title": "Xenosaga Episode III - Also sprach Zarathustra",
     "console": "PS2",
     "serial": "PS2",
     "display": "Xenosaga Episode III - Also sprach Zarathustra [PS2]",
     "id": "SLUS-21389-DISC1"
-  },
-  {
-    "title": "Xenosaga Episode III - Also sprach Zarathustra",
-    "console": "PS2",
-    "serial": "PS2",
-    "display": "Xenosaga Episode III - Also sprach Zarathustra [PS2]",
-    "id": "SLUS-21417-DISC2"
   },
   {
     "title": "XGIII - Extreme G Racing",
@@ -68998,13 +68193,6 @@
     "serial": "Wii",
     "display": "Country Dance [Wii]",
     "id": "SQ2EPZ"
-  },
-  {
-    "title": "Country Dance",
-    "console": "Wii",
-    "serial": "Wii",
-    "display": "Country Dance [Wii]",
-    "id": "SQ3EPZ"
   },
   {
     "title": "Country Dance 2",
@@ -75601,13 +74789,6 @@
     "id": "RU5Y4Q"
   },
   {
-    "title": "The Princess and the Frog",
-    "console": "Wii",
-    "serial": "Wii",
-    "display": "The Princess and the Frog [Wii]",
-    "id": "RU5E4Q"
-  },
-  {
     "title": "The Secret Saturdays - Beasts of the 5th Sun",
     "console": "Wii",
     "serial": "Wii",
@@ -76096,13 +75277,6 @@
     "serial": "Wii",
     "display": "U-Sing 2 [Wii]",
     "id": "SU3HMR"
-  },
-  {
-    "title": "U-Sing 2",
-    "console": "Wii",
-    "serial": "Wii",
-    "display": "U-Sing 2 [Wii]",
-    "id": "SU3PMR"
   },
   {
     "title": "U-Sing 2 - Australian Edition",

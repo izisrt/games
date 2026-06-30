@@ -123,6 +123,8 @@ function buildFromIndexs() {
           fs.statSync(path.join(COVERS_ROOT, coverFolder)).isDirectory();
 
         const folder = metaFolderOk ? coverFolder : (consoleKey || "");
+        const absCoverPath = path.join(COVERS_ROOT, folder, coverFile);
+        if (!fs.existsSync(absCoverPath)) continue;
         const relCoverPath = `Covers/${folder}/${coverFile}`.replace(/\\/g, "/");
 
         const titleCandidate =
@@ -203,10 +205,9 @@ function main() {
   const usedIndexs = buildFromIndexs();
   if (usedIndexs) {
     console.log(`Built cover index from: ${INDEXS_ROOT}`);
-  } else {
-    console.log(`Scanning covers under: ${COVERS_ROOT}`);
-    walk(COVERS_ROOT);
   }
+  console.log(`Scanning covers under: ${COVERS_ROOT}`);
+  walk(COVERS_ROOT);
 
   fs.mkdirSync(OUTPUT_DIR, { recursive: true });
   const index = { bySerial, byTitle };
