@@ -10,6 +10,7 @@ const OUTPUT_FILE = path.join(OUTPUT_DIR, "coverIndex.json");
 function normalizeTitle(title) {
   let s = (title || "").toLowerCase();
   s = s.replace(/&/g, "and");
+  s = s.replace(/[-_]\s*0?1$/g, " ");
   s = s.replace(/\([^)]*\)/g, " ");
   s = s.replace(/[^a-z0-9]+/g, " ");
   s = s.replace(/\s+/g, " ").trim();
