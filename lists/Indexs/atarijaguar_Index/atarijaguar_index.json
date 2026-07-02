@@ -1,0 +1,663 @@
+{
+  "meta": {
+    "system": "Atari Jaguar",
+    "platform_key": "atarijaguar",
+    "console_tag": "JAG",
+    "id_type": "crc32",
+    "preserve_id": true,
+    "playlist_file": "C:/RetroArch-Win64/playlists/Atari - Jaguar.lpl",
+    "roms_dir": "F:/Jaguar",
+    "art_dir": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar",
+    "generated_from": "RetroArch playlist",
+    "generated_at": "2026-07-02T05:46:20.385Z",
+    "count": 46,
+    "missing_rom_count": 0,
+    "missing_cover_count": 0
+  },
+  "games": [
+    {
+      "id": "dc187f82",
+      "console": "Atari Jaguar",
+      "datTitle": "Alien vs Predator (World)",
+      "displayTitle": "Alien vs Predator (World)",
+      "searchKey": "alien vs predator",
+      "searchKeys": [
+        "alien vs predator"
+      ],
+      "romPath": "F:/Jaguar/Alien vs Predator (World).j64",
+      "romFile": "Alien vs Predator (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Alien vs Predator (World).png",
+      "coverFile": "Alien vs Predator (World).png"
+    },
+    {
+      "id": "e28756de",
+      "console": "Atari Jaguar",
+      "datTitle": "Atari Karts (World)",
+      "displayTitle": "Atari Karts (World)",
+      "searchKey": "atari karts",
+      "searchKeys": [
+        "atari karts"
+      ],
+      "romPath": "F:/Jaguar/Atari Karts (World).j64",
+      "romFile": "Atari Karts (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Atari Karts (World).png",
+      "coverFile": "Atari Karts (World).png"
+    },
+    {
+      "id": "cd5bf827",
+      "console": "Atari Jaguar",
+      "datTitle": "Attack of the Mutant Penguins (World)",
+      "displayTitle": "Attack of the Mutant Penguins (World)",
+      "searchKey": "attack of the mutant penguins",
+      "searchKeys": [
+        "attack of the mutant penguins"
+      ],
+      "romPath": "F:/Jaguar/Attack of the Mutant Penguins (World).j64",
+      "romFile": "Attack of the Mutant Penguins (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Attack of the Mutant Penguins (World).png",
+      "coverFile": "Attack of the Mutant Penguins (World).png"
+    },
+    {
+      "id": "b5604d40",
+      "console": "Atari Jaguar",
+      "datTitle": "Breakout 2000 (USA, Europe)",
+      "displayTitle": "Breakout 2000 (USA, Europe)",
+      "searchKey": "breakout 2000",
+      "searchKeys": [
+        "breakout 2000"
+      ],
+      "romPath": "F:/Jaguar/Breakout 2000 (USA, Europe).j64",
+      "romFile": "Breakout 2000 (USA, Europe).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Breakout 2000 (USA, Europe).png",
+      "coverFile": "Breakout 2000 (USA, Europe).png"
+    },
+    {
+      "id": "bcb1a4bf",
+      "console": "Atari Jaguar",
+      "datTitle": "Brutal Sports Football (World)",
+      "displayTitle": "Brutal Sports Football (World)",
+      "searchKey": "brutal sports football",
+      "searchKeys": [
+        "brutal sports football"
+      ],
+      "romPath": "F:/Jaguar/Brutal Sports Football (World).j64",
+      "romFile": "Brutal Sports Football (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Brutal Sports Football (World).png",
+      "coverFile": "Brutal Sports Football (World).png"
+    },
+    {
+      "id": "2e17d5da",
+      "console": "Atari Jaguar",
+      "datTitle": "Bubsy in Fractured Furry Tales (World)",
+      "displayTitle": "Bubsy in Fractured Furry Tales (World)",
+      "searchKey": "bubsy in fractured furry tales",
+      "searchKeys": [
+        "bubsy in fractured furry tales"
+      ],
+      "romPath": "F:/Jaguar/Bubsy in Fractured Furry Tales (World).j64",
+      "romFile": "Bubsy in Fractured Furry Tales (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Bubsy in Fractured Furry Tales (World).png",
+      "coverFile": "Bubsy in Fractured Furry Tales (World).png"
+    },
+    {
+      "id": "bda405c6",
+      "console": "Atari Jaguar",
+      "datTitle": "Cannon Fodder (World)",
+      "displayTitle": "Cannon Fodder (World)",
+      "searchKey": "cannon fodder",
+      "searchKeys": [
+        "cannon fodder"
+      ],
+      "romPath": "F:/Jaguar/Cannon Fodder (World).j64",
+      "romFile": "Cannon Fodder (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Cannon Fodder (World).png",
+      "coverFile": "Cannon Fodder (World).png"
+    },
+    {
+      "id": "fa7775ae",
+      "console": "Atari Jaguar",
+      "datTitle": "Checkered Flag (World)",
+      "displayTitle": "Checkered Flag (World)",
+      "searchKey": "checkered flag",
+      "searchKeys": [
+        "checkered flag"
+      ],
+      "romPath": "F:/Jaguar/Checkered Flag (World).j64",
+      "romFile": "Checkered Flag (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Checkered Flag (World).png",
+      "coverFile": "Checkered Flag (World).png"
+    },
+    {
+      "id": "eee8d61d",
+      "console": "Atari Jaguar",
+      "datTitle": "Club Drive (World)",
+      "displayTitle": "Club Drive (World)",
+      "searchKey": "club drive",
+      "searchKeys": [
+        "club drive"
+      ],
+      "romPath": "F:/Jaguar/Club Drive (World).j64",
+      "romFile": "Club Drive (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Club Drive (World).png",
+      "coverFile": "Club Drive (World).png"
+    },
+    {
+      "id": "bde67498",
+      "console": "Atari Jaguar",
+      "datTitle": "Cybermorph (World) (Rev A)",
+      "displayTitle": "Cybermorph (World) (Rev A)",
+      "searchKey": "cybermorph",
+      "searchKeys": [
+        "cybermorph"
+      ],
+      "romPath": "F:/Jaguar/Cybermorph (World) (Rev A).j64",
+      "romFile": "Cybermorph (World) (Rev A).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Cybermorph (World) (Rev A).png",
+      "coverFile": "Cybermorph (World) (Rev A).png"
+    },
+    {
+      "id": "27594c6a",
+      "console": "Atari Jaguar",
+      "datTitle": "Defender 2000 (World)",
+      "displayTitle": "Defender 2000 (World)",
+      "searchKey": "defender 2000",
+      "searchKeys": [
+        "defender 2000"
+      ],
+      "romPath": "F:/Jaguar/Defender 2000 (World).j64",
+      "romFile": "Defender 2000 (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Defender 2000 (World).png",
+      "coverFile": "Defender 2000 (World).png"
+    },
+    {
+      "id": "5e2cdbc0",
+      "console": "Atari Jaguar",
+      "datTitle": "Doom (World)",
+      "displayTitle": "Doom (World)",
+      "searchKey": "doom",
+      "searchKeys": [
+        "doom"
+      ],
+      "romPath": "F:/Jaguar/Doom (World).j64",
+      "romFile": "Doom (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Doom (World).png",
+      "coverFile": "Doom (World).png"
+    },
+    {
+      "id": "348e6449",
+      "console": "Atari Jaguar",
+      "datTitle": "Double Dragon V - The Shadow Falls (World)",
+      "displayTitle": "Double Dragon V - The Shadow Falls (World)",
+      "searchKey": "double dragon v the shadow falls",
+      "searchKeys": [
+        "double dragon v the shadow falls"
+      ],
+      "romPath": "F:/Jaguar/Double Dragon V - The Shadow Falls (World).j64",
+      "romFile": "Double Dragon V - The Shadow Falls (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Double Dragon V - The Shadow Falls (World).png",
+      "coverFile": "Double Dragon V - The Shadow Falls (World).png"
+    },
+    {
+      "id": "8fea5ab0",
+      "console": "Atari Jaguar",
+      "datTitle": "Dragon - The Bruce Lee Story (World)",
+      "displayTitle": "Dragon - The Bruce Lee Story (World)",
+      "searchKey": "dragon the bruce lee story",
+      "searchKeys": [
+        "dragon the bruce lee story"
+      ],
+      "romPath": "F:/Jaguar/Dragon - The Bruce Lee Story (World).j64",
+      "romFile": "Dragon - The Bruce Lee Story (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Dragon - The Bruce Lee Story (World).png",
+      "coverFile": "Dragon - The Bruce Lee Story (World).png"
+    },
+    {
+      "id": "0ec5369d",
+      "console": "Atari Jaguar",
+      "datTitle": "Evolution - Dino Dudes (World)",
+      "displayTitle": "Evolution - Dino Dudes (World)",
+      "searchKey": "evolution dino dudes",
+      "searchKeys": [
+        "evolution dino dudes"
+      ],
+      "romPath": "F:/Jaguar/Evolution - Dino Dudes (World).j64",
+      "romFile": "Evolution - Dino Dudes (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Evolution - Dino Dudes (World).png",
+      "coverFile": "Evolution - Dino Dudes (World).png"
+    },
+    {
+      "id": "3615af6a",
+      "console": "Atari Jaguar",
+      "datTitle": "Fever Pitch Soccer (World) (En,Fr,De,Es,It)",
+      "displayTitle": "Fever Pitch Soccer (World) (En,Fr,De,Es,It)",
+      "searchKey": "fever pitch soccer",
+      "searchKeys": [
+        "fever pitch soccer"
+      ],
+      "romPath": "F:/Jaguar/Fever Pitch Soccer (World) (En,Fr,De,Es,It).j64",
+      "romFile": "Fever Pitch Soccer (World) (En,Fr,De,Es,It).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Fever Pitch Soccer (World) (En,Fr,De,Es,It).png",
+      "coverFile": "Fever Pitch Soccer (World) (En,Fr,De,Es,It).png"
+    },
+    {
+      "id": "b14c4753",
+      "console": "Atari Jaguar",
+      "datTitle": "Fight for Life (USA, Europe)",
+      "displayTitle": "Fight for Life (USA, Europe)",
+      "searchKey": "fight for life",
+      "searchKeys": [
+        "fight for life"
+      ],
+      "romPath": "F:/Jaguar/Fight for Life (USA, Europe).j64",
+      "romFile": "Fight for Life (USA, Europe).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Fight for Life (USA, Europe).png",
+      "coverFile": "Fight for Life (USA, Europe).png"
+    },
+    {
+      "id": "de55dcc7",
+      "console": "Atari Jaguar",
+      "datTitle": "Flashback - The Quest for Identity (World) (En,Fr)",
+      "displayTitle": "Flashback - The Quest for Identity (World) (En,Fr)",
+      "searchKey": "flashback the quest for identity",
+      "searchKeys": [
+        "flashback the quest for identity"
+      ],
+      "romPath": "F:/Jaguar/Flashback - The Quest for Identity (World) (En,Fr).j64",
+      "romFile": "Flashback - The Quest for Identity (World) (En,Fr).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Flashback - The Quest for Identity (World) (En,Fr).png",
+      "coverFile": "Flashback - The Quest for Identity (World) (En,Fr).png"
+    },
+    {
+      "id": "892bc67c",
+      "console": "Atari Jaguar",
+      "datTitle": "Flip Out! (World)",
+      "displayTitle": "Flip Out! (World)",
+      "searchKey": "flip out",
+      "searchKeys": [
+        "flip out"
+      ],
+      "romPath": "F:/Jaguar/Flip Out! (World).j64",
+      "romFile": "Flip Out! (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Flip Out! (World).png",
+      "coverFile": "Flip Out! (World).png"
+    },
+    {
+      "id": "4899628f",
+      "console": "Atari Jaguar",
+      "datTitle": "Hover Strike (World)",
+      "displayTitle": "Hover Strike (World)",
+      "searchKey": "hover strike",
+      "searchKeys": [
+        "hover strike"
+      ],
+      "romPath": "F:/Jaguar/Hover Strike (World).j64",
+      "romFile": "Hover Strike (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Hover Strike (World).png",
+      "coverFile": "Hover Strike (World).png"
+    },
+    {
+      "id": "97eb4651",
+      "console": "Atari Jaguar",
+      "datTitle": "I-War (USA, Europe)",
+      "displayTitle": "I-War (USA, Europe)",
+      "searchKey": "i war",
+      "searchKeys": [
+        "i war"
+      ],
+      "romPath": "F:/Jaguar/I-War (USA, Europe).j64",
+      "romFile": "I-War (USA, Europe).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/I-War (USA, Europe).png",
+      "coverFile": "I-War (USA, Europe).png"
+    },
+    {
+      "id": "5a101212",
+      "console": "Atari Jaguar",
+      "datTitle": "International Sensible Soccer (World)",
+      "displayTitle": "International Sensible Soccer (World)",
+      "searchKey": "international sensible soccer",
+      "searchKeys": [
+        "international sensible soccer"
+      ],
+      "romPath": "F:/Jaguar/International Sensible Soccer (World).j64",
+      "romFile": "International Sensible Soccer (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/International Sensible Soccer (World).png",
+      "coverFile": "International Sensible Soccer (World).png"
+    },
+    {
+      "id": "08f15576",
+      "console": "Atari Jaguar",
+      "datTitle": "Iron Soldier (World)",
+      "displayTitle": "Iron Soldier (World)",
+      "searchKey": "iron soldier",
+      "searchKeys": [
+        "iron soldier"
+      ],
+      "romPath": "F:/Jaguar/Iron Soldier (World).j64",
+      "romFile": "Iron Soldier (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Iron Soldier (World).png",
+      "coverFile": "Iron Soldier (World).png"
+    },
+    {
+      "id": "0957a072",
+      "console": "Atari Jaguar",
+      "datTitle": "Kasumi Ninja (World)",
+      "displayTitle": "Kasumi Ninja (World)",
+      "searchKey": "kasumi ninja",
+      "searchKeys": [
+        "kasumi ninja"
+      ],
+      "romPath": "F:/Jaguar/Kasumi Ninja (World).j64",
+      "romFile": "Kasumi Ninja (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Kasumi Ninja (World).png",
+      "coverFile": "Kasumi Ninja (World).png"
+    },
+    {
+      "id": "da9c4162",
+      "console": "Atari Jaguar",
+      "datTitle": "Missile Command 3D (World)",
+      "displayTitle": "Missile Command 3D (World)",
+      "searchKey": "missile command 3d",
+      "searchKeys": [
+        "missile command 3d"
+      ],
+      "romPath": "F:/Jaguar/Missile Command 3D (World).j64",
+      "romFile": "Missile Command 3D (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Missile Command 3D (World).png",
+      "coverFile": "Missile Command 3D (World).png"
+    },
+    {
+      "id": "0ac83d77",
+      "console": "Atari Jaguar",
+      "datTitle": "NBA Jam - Tournament Edition (USA, Europe)",
+      "displayTitle": "NBA Jam - Tournament Edition (USA, Europe)",
+      "searchKey": "nba jam tournament edition",
+      "searchKeys": [
+        "nba jam tournament edition"
+      ],
+      "romPath": "F:/Jaguar/NBA Jam - Tournament Edition (USA, Europe).j64",
+      "romFile": "NBA Jam - Tournament Edition (USA, Europe).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/NBA Jam - Tournament Edition (USA, Europe).png",
+      "coverFile": "NBA Jam - Tournament Edition (USA, Europe).png"
+    },
+    {
+      "id": "5cff14ab",
+      "console": "Atari Jaguar",
+      "datTitle": "Pinball Fantasies (World)",
+      "displayTitle": "Pinball Fantasies (World)",
+      "searchKey": "pinball fantasies",
+      "searchKeys": [
+        "pinball fantasies"
+      ],
+      "romPath": "F:/Jaguar/Pinball Fantasies (World).j64",
+      "romFile": "Pinball Fantasies (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Pinball Fantasies (World).png",
+      "coverFile": "Pinball Fantasies (World).png"
+    },
+    {
+      "id": "817a2273",
+      "console": "Atari Jaguar",
+      "datTitle": "Pitfall - The Mayan Adventure (USA, Europe)",
+      "displayTitle": "Pitfall - The Mayan Adventure (USA, Europe)",
+      "searchKey": "pitfall the mayan adventure",
+      "searchKeys": [
+        "pitfall the mayan adventure"
+      ],
+      "romPath": "F:/Jaguar/Pitfall - The Mayan Adventure (USA, Europe).j64",
+      "romFile": "Pitfall - The Mayan Adventure (USA, Europe).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Pitfall - The Mayan Adventure (USA, Europe).png",
+      "coverFile": "Pitfall - The Mayan Adventure (USA, Europe).png"
+    },
+    {
+      "id": "1660f070",
+      "console": "Atari Jaguar",
+      "datTitle": "Power Drive Rally (World)",
+      "displayTitle": "Power Drive Rally (World)",
+      "searchKey": "power drive rally",
+      "searchKeys": [
+        "power drive rally"
+      ],
+      "romPath": "F:/Jaguar/Power Drive Rally (World).j64",
+      "romFile": "Power Drive Rally (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Power Drive Rally (World).png",
+      "coverFile": "Power Drive Rally (World).png"
+    },
+    {
+      "id": "31812799",
+      "console": "Atari Jaguar",
+      "datTitle": "Raiden (World) (Rev A)",
+      "displayTitle": "Raiden (World) (Rev A)",
+      "searchKey": "raiden",
+      "searchKeys": [
+        "raiden"
+      ],
+      "romPath": "F:/Jaguar/Raiden (World) (Rev A).j64",
+      "romFile": "Raiden (World) (Rev A).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Raiden (World) (Rev A).png",
+      "coverFile": "Raiden (World) (Rev A).png"
+    },
+    {
+      "id": "a9f8a00e",
+      "console": "Atari Jaguar",
+      "datTitle": "Rayman (World)",
+      "displayTitle": "Rayman (World)",
+      "searchKey": "rayman",
+      "searchKeys": [
+        "rayman"
+      ],
+      "romPath": "F:/Jaguar/Rayman (World).j64",
+      "romFile": "Rayman (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Rayman (World).png",
+      "coverFile": "Rayman (World).png"
+    },
+    {
+      "id": "5b6bb205",
+      "console": "Atari Jaguar",
+      "datTitle": "Ruiner Pinball (USA, Europe)",
+      "displayTitle": "Ruiner Pinball (USA, Europe)",
+      "searchKey": "ruiner pinball",
+      "searchKeys": [
+        "ruiner pinball"
+      ],
+      "romPath": "F:/Jaguar/Ruiner Pinball (USA, Europe).j64",
+      "romFile": "Ruiner Pinball (USA, Europe).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Ruiner Pinball (USA, Europe).png",
+      "coverFile": "Ruiner Pinball (USA, Europe).png"
+    },
+    {
+      "id": "6f8b2547",
+      "console": "Atari Jaguar",
+      "datTitle": "Super Burnout (World)",
+      "displayTitle": "Super Burnout (World)",
+      "searchKey": "super burnout",
+      "searchKeys": [
+        "super burnout"
+      ],
+      "romPath": "F:/Jaguar/Super Burnout (World).j64",
+      "romFile": "Super Burnout (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Super Burnout (World).png",
+      "coverFile": "Super Burnout (World).png"
+    },
+    {
+      "id": "ec22f572",
+      "console": "Atari Jaguar",
+      "datTitle": "Supercross 3D (USA, Europe)",
+      "displayTitle": "Supercross 3D (USA, Europe)",
+      "searchKey": "supercross 3d",
+      "searchKeys": [
+        "supercross 3d"
+      ],
+      "romPath": "F:/Jaguar/Supercross 3D (USA, Europe).j64",
+      "romFile": "Supercross 3D (USA, Europe).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Supercross 3D (USA, Europe).png",
+      "coverFile": "Supercross 3D (USA, Europe).png"
+    },
+    {
+      "id": "58272540",
+      "console": "Atari Jaguar",
+      "datTitle": "Syndicate (World)",
+      "displayTitle": "Syndicate (World)",
+      "searchKey": "syndicate",
+      "searchKeys": [
+        "syndicate"
+      ],
+      "romPath": "F:/Jaguar/Syndicate (World).j64",
+      "romFile": "Syndicate (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Syndicate (World).png",
+      "coverFile": "Syndicate (World).png"
+    },
+    {
+      "id": "6b2b95ad",
+      "console": "Atari Jaguar",
+      "datTitle": "Tempest 2000 (World)",
+      "displayTitle": "Tempest 2000 (World)",
+      "searchKey": "tempest 2000",
+      "searchKeys": [
+        "tempest 2000"
+      ],
+      "romPath": "F:/Jaguar/Tempest 2000 (World).j64",
+      "romFile": "Tempest 2000 (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Tempest 2000 (World).png",
+      "coverFile": "Tempest 2000 (World).png"
+    },
+    {
+      "id": "47ebc158",
+      "console": "Atari Jaguar",
+      "datTitle": "Theme Park (World)",
+      "displayTitle": "Theme Park (World)",
+      "searchKey": "theme park",
+      "searchKeys": [
+        "theme park"
+      ],
+      "romPath": "F:/Jaguar/Theme Park (World).j64",
+      "romFile": "Theme Park (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Theme Park (World).png",
+      "coverFile": "Theme Park (World).png"
+    },
+    {
+      "id": "83a3fb5d",
+      "console": "Atari Jaguar",
+      "datTitle": "Towers II - Plight of the Stargazer (USA, Europe)",
+      "displayTitle": "Towers II - Plight of the Stargazer (USA, Europe)",
+      "searchKey": "towers ii plight of the stargazer",
+      "searchKeys": [
+        "towers ii plight of the stargazer"
+      ],
+      "romPath": "F:/Jaguar/Towers II - Plight of the Stargazer (USA, Europe).j64",
+      "romFile": "Towers II - Plight of the Stargazer (USA, Europe).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Towers II - Plight of the Stargazer (USA, Europe).png",
+      "coverFile": "Towers II - Plight of the Stargazer (USA, Europe).png"
+    },
+    {
+      "id": "1e451446",
+      "console": "Atari Jaguar",
+      "datTitle": "Trevor McFur in the Crescent Galaxy (World) (Rev A)",
+      "displayTitle": "Trevor McFur in the Crescent Galaxy (World) (Rev A)",
+      "searchKey": "trevor mcfur in the crescent galaxy",
+      "searchKeys": [
+        "trevor mcfur in the crescent galaxy"
+      ],
+      "romPath": "F:/Jaguar/Trevor McFur in the Crescent Galaxy (World) (Rev A).j64",
+      "romFile": "Trevor McFur in the Crescent Galaxy (World) (Rev A).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Trevor McFur in the Crescent Galaxy (World) (Rev A).png",
+      "coverFile": "Trevor McFur in the Crescent Galaxy (World) (Rev A).png"
+    },
+    {
+      "id": "38a130ed",
+      "console": "Atari Jaguar",
+      "datTitle": "Troy Aikman NFL Football (World)",
+      "displayTitle": "Troy Aikman NFL Football (World)",
+      "searchKey": "troy aikman nfl football",
+      "searchKeys": [
+        "troy aikman nfl football"
+      ],
+      "romPath": "F:/Jaguar/Troy Aikman NFL Football (World).j64",
+      "romFile": "Troy Aikman NFL Football (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Troy Aikman NFL Football (World).png",
+      "coverFile": "Troy Aikman NFL Football (World).png"
+    },
+    {
+      "id": "0f6a1c2c",
+      "console": "Atari Jaguar",
+      "datTitle": "Ultra Vortek (World)",
+      "displayTitle": "Ultra Vortek (World)",
+      "searchKey": "ultra vortek",
+      "searchKeys": [
+        "ultra vortek"
+      ],
+      "romPath": "F:/Jaguar/Ultra Vortek (World).j64",
+      "romFile": "Ultra Vortek (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Ultra Vortek (World).png",
+      "coverFile": "Ultra Vortek (World).png"
+    },
+    {
+      "id": "c9608717",
+      "console": "Atari Jaguar",
+      "datTitle": "Val d'Isere Skiing and Snowboarding (World)",
+      "displayTitle": "Val d'Isere Skiing and Snowboarding (World)",
+      "searchKey": "val d isere skiing and snowboarding",
+      "searchKeys": [
+        "val d isere skiing and snowboarding"
+      ],
+      "romPath": "F:/Jaguar/Val d'Isere Skiing and Snowboarding (World).j64",
+      "romFile": "Val d'Isere Skiing and Snowboarding (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Val d'Isere Skiing and Snowboarding (World).png",
+      "coverFile": "Val d'Isere Skiing and Snowboarding (World).png"
+    },
+    {
+      "id": "14915f20",
+      "console": "Atari Jaguar",
+      "datTitle": "White Men Can't Jump (USA, Europe)",
+      "displayTitle": "White Men Can't Jump (USA, Europe)",
+      "searchKey": "white men can t jump",
+      "searchKeys": [
+        "white men can t jump"
+      ],
+      "romPath": "F:/Jaguar/White Men Can't Jump (USA, Europe).j64",
+      "romFile": "White Men Can't Jump (USA, Europe).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/White Men Can't Jump (USA, Europe).png",
+      "coverFile": "White Men Can't Jump (USA, Europe).png"
+    },
+    {
+      "id": "e91bd644",
+      "console": "Atari Jaguar",
+      "datTitle": "Wolfenstein 3D (World)",
+      "displayTitle": "Wolfenstein 3D (World)",
+      "searchKey": "wolfenstein 3d",
+      "searchKeys": [
+        "wolfenstein 3d"
+      ],
+      "romPath": "F:/Jaguar/Wolfenstein 3D (World).j64",
+      "romFile": "Wolfenstein 3D (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Wolfenstein 3D (World).png",
+      "coverFile": "Wolfenstein 3D (World).png"
+    },
+    {
+      "id": "8975f48b",
+      "console": "Atari Jaguar",
+      "datTitle": "Zool 2 (World)",
+      "displayTitle": "Zool 2 (World)",
+      "searchKey": "zool 2",
+      "searchKeys": [
+        "zool 2"
+      ],
+      "romPath": "F:/Jaguar/Zool 2 (World).j64",
+      "romFile": "Zool 2 (World).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Zool 2 (World).png",
+      "coverFile": "Zool 2 (World).png"
+    },
+    {
+      "id": "c5562581",
+      "console": "Atari Jaguar",
+      "datTitle": "Zoop (USA, Europe)",
+      "displayTitle": "Zoop (USA, Europe)",
+      "searchKey": "zoop",
+      "searchKeys": [
+        "zoop"
+      ],
+      "romPath": "F:/Jaguar/Zoop (USA, Europe).j64",
+      "romFile": "Zoop (USA, Europe).j64",
+      "coverPath": "C:/Users/izidore/Desktop/CODING/GitHub_Published/games/Covers/atari_jaguar/Zoop (USA, Europe).png",
+      "coverFile": "Zoop (USA, Europe).png"
+    }
+  ]
+}

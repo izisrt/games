@@ -36,6 +36,7 @@ function consoleDisplayName(metaSystem, folderName) {
   if (sys.toLowerCase() === "wii" || folder.startsWith("wii")) return "Wii";
   if (sys.toLowerCase() === "ps2" || folder.startsWith("ps2")) return "PS2";
   if (sys.toLowerCase() === "ps1" || folder.startsWith("ps1")) return "PS1";
+  if (sys.toLowerCase() === "psp" || sys.toLowerCase() === "playstation portable" || folder.startsWith("psp")) return "PSP";
   if (sys.toLowerCase() === "n64" || folder.startsWith("n64")) return "N64";
   if (sys.toLowerCase() === "nes" || folder.startsWith("nes")) return "NES";
   if (sys.toLowerCase() === "snes" || folder.startsWith("snes")) return "SNES";
@@ -43,6 +44,7 @@ function consoleDisplayName(metaSystem, folderName) {
   if (sys.toLowerCase() === "gbc" || folder.startsWith("gbc")) return "GBC";
   if (sys.toLowerCase() === "gb" || folder.startsWith("gb")) return "GB";
   if (sys.toLowerCase() === "atari 2600" || folder.startsWith("atari_2600")) return "Atari 2600";
+  if (sys.toLowerCase() === "atari jaguar" || folder.startsWith("atari_jaguar") || folder.startsWith("atarijaguar") || folder.startsWith("jaguar")) return "Atari Jaguar";
   if (sys.toLowerCase() === "dreamcast" || folder.startsWith("dreamcast")) return "Dreamcast";
   if (sys.toLowerCase() === "genesis" || sys.toLowerCase() === "sega genesis" || folder.startsWith("genesis") || folder.startsWith("sega_genesis")) return "Genesis";
 
@@ -73,6 +75,8 @@ function consoleTag(metaSystem, fallback) {
   // Prefer the short console tag shown in brackets. (Index meta.system sometimes uses longer names.)
   if (sys.toLowerCase() === "nds") return "DS";
   if (sys.toLowerCase() === "atari 2600") return "2600";
+  if (sys.toLowerCase() === "atari jaguar") return "JAG";
+  if (sys.toLowerCase() === "playstation portable") return "PSP";
   if (sys.toLowerCase() === "dreamcast") return "DC";
   return sys || String(fallback || "").trim() || null;
 }
@@ -123,6 +127,7 @@ function main() {
 
       const games = Array.isArray(json.games) ? json.games : [];
       const realSerials = isRealSerialSystem(meta.id_type);
+      const preserveIds = realSerials || meta.preserve_id === true;
 
       for (const g of games) {
         if (!g) continue;
@@ -141,14 +146,14 @@ function main() {
         const hasId = Boolean(rawId);
 
         // Deduping:
-        // - For real serial systems, key by (console, serial)
+        // - For real serial systems or explicit preserve_id indexes, key by (console, id)
         // - For crc/title systems, key by (console, normalized title)
         // Multi-disc indexes may use per-disc IDs, but the UI displays and copies
         // one game title, so collapse those into a single visible entry.
         const dedupeId = collapseDiscId(rawId);
         const titleKey = `${displayConsole}|${normalizeTitle(title)}`;
         const key =
-          realSerials && hasId
+          preserveIds && hasId
             ? (isDiscId(rawId) ? titleKey : `${displayConsole}|${dedupeId || rawId}`)
             : titleKey;
         if (seen.has(key)) continue;
@@ -162,8 +167,8 @@ function main() {
           display: `${title} [${tag}]`,
         };
 
-        // Keep the real ID/serial for cover lookup (PS1/PS2/Wii/GC) without showing it.
-        if (realSerials && hasId) entry.id = rawId;
+        // Keep the real ID/serial for cover lookup and stable selection without showing it.
+        if (preserveIds && hasId) entry.id = rawId;
 
         const displayKey = `${entry.console}|${normalizeTitle(entry.display)}`;
         if (seenDisplay.has(displayKey)) continue;

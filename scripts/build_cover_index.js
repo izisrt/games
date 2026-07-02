@@ -49,8 +49,10 @@ function consoleKeyFromIndexFolder(folderName) {
   const base = String(folderName || "").toLowerCase();
   if (base.startsWith("ps2")) return "ps2";
   if (base.startsWith("ps1")) return "ps1";
+  if (base.startsWith("psp")) return "psp";
   if (base.startsWith("ds")) return "ds";
   if (base.startsWith("atari_2600")) return "atari_2600";
+  if (base.startsWith("atari_jaguar") || base.startsWith("atarijaguar") || base.startsWith("jaguar")) return "atari_jaguar";
   if (base.startsWith("dreamcast")) return "dreamcast";
   if (base.startsWith("genesis") || base.startsWith("sega_genesis")) return "genesis";
   if (base.startsWith("n64")) return "n64";
