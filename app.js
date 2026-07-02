@@ -7,6 +7,7 @@ const CONSOLE_CONFIG = {
   GB:          { icon: "gb.png",       color: "#4a5568" },   // gray (add icons/gb.png)
   GBC:         { icon: "gbc.png",      color: "#f59e0b" },   // amber (add icons/gbc.png)
   "Atari 2600": { icon: "atari2600.png", color: "#1a1a2e" },  // dark (add icons/atari2600.png)
+  "Atari Jaguar": { icon: "missing.webp", color: "#b91c1c" },
   Dreamcast:   { icon: "dreamcast.png", color: "#6b21a8" },   // purple (add icons/dreamcast.png)
   Genesis:     { icon: "genesis.png",   color: "#000000" },   // black (add icons/genesis.png)
   GBA:         { icon: "missing.webp",  color: "#3b82f6" },  // placeholder icon; replace with gba.png if desired
@@ -18,6 +19,7 @@ const CONSOLE_CONFIG = {
   "PlayStation 2": { icon: "ps2.png",   color: "#1a2930" },   // dark gray
   PS2:         { icon: "ps2.png",       color: "#374151" },
   PS1:         { icon: "PS1.png",       color: "#9ca3af" },
+  PSP:         { icon: "missing.webp",  color: "#2563eb" },
 };
 
 const OVERSCAN = 8;
@@ -89,6 +91,7 @@ function getConsoleKey(consoleName) {
   if (c === "gbc" || c === "game boy color") return "gbc";
   if (c === "gb" || c === "game boy") return "gb";
   if (c === "atari 2600" || c === "2600") return "atari_2600";
+  if (c === "atari jaguar" || c === "jaguar" || c === "jag") return "atari_jaguar";
   if (c === "dreamcast" || c === "dc") return "dreamcast";
   if (c === "genesis" || c === "sega genesis" || c === "md" || c === "mega drive") return "genesis";
   if (c === "gamecube") return "gamecube";
@@ -98,10 +101,11 @@ function getConsoleKey(consoleName) {
   if (c === "snes") return "snes";
   if (c === "ps2" || c === "playstation 2") return "ps2";
   if (c === "ps1" || c === "playstation 1") return "ps1";
+  if (c === "psp" || c === "playstation portable") return "psp";
   return null;
 }
 
-const SERIAL_FIRST_CONSOLES = new Set(["ps1", "ps2", "wii_gc"]);
+const SERIAL_FIRST_CONSOLES = new Set(["ps1", "ps2", "psp", "wii_gc"]);
 const GENERIC_SERIALS = new Set(["NES", "N64", "SNES"]);
 const MISSING_COVER_PATH = "icons/missing.webp";
 
@@ -337,8 +341,8 @@ function createGridTile(g) {
   // Useful for console-specific styling (crop tweaks, etc.)
   if (g.console) li.dataset.console = g.console;
   if (consoleKey) li.dataset.consoleKey = consoleKey;
-  // For PS2 (and optionally PS1 / Wii+GC shared set), use contain so the full cover shows.
-  if (consoleKey === "ps2" || consoleKey === "ps1" || consoleKey === "wii_gc") {
+  // For disc/box-art systems, use contain so the full cover shows.
+  if (consoleKey === "ps2" || consoleKey === "ps1" || consoleKey === "psp" || consoleKey === "wii_gc") {
     img.classList.add("fit-contain");
   }
 

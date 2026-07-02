@@ -11,7 +11,9 @@
     "SNES": true,
     "PS1": true,
     "PS2": true,
+    "PSP": true,
     "Atari 2600": true,
+    "Atari Jaguar": true,
     "Dreamcast": true,
     "Genesis": true
   }
