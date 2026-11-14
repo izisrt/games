@@ -2466,8 +2466,8 @@
    ],
    "romFile": "Tecmo Classic Arcade (USA, Japan) (En,Ja).xiso.iso",
    "romPath": "F:\\xbox\\XISO\\Tecmo Classic Arcade (USA, Japan) (En,Ja).xiso.iso",
-   "coverFile": null,
-   "coverPath": null,
+   "coverFile": "Tecmo Classic Arcade (USA, Japan) (En,Ja).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Tecmo Classic Arcade (USA, Japan) (En,Ja).webp",
    "size": 259,
    "xemuStatus": "Perfect"
   },
@@ -2719,8 +2719,8 @@
    ],
    "romFile": "Volvo - Drive for Life (USA).xiso.iso",
    "romPath": "F:\\xbox\\XISO\\Volvo - Drive for Life (USA).xiso.iso",
-   "coverFile": null,
-   "coverPath": null,
+   "coverFile": "Volvo - Drive for Life (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Volvo - Drive for Life (USA).webp",
    "size": 847,
    "xemuStatus": "Playable"
   },
