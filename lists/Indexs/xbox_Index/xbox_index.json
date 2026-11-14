@@ -1,0 +1,2907 @@
+{
+ "meta": {
+  "system": "Xbox",
+  "generated_at": "2026-11-14T12:14:53",
+  "roms_dir": "F:\\xbox\\XISO",
+  "art_dir": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox",
+  "box_art_source": "F:\\xbox\\boxArt\\Microsoft XBOX (2D Boxes)(8bit)(Robin55 1.2)",
+  "id_type": "title",
+  "note": "Only games that started and drew a picture in our xemu boot test and that xemu rates Perfect or Playable."
+ },
+ "games": [
+  {
+   "id": "d4c341e6",
+   "console": "Xbox",
+   "datTitle": "187 - Ride or Die (USA, Europe) (En,Fr,De,Es,It)",
+   "displayTitle": "187 - Ride or Die (USA, Europe)",
+   "searchKeys": [
+    "187",
+    "187 ride or die",
+    "die",
+    "or",
+    "ride"
+   ],
+   "romFile": "187 - Ride or Die (USA, Europe) (En,Fr,De,Es,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\187 - Ride or Die (USA, Europe) (En,Fr,De,Es,It).xiso.iso",
+   "coverFile": "187 - Ride or Die (USA, Europe) (En,Fr,De,Es,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\187 - Ride or Die (USA, Europe) (En,Fr,De,Es,It).webp",
+   "size": 1081,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "586dd9d6",
+   "console": "Xbox",
+   "datTitle": "America's Army - Rise of a Soldier (USA)",
+   "displayTitle": "America's Army - Rise of a Soldier (USA)",
+   "searchKeys": [
+    "a",
+    "america",
+    "america s army rise of a soldier",
+    "army",
+    "of",
+    "rise",
+    "s",
+    "soldier"
+   ],
+   "romFile": "America's Army - Rise of a Soldier (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\America's Army - Rise of a Soldier (USA).xiso.iso",
+   "coverFile": "America's Army - Rise of a Soldier (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\America's Army - Rise of a Soldier (USA).webp",
+   "size": 1918,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "b4c7d5a3",
+   "console": "Xbox",
+   "datTitle": "American McGee Presents Scrapland (USA, Europe)",
+   "displayTitle": "American McGee Presents Scrapland (USA, Europe)",
+   "searchKeys": [
+    "american",
+    "american mcgee presents scrapland",
+    "mcgee",
+    "presents",
+    "scrapland"
+   ],
+   "romFile": "American McGee Presents Scrapland (USA, Europe).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\American McGee Presents Scrapland (USA, Europe).xiso.iso",
+   "coverFile": "American McGee Presents Scrapland (USA, Europe).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\American McGee Presents Scrapland (USA, Europe).webp",
+   "size": 925,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "e0978070",
+   "console": "Xbox",
+   "datTitle": "AMF Bowling 2004 (USA)",
+   "displayTitle": "AMF Bowling 2004 (USA)",
+   "searchKeys": [
+    "2004",
+    "amf",
+    "amf bowling 2004",
+    "bowling"
+   ],
+   "romFile": "AMF Bowling 2004 (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\AMF Bowling 2004 (USA).xiso.iso",
+   "coverFile": "AMF Bowling 2004 (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\AMF Bowling 2004 (USA).webp",
+   "size": 159,
+   "xemuStatus": "Perfect"
+  },
+  {
+   "id": "faff9eb5",
+   "console": "Xbox",
+   "datTitle": "AMF Xtreme Bowling (USA)",
+   "displayTitle": "AMF Xtreme Bowling (USA)",
+   "searchKeys": [
+    "amf",
+    "amf xtreme bowling",
+    "bowling",
+    "xtreme"
+   ],
+   "romFile": "AMF Xtreme Bowling (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\AMF Xtreme Bowling (USA).xiso.iso",
+   "coverFile": "AMF Xtreme Bowling (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\AMF Xtreme Bowling (USA).webp",
+   "size": 247,
+   "xemuStatus": "Perfect"
+  },
+  {
+   "id": "484a0e7f",
+   "console": "Xbox",
+   "datTitle": "Amped - Freestyle Snowboarding (USA)",
+   "displayTitle": "Amped - Freestyle Snowboarding (USA)",
+   "searchKeys": [
+    "amped",
+    "amped freestyle snowboarding",
+    "freestyle",
+    "snowboarding"
+   ],
+   "romFile": "Amped - Freestyle Snowboarding (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Amped - Freestyle Snowboarding (USA).xiso.iso",
+   "coverFile": "Amped - Freestyle Snowboarding (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Amped - Freestyle Snowboarding (USA).webp",
+   "size": 2269,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "3674c8b7",
+   "console": "Xbox",
+   "datTitle": "Amped 2 (USA)",
+   "displayTitle": "Amped 2 (USA)",
+   "searchKeys": [
+    "2",
+    "amped",
+    "amped 2"
+   ],
+   "romFile": "Amped 2 (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Amped 2 (USA).xiso.iso",
+   "coverFile": "Amped 2 (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Amped 2 (USA).webp",
+   "size": 4053,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "18a174e1",
+   "console": "Xbox",
+   "datTitle": "Apex (USA) (En,Fr,Es)",
+   "displayTitle": "Apex (USA)",
+   "searchKeys": [
+    "apex"
+   ],
+   "romFile": "Apex (USA) (En,Fr,Es).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Apex (USA) (En,Fr,Es).xiso.iso",
+   "coverFile": "Apex (USA) (En,Fr,Es).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Apex (USA) (En,Fr,Es).webp",
+   "size": 1425,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "f8a475a8",
+   "console": "Xbox",
+   "datTitle": "Armed and Dangerous (USA)",
+   "displayTitle": "Armed and Dangerous (USA)",
+   "searchKeys": [
+    "and",
+    "armed",
+    "armed and dangerous",
+    "dangerous"
+   ],
+   "romFile": "Armed and Dangerous (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Armed and Dangerous (USA).xiso.iso",
+   "coverFile": "Armed and Dangerous (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Armed and Dangerous (USA).webp",
+   "size": 3658,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "d3f1da44",
+   "console": "Xbox",
+   "datTitle": "Arx Fatalis (USA, Europe) (En,Fr,De,Es,It)",
+   "displayTitle": "Arx Fatalis (USA, Europe)",
+   "searchKeys": [
+    "arx",
+    "arx fatalis",
+    "fatalis"
+   ],
+   "romFile": "Arx Fatalis (USA, Europe) (En,Fr,De,Es,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Arx Fatalis (USA, Europe) (En,Fr,De,Es,It).xiso.iso",
+   "coverFile": "Arx Fatalis (USA, Europe) (En,Fr,De,Es,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Arx Fatalis (USA, Europe) (En,Fr,De,Es,It).webp",
+   "size": 1601,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "b3f324f7",
+   "console": "Xbox",
+   "datTitle": "Azurik - Rise of Perathia (USA)",
+   "displayTitle": "Azurik - Rise of Perathia (USA)",
+   "searchKeys": [
+    "azurik",
+    "azurik rise of perathia",
+    "of",
+    "perathia",
+    "rise"
+   ],
+   "romFile": "Azurik - Rise of Perathia (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Azurik - Rise of Perathia (USA).xiso.iso",
+   "coverFile": "Azurik - Rise of Perathia (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Azurik - Rise of Perathia (USA).webp",
+   "size": 2619,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "f801adf9",
+   "console": "Xbox",
+   "datTitle": "Bass Pro Shops - Trophy Hunter 2007 (USA)",
+   "displayTitle": "Bass Pro Shops - Trophy Hunter 2007 (USA)",
+   "searchKeys": [
+    "2007",
+    "bass",
+    "bass pro shops trophy hunter 2007",
+    "hunter",
+    "pro",
+    "shops",
+    "trophy"
+   ],
+   "romFile": "Bass Pro Shops - Trophy Hunter 2007 (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Bass Pro Shops - Trophy Hunter 2007 (USA).xiso.iso",
+   "coverFile": "Bass Pro Shops - Trophy Hunter 2007 (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Bass Pro Shops - Trophy Hunter 2007 (USA).webp",
+   "size": 298,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "eb500c5e",
+   "console": "Xbox",
+   "datTitle": "Bicycle Casino Includes - Texas Hold'em (USA, Europe)",
+   "displayTitle": "Bicycle Casino Includes - Texas Hold'em (USA, Europe)",
+   "searchKeys": [
+    "bicycle",
+    "bicycle casino includes texas hold em",
+    "casino",
+    "em",
+    "hold",
+    "includes",
+    "texas"
+   ],
+   "romFile": "Bicycle Casino Includes - Texas Hold'em (USA, Europe).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Bicycle Casino Includes - Texas Hold'em (USA, Europe).xiso.iso",
+   "coverFile": "Bicycle Casino Includes - Texas Hold'em (USA, Europe).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Bicycle Casino Includes - Texas Hold'em (USA, Europe).webp",
+   "size": 2765,
+   "xemuStatus": "Perfect"
+  },
+  {
+   "id": "83a2570b",
+   "console": "Xbox",
+   "datTitle": "Black Stone - Magic & Steel (USA, Europe)",
+   "displayTitle": "Black Stone - Magic & Steel (USA, Europe)",
+   "searchKeys": [
+    "and",
+    "black",
+    "black stone magic and steel",
+    "magic",
+    "steel",
+    "stone"
+   ],
+   "romFile": "Black Stone - Magic & Steel (USA, Europe).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Black Stone - Magic & Steel (USA, Europe).xiso.iso",
+   "coverFile": "Black Stone - Magic & Steel (USA, Europe).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Black Stone - Magic & Steel (USA, Europe).webp",
+   "size": 803,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "f9d4a900",
+   "console": "Xbox",
+   "datTitle": "Blinx - The Time Sweeper (USA) (En,Ja) (Rev 1)",
+   "displayTitle": "Blinx - The Time Sweeper (USA)",
+   "searchKeys": [
+    "blinx",
+    "blinx the time sweeper",
+    "sweeper",
+    "the",
+    "time"
+   ],
+   "romFile": "Blinx - The Time Sweeper (USA) (En,Ja) (Rev 1).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Blinx - The Time Sweeper (USA) (En,Ja) (Rev 1).xiso.iso",
+   "coverFile": "Blinx - The Time Sweeper (USA) (En,Ja) (Rev 1).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Blinx - The Time Sweeper (USA) (En,Ja) (Rev 1).webp",
+   "size": 1110,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "1864988f",
+   "console": "Xbox",
+   "datTitle": "Blinx 2 - Masters of Time & Space (World) (En,Ja,Fr,De,Es,It)",
+   "displayTitle": "Blinx 2 - Masters of Time & Space (World)",
+   "searchKeys": [
+    "2",
+    "and",
+    "blinx",
+    "blinx 2 masters of time and space",
+    "masters",
+    "of",
+    "space",
+    "time"
+   ],
+   "romFile": "Blinx 2 - Masters of Time & Space (World) (En,Ja,Fr,De,Es,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Blinx 2 - Masters of Time & Space (World) (En,Ja,Fr,De,Es,It).xiso.iso",
+   "coverFile": "Blinx 2 - Masters of Time & Space (World) (En,Ja,Fr,De,Es,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Blinx 2 - Masters of Time & Space (World) (En,Ja,Fr,De,Es,It).webp",
+   "size": 3187,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "d0d8cec9",
+   "console": "Xbox",
+   "datTitle": "Blood Wake (USA)",
+   "displayTitle": "Blood Wake (USA)",
+   "searchKeys": [
+    "blood",
+    "blood wake",
+    "wake"
+   ],
+   "romFile": "Blood Wake (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Blood Wake (USA).xiso.iso",
+   "coverFile": "Blood Wake (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Blood Wake (USA).webp",
+   "size": 2014,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "701c63e5",
+   "console": "Xbox",
+   "datTitle": "Breakdown (USA)",
+   "displayTitle": "Breakdown (USA)",
+   "searchKeys": [
+    "breakdown"
+   ],
+   "romFile": "Breakdown (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Breakdown (USA).xiso.iso",
+   "coverFile": "Breakdown (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Breakdown (USA).webp",
+   "size": 2005,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "fb63f426",
+   "console": "Xbox",
+   "datTitle": "Breeders' Cup - World Thoroughbred Championships (USA) (En,Fr,De,Es)",
+   "displayTitle": "Breeders' Cup - World Thoroughbred Championships (USA)",
+   "searchKeys": [
+    "breeders",
+    "breeders cup world thoroughbred championships",
+    "championships",
+    "cup",
+    "thoroughbred",
+    "world"
+   ],
+   "romFile": "Breeders' Cup - World Thoroughbred Championships (USA) (En,Fr,De,Es).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Breeders' Cup - World Thoroughbred Championships (USA) (En,Fr,De,Es).xiso.iso",
+   "coverFile": "Breeders' Cup - World Thoroughbred Championships (USA) (En,Fr,De,Es).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Breeders' Cup - World Thoroughbred Championships (USA) (En,Fr,De,Es).webp",
+   "size": 1131,
+   "xemuStatus": "Perfect"
+  },
+  {
+   "id": "c3d2a293",
+   "console": "Xbox",
+   "datTitle": "Broken Sword - The Sleeping Dragon (USA)",
+   "displayTitle": "Broken Sword - The Sleeping Dragon (USA)",
+   "searchKeys": [
+    "broken",
+    "broken sword the sleeping dragon",
+    "dragon",
+    "sleeping",
+    "sword",
+    "the"
+   ],
+   "romFile": "Broken Sword - The Sleeping Dragon (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Broken Sword - The Sleeping Dragon (USA).xiso.iso",
+   "coverFile": "Broken Sword - The Sleeping Dragon (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Broken Sword - The Sleeping Dragon (USA).webp",
+   "size": 4238,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "134c0161",
+   "console": "Xbox",
+   "datTitle": "Bruce Lee - Quest of the Dragon (USA)",
+   "displayTitle": "Bruce Lee - Quest of the Dragon (USA)",
+   "searchKeys": [
+    "bruce",
+    "bruce lee quest of the dragon",
+    "dragon",
+    "lee",
+    "of",
+    "quest",
+    "the"
+   ],
+   "romFile": "Bruce Lee - Quest of the Dragon (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Bruce Lee - Quest of the Dragon (USA).xiso.iso",
+   "coverFile": "Bruce Lee - Quest of the Dragon (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Bruce Lee - Quest of the Dragon (USA).webp",
+   "size": 3756,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "a605c260",
+   "console": "Xbox",
+   "datTitle": "Brute Force (USA) (En,Fr,De,Es,It)",
+   "displayTitle": "Brute Force (USA)",
+   "searchKeys": [
+    "brute",
+    "brute force",
+    "force"
+   ],
+   "romFile": "Brute Force (USA) (En,Fr,De,Es,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Brute Force (USA) (En,Fr,De,Es,It).xiso.iso",
+   "coverFile": "Brute Force (USA) (En,Fr,De,Es,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Brute Force (USA) (En,Fr,De,Es,It).webp",
+   "size": 5242,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "553ec80d",
+   "console": "Xbox",
+   "datTitle": "Buffy the Vampire Slayer - Chaos Bleeds (USA)",
+   "displayTitle": "Buffy the Vampire Slayer - Chaos Bleeds (USA)",
+   "searchKeys": [
+    "bleeds",
+    "buffy",
+    "buffy the vampire slayer chaos bleeds",
+    "chaos",
+    "slayer",
+    "the",
+    "vampire"
+   ],
+   "romFile": "Buffy the Vampire Slayer - Chaos Bleeds (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Buffy the Vampire Slayer - Chaos Bleeds (USA).xiso.iso",
+   "coverFile": "Buffy the Vampire Slayer - Chaos Bleeds (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Buffy the Vampire Slayer - Chaos Bleeds (USA).webp",
+   "size": 1972,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "d67a9fa9",
+   "console": "Xbox",
+   "datTitle": "Call of Cthulhu - Dark Corners of the Earth (USA)",
+   "displayTitle": "Call of Cthulhu - Dark Corners of the Earth (USA)",
+   "searchKeys": [
+    "call",
+    "call of cthulhu dark corners of the earth",
+    "corners",
+    "cthulhu",
+    "dark",
+    "earth",
+    "of",
+    "the"
+   ],
+   "romFile": "Call of Cthulhu - Dark Corners of the Earth (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Call of Cthulhu - Dark Corners of the Earth (USA).xiso.iso",
+   "coverFile": "Call of Cthulhu - Dark Corners of the Earth (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Call of Cthulhu - Dark Corners of the Earth (USA).webp",
+   "size": 3244,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "753bea19",
+   "console": "Xbox",
+   "datTitle": "Chicago Enforcer (USA)",
+   "displayTitle": "Chicago Enforcer (USA)",
+   "searchKeys": [
+    "chicago",
+    "chicago enforcer",
+    "enforcer"
+   ],
+   "romFile": "Chicago Enforcer (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Chicago Enforcer (USA).xiso.iso",
+   "coverFile": "Chicago Enforcer (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Chicago Enforcer (USA).webp",
+   "size": 610,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "674bdba3",
+   "console": "Xbox",
+   "datTitle": "Chronicles of Riddick, The - Escape from Butcher Bay (USA)",
+   "displayTitle": "The Chronicles of Riddick - Escape from Butcher Bay (USA)",
+   "searchKeys": [
+    "bay",
+    "butcher",
+    "chronicles",
+    "chronicles of riddick escape from butcher bay",
+    "escape",
+    "from",
+    "of",
+    "riddick"
+   ],
+   "romFile": "Chronicles of Riddick, The - Escape from Butcher Bay (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Chronicles of Riddick, The - Escape from Butcher Bay (USA).xiso.iso",
+   "coverFile": "Chronicles of Riddick, The - Escape from Butcher Bay (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Chronicles of Riddick, The - Escape from Butcher Bay (USA).webp",
+   "size": 3251,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "dd6ccda6",
+   "console": "Xbox",
+   "datTitle": "Classified - The Sentinel Crisis (USA, Europe)",
+   "displayTitle": "Classified - The Sentinel Crisis (USA, Europe)",
+   "searchKeys": [
+    "classified",
+    "classified the sentinel crisis",
+    "crisis",
+    "sentinel",
+    "the"
+   ],
+   "romFile": "Classified - The Sentinel Crisis (USA, Europe).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Classified - The Sentinel Crisis (USA, Europe).xiso.iso",
+   "coverFile": "Classified - The Sentinel Crisis (USA, Europe).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Classified - The Sentinel Crisis (USA, Europe).webp",
+   "size": 954,
+   "xemuStatus": "Perfect"
+  },
+  {
+   "id": "acbb20b4",
+   "console": "Xbox",
+   "datTitle": "Cold War (USA)",
+   "displayTitle": "Cold War (USA)",
+   "searchKeys": [
+    "cold",
+    "cold war",
+    "war"
+   ],
+   "romFile": "Cold War (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Cold War (USA).xiso.iso",
+   "coverFile": "Cold War (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Cold War (USA).webp",
+   "size": 1580,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "06247501",
+   "console": "Xbox",
+   "datTitle": "Conker - Live & Reloaded (USA) (En,Ja,Fr,De,Es,It)",
+   "displayTitle": "Conker - Live & Reloaded (USA)",
+   "searchKeys": [
+    "and",
+    "conker",
+    "conker live and reloaded",
+    "live",
+    "reloaded"
+   ],
+   "romFile": "Conker - Live & Reloaded (USA) (En,Ja,Fr,De,Es,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Conker - Live & Reloaded (USA) (En,Ja,Fr,De,Es,It).xiso.iso",
+   "coverFile": "Conker - Live & Reloaded (USA) (En,Ja,Fr,De,Es,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Conker - Live & Reloaded (USA) (En,Ja,Fr,De,Es,It).webp",
+   "size": 4537,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "828c42e0",
+   "console": "Xbox",
+   "datTitle": "Counter-Strike (USA) (En,Fr,Es,It,Ko)",
+   "displayTitle": "Counter-Strike (USA)",
+   "searchKeys": [
+    "counter",
+    "counter strike",
+    "strike"
+   ],
+   "romFile": "Counter-Strike (USA) (En,Fr,Es,It,Ko).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Counter-Strike (USA) (En,Fr,Es,It,Ko).xiso.iso",
+   "coverFile": "Counter-Strike (USA) (En,Fr,Es,It,Ko).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Counter-Strike (USA) (En,Fr,Es,It,Ko).webp",
+   "size": 1598,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "06b94242",
+   "console": "Xbox",
+   "datTitle": "Crazy Taxi 3 - High Roller (USA)",
+   "displayTitle": "Crazy Taxi 3 - High Roller (USA)",
+   "searchKeys": [
+    "3",
+    "crazy",
+    "crazy taxi 3 high roller",
+    "high",
+    "roller",
+    "taxi"
+   ],
+   "romFile": "Crazy Taxi 3 - High Roller (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Crazy Taxi 3 - High Roller (USA).xiso.iso",
+   "coverFile": "Crazy Taxi 3 - High Roller (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Crazy Taxi 3 - High Roller (USA).webp",
+   "size": 377,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "62439a9b",
+   "console": "Xbox",
+   "datTitle": "Crimson Skies - High Road to Revenge (USA) (En,Fr,De,Zh,Ko)",
+   "displayTitle": "Crimson Skies - High Road to Revenge (USA)",
+   "searchKeys": [
+    "crimson",
+    "crimson skies high road to revenge",
+    "high",
+    "revenge",
+    "road",
+    "skies",
+    "to"
+   ],
+   "romFile": "Crimson Skies - High Road to Revenge (USA) (En,Fr,De,Zh,Ko).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Crimson Skies - High Road to Revenge (USA) (En,Fr,De,Zh,Ko).xiso.iso",
+   "coverFile": "Crimson Skies - High Road to Revenge (USA) (En,Fr,De,Zh,Ko).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Crimson Skies - High Road to Revenge (USA) (En,Fr,De,Zh,Ko).webp",
+   "size": 4178,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "33490791",
+   "console": "Xbox",
+   "datTitle": "CSI - Crime Scene Investigation (World) (En,Fr,De,Es,It)",
+   "displayTitle": "CSI - Crime Scene Investigation (World)",
+   "searchKeys": [
+    "crime",
+    "csi",
+    "csi crime scene investigation",
+    "investigation",
+    "scene"
+   ],
+   "romFile": "CSI - Crime Scene Investigation (World) (En,Fr,De,Es,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\CSI - Crime Scene Investigation (World) (En,Fr,De,Es,It).xiso.iso",
+   "coverFile": "CSI - Crime Scene Investigation (World) (En,Fr,De,Es,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\CSI - Crime Scene Investigation (World) (En,Fr,De,Es,It).webp",
+   "size": 2627,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "9dc23bdc",
+   "console": "Xbox",
+   "datTitle": "Curse - The Eye of Isis (USA)",
+   "displayTitle": "Curse - The Eye of Isis (USA)",
+   "searchKeys": [
+    "curse",
+    "curse the eye of isis",
+    "eye",
+    "isis",
+    "of",
+    "the"
+   ],
+   "romFile": "Curse - The Eye of Isis (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Curse - The Eye of Isis (USA).xiso.iso",
+   "coverFile": "Curse - The Eye of Isis (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Curse - The Eye of Isis (USA).webp",
+   "size": 484,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "c7f5f72d",
+   "console": "Xbox",
+   "datTitle": "Dead Man's Hand (USA, Japan)",
+   "displayTitle": "Dead Man's Hand (USA, Japan)",
+   "searchKeys": [
+    "dead",
+    "dead man s hand",
+    "hand",
+    "man",
+    "s"
+   ],
+   "romFile": "Dead Man's Hand (USA, Japan).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Dead Man's Hand (USA, Japan).xiso.iso",
+   "coverFile": "Dead Man's Hand (USA, Japan).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Dead Man's Hand (USA, Japan).webp",
+   "size": 1713,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "16a8754b",
+   "console": "Xbox",
+   "datTitle": "Dead or Alive 2 Ultimate (USA, Japan) (En,Ja)",
+   "displayTitle": "Dead or Alive 2 Ultimate (USA, Japan)",
+   "searchKeys": [
+    "2",
+    "alive",
+    "dead",
+    "dead or alive 2 ultimate",
+    "or",
+    "ultimate"
+   ],
+   "romFile": "Dead or Alive 2 Ultimate (USA, Japan) (En,Ja).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Dead or Alive 2 Ultimate (USA, Japan) (En,Ja).xiso.iso",
+   "coverFile": "Dead or Alive 2 Ultimate (USA, Japan) (En,Ja).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Dead or Alive 2 Ultimate (USA, Japan) (En,Ja).webp",
+   "size": 4184,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "3cbf7c3f",
+   "console": "Xbox",
+   "datTitle": "Dead or Alive 3 (USA) (En,Ja)",
+   "displayTitle": "Dead or Alive 3 (USA)",
+   "searchKeys": [
+    "3",
+    "alive",
+    "dead",
+    "dead or alive 3",
+    "or"
+   ],
+   "romFile": "Dead or Alive 3 (USA) (En,Ja).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Dead or Alive 3 (USA) (En,Ja).xiso.iso",
+   "coverFile": "Dead or Alive 3 (USA) (En,Ja).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Dead or Alive 3 (USA) (En,Ja).webp",
+   "size": 3997,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "b3ca7fb1",
+   "console": "Xbox",
+   "datTitle": "Dead or Alive Xtreme Beach Volleyball (USA) (En,Ja)",
+   "displayTitle": "Dead or Alive Xtreme Beach Volleyball (USA)",
+   "searchKeys": [
+    "alive",
+    "beach",
+    "dead",
+    "dead or alive xtreme beach volleyball",
+    "or",
+    "volleyball",
+    "xtreme"
+   ],
+   "romFile": "Dead or Alive Xtreme Beach Volleyball (USA) (En,Ja).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Dead or Alive Xtreme Beach Volleyball (USA) (En,Ja).xiso.iso",
+   "coverFile": "Dead or Alive Xtreme Beach Volleyball (USA) (En,Ja).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Dead or Alive Xtreme Beach Volleyball (USA) (En,Ja).webp",
+   "size": 4148,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "fd77c6e6",
+   "console": "Xbox",
+   "datTitle": "Deathrow (USA)",
+   "displayTitle": "Deathrow (USA)",
+   "searchKeys": [
+    "deathrow"
+   ],
+   "romFile": "Deathrow (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Deathrow (USA).xiso.iso",
+   "coverFile": "Deathrow (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Deathrow (USA).webp",
+   "size": 1083,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "f4630910",
+   "console": "Xbox",
+   "datTitle": "Deus Ex - Invisible War (USA)",
+   "displayTitle": "Deus Ex - Invisible War (USA)",
+   "searchKeys": [
+    "deus",
+    "deus ex invisible war",
+    "ex",
+    "invisible",
+    "war"
+   ],
+   "romFile": "Deus Ex - Invisible War (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Deus Ex - Invisible War (USA).xiso.iso",
+   "coverFile": "Deus Ex - Invisible War (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Deus Ex - Invisible War (USA).webp",
+   "size": 2225,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "fc95d8ab",
+   "console": "Xbox",
+   "datTitle": "Dino Crisis 3 (USA, Korea)",
+   "displayTitle": "Dino Crisis 3 (USA, Korea)",
+   "searchKeys": [
+    "3",
+    "crisis",
+    "dino",
+    "dino crisis 3"
+   ],
+   "romFile": "Dino Crisis 3 (USA, Korea).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Dino Crisis 3 (USA, Korea).xiso.iso",
+   "coverFile": "Dino Crisis 3 (USA, Korea).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Dino Crisis 3 (USA, Korea).webp",
+   "size": 3880,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "b4f75568",
+   "console": "Xbox",
+   "datTitle": "Doom 3 (USA, Asia)",
+   "displayTitle": "Doom 3 (USA, Asia)",
+   "searchKeys": [
+    "3",
+    "doom",
+    "doom 3"
+   ],
+   "romFile": "Doom 3 (USA, Asia).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Doom 3 (USA, Asia).xiso.iso",
+   "coverFile": "Doom 3 (USA, Asia).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Doom 3 (USA, Asia).webp",
+   "size": 2167,
+   "xemuStatus": "Perfect"
+  },
+  {
+   "id": "8f7918a7",
+   "console": "Xbox",
+   "datTitle": "Doom 3 - Resurrection of Evil (USA, Europe) (En,Fr,Es,It)",
+   "displayTitle": "Doom 3 - Resurrection of Evil (USA, Europe)",
+   "searchKeys": [
+    "3",
+    "doom",
+    "doom 3 resurrection of evil",
+    "evil",
+    "of",
+    "resurrection"
+   ],
+   "romFile": "Doom 3 - Resurrection of Evil (USA, Europe) (En,Fr,Es,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Doom 3 - Resurrection of Evil (USA, Europe) (En,Fr,Es,It).xiso.iso",
+   "coverFile": "Doom 3 - Resurrection of Evil (USA, Europe) (En,Fr,Es,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Doom 3 - Resurrection of Evil (USA, Europe) (En,Fr,Es,It).webp",
+   "size": 2225,
+   "xemuStatus": "Perfect"
+  },
+  {
+   "id": "ebc7e991",
+   "console": "Xbox",
+   "datTitle": "Drake of the 99 Dragons (USA)",
+   "displayTitle": "Drake of the 99 Dragons (USA)",
+   "searchKeys": [
+    "99",
+    "dragons",
+    "drake",
+    "drake of the 99 dragons",
+    "of",
+    "the"
+   ],
+   "romFile": "Drake of the 99 Dragons (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Drake of the 99 Dragons (USA).xiso.iso",
+   "coverFile": "Drake of the 99 Dragons (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Drake of the 99 Dragons (USA).webp",
+   "size": 624,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "b5e33d63",
+   "console": "Xbox",
+   "datTitle": "Dreamfall - The Longest Journey (USA)",
+   "displayTitle": "Dreamfall - The Longest Journey (USA)",
+   "searchKeys": [
+    "dreamfall",
+    "dreamfall the longest journey",
+    "journey",
+    "longest",
+    "the"
+   ],
+   "romFile": "Dreamfall - The Longest Journey (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Dreamfall - The Longest Journey (USA).xiso.iso",
+   "coverFile": "Dreamfall - The Longest Journey (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Dreamfall - The Longest Journey (USA).webp",
+   "size": 2274,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "142f2baf",
+   "console": "Xbox",
+   "datTitle": "Dungeons & Dragons - Heroes (USA)",
+   "displayTitle": "Dungeons & Dragons - Heroes (USA)",
+   "searchKeys": [
+    "and",
+    "dragons",
+    "dungeons",
+    "dungeons and dragons heroes",
+    "heroes"
+   ],
+   "romFile": "Dungeons & Dragons - Heroes (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Dungeons & Dragons - Heroes (USA).xiso.iso",
+   "coverFile": "Dungeons & Dragons - Heroes (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Dungeons & Dragons - Heroes (USA).webp",
+   "size": 2553,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "b9cf3831",
+   "console": "Xbox",
+   "datTitle": "Elder Scrolls III, The - Morrowind (USA)",
+   "displayTitle": "The Elder Scrolls III - Morrowind (USA)",
+   "searchKeys": [
+    "elder",
+    "elder scrolls iii morrowind",
+    "iii",
+    "morrowind",
+    "scrolls"
+   ],
+   "romFile": "Elder Scrolls III, The - Morrowind (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Elder Scrolls III, The - Morrowind (USA).xiso.iso",
+   "coverFile": "Elder Scrolls III, The - Morrowind (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Elder Scrolls III, The - Morrowind (USA).webp",
+   "size": 824,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "8330a566",
+   "console": "Xbox",
+   "datTitle": "Enclave (USA) (En,Fr,De)",
+   "displayTitle": "Enclave (USA)",
+   "searchKeys": [
+    "enclave"
+   ],
+   "romFile": "Enclave (USA) (En,Fr,De).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Enclave (USA) (En,Fr,De).xiso.iso",
+   "coverFile": "Enclave (USA) (En,Fr,De).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Enclave (USA) (En,Fr,De).webp",
+   "size": 3133,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "2885a8df",
+   "console": "Xbox",
+   "datTitle": "Fable (USA, Europe)",
+   "displayTitle": "Fable (USA, Europe)",
+   "searchKeys": [
+    "fable"
+   ],
+   "romFile": "Fable (USA, Europe).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Fable (USA, Europe).xiso.iso",
+   "coverFile": "Fable (USA, Europe).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Fable (USA, Europe).webp",
+   "size": 2358,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "5c1f80ec",
+   "console": "Xbox",
+   "datTitle": "Fable - The Lost Chapters (USA) (En,Es)",
+   "displayTitle": "Fable - The Lost Chapters (USA)",
+   "searchKeys": [
+    "chapters",
+    "fable",
+    "fable the lost chapters",
+    "lost",
+    "the"
+   ],
+   "romFile": "Fable - The Lost Chapters (USA) (En,Es).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Fable - The Lost Chapters (USA) (En,Es).xiso.iso",
+   "coverFile": "Fable - The Lost Chapters (USA) (En,Es).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Fable - The Lost Chapters (USA) (En,Es).webp",
+   "size": 3349,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "6b09c810",
+   "console": "Xbox",
+   "datTitle": "Far Cry Instincts (USA, Europe) (En,Fr,Es,It)",
+   "displayTitle": "Far Cry Instincts (USA, Europe)",
+   "searchKeys": [
+    "cry",
+    "far",
+    "far cry instincts",
+    "instincts"
+   ],
+   "romFile": "Far Cry Instincts (USA, Europe) (En,Fr,Es,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Far Cry Instincts (USA, Europe) (En,Fr,Es,It).xiso.iso",
+   "coverFile": "Far Cry Instincts (USA, Europe) (En,Fr,Es,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Far Cry Instincts (USA, Europe) (En,Fr,Es,It).webp",
+   "size": 2568,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "8931c59a",
+   "console": "Xbox",
+   "datTitle": "Far Cry Instincts - Evolution (USA, Europe) (En,Fr,De,Es,It)",
+   "displayTitle": "Far Cry Instincts - Evolution (USA, Europe)",
+   "searchKeys": [
+    "cry",
+    "evolution",
+    "far",
+    "far cry instincts evolution",
+    "instincts"
+   ],
+   "romFile": "Far Cry Instincts - Evolution (USA, Europe) (En,Fr,De,Es,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Far Cry Instincts - Evolution (USA, Europe) (En,Fr,De,Es,It).xiso.iso",
+   "coverFile": "Far Cry Instincts - Evolution (USA, Europe) (En,Fr,De,Es,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Far Cry Instincts - Evolution (USA, Europe) (En,Fr,De,Es,It).webp",
+   "size": 2163,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "62f44768",
+   "console": "Xbox",
+   "datTitle": "Forza Motorsport (World) (En,Ja,Fr,De,Es,It,Zh,Ko)",
+   "displayTitle": "Forza Motorsport (World)",
+   "searchKeys": [
+    "forza",
+    "forza motorsport",
+    "motorsport"
+   ],
+   "romFile": "Forza Motorsport (World) (En,Ja,Fr,De,Es,It,Zh,Ko).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Forza Motorsport (World) (En,Ja,Fr,De,Es,It,Zh,Ko).xiso.iso",
+   "coverFile": "Forza Motorsport (World) (En,Ja,Fr,De,Es,It,Zh,Ko).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Forza Motorsport (World) (En,Ja,Fr,De,Es,It,Zh,Ko).webp",
+   "size": 3106,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "67f7fa9f",
+   "console": "Xbox",
+   "datTitle": "Furious Karting (USA)",
+   "displayTitle": "Furious Karting (USA)",
+   "searchKeys": [
+    "furious",
+    "furious karting",
+    "karting"
+   ],
+   "romFile": "Furious Karting (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Furious Karting (USA).xiso.iso",
+   "coverFile": "Furious Karting (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Furious Karting (USA).webp",
+   "size": 3030,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "043b84e3",
+   "console": "Xbox",
+   "datTitle": "Fuzion Frenzy (USA)",
+   "displayTitle": "Fuzion Frenzy (USA)",
+   "searchKeys": [
+    "frenzy",
+    "fuzion",
+    "fuzion frenzy"
+   ],
+   "romFile": "Fuzion Frenzy (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Fuzion Frenzy (USA).xiso.iso",
+   "coverFile": "Fuzion Frenzy (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Fuzion Frenzy (USA).webp",
+   "size": 1988,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "38a34c68",
+   "console": "Xbox",
+   "datTitle": "Galleon (USA)",
+   "displayTitle": "Galleon (USA)",
+   "searchKeys": [
+    "galleon"
+   ],
+   "romFile": "Galleon (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Galleon (USA).xiso.iso",
+   "coverFile": "Galleon (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Galleon (USA).webp",
+   "size": 343,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "bffcc0e6",
+   "console": "Xbox",
+   "datTitle": "Grabbed by the Ghoulies (USA) (En,Fr,De,Es,It)",
+   "displayTitle": "Grabbed by the Ghoulies (USA)",
+   "searchKeys": [
+    "by",
+    "ghoulies",
+    "grabbed",
+    "grabbed by the ghoulies",
+    "the"
+   ],
+   "romFile": "Grabbed by the Ghoulies (USA) (En,Fr,De,Es,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Grabbed by the Ghoulies (USA) (En,Fr,De,Es,It).xiso.iso",
+   "coverFile": "Grabbed by the Ghoulies (USA) (En,Fr,De,Es,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Grabbed by the Ghoulies (USA) (En,Fr,De,Es,It).webp",
+   "size": 2584,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "f3bff1c5",
+   "console": "Xbox",
+   "datTitle": "Greg Hastings' Tournament Paintball (USA, Europe)",
+   "displayTitle": "Greg Hastings' Tournament Paintball (USA, Europe)",
+   "searchKeys": [
+    "greg",
+    "greg hastings tournament paintball",
+    "hastings",
+    "paintball",
+    "tournament"
+   ],
+   "romFile": "Greg Hastings' Tournament Paintball (USA, Europe).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Greg Hastings' Tournament Paintball (USA, Europe).xiso.iso",
+   "coverFile": "Greg Hastings' Tournament Paintball (USA, Europe).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Greg Hastings' Tournament Paintball (USA, Europe).webp",
+   "size": 1339,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "f6a6ed13",
+   "console": "Xbox",
+   "datTitle": "Group S Challenge (USA)",
+   "displayTitle": "Group S Challenge (USA)",
+   "searchKeys": [
+    "challenge",
+    "group",
+    "group s challenge",
+    "s"
+   ],
+   "romFile": "Group S Challenge (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Group S Challenge (USA).xiso.iso",
+   "coverFile": "Group S Challenge (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Group S Challenge (USA).webp",
+   "size": 1423,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "44492966",
+   "console": "Xbox",
+   "datTitle": "Gungriffon - Allied Strike (USA, Japan) (En,Ja,Ko)",
+   "displayTitle": "Gungriffon - Allied Strike (USA, Japan)",
+   "searchKeys": [
+    "allied",
+    "gungriffon",
+    "gungriffon allied strike",
+    "strike"
+   ],
+   "romFile": "Gungriffon - Allied Strike (USA, Japan) (En,Ja,Ko).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Gungriffon - Allied Strike (USA, Japan) (En,Ja,Ko).xiso.iso",
+   "coverFile": "Gungriffon - Allied Strike (USA, Japan) (En,Ja,Ko).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Gungriffon - Allied Strike (USA, Japan) (En,Ja,Ko).webp",
+   "size": 955,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "50ab40bf",
+   "console": "Xbox",
+   "datTitle": "Gunvalkyrie (USA) (En,Ja)",
+   "displayTitle": "Gunvalkyrie (USA)",
+   "searchKeys": [
+    "gunvalkyrie"
+   ],
+   "romFile": "Gunvalkyrie (USA) (En,Ja).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Gunvalkyrie (USA) (En,Ja).xiso.iso",
+   "coverFile": "Gunvalkyrie (USA) (En,Ja).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Gunvalkyrie (USA) (En,Ja).webp",
+   "size": 704,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "e3434a06",
+   "console": "Xbox",
+   "datTitle": "Halo - Combat Evolved (USA) (Rev 2)",
+   "displayTitle": "Halo - Combat Evolved (USA)",
+   "searchKeys": [
+    "combat",
+    "evolved",
+    "halo",
+    "halo combat evolved"
+   ],
+   "romFile": "Halo - Combat Evolved (USA) (Rev 2).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Halo - Combat Evolved (USA) (Rev 2).xiso.iso",
+   "coverFile": "Halo - Combat Evolved (USA) (Rev 2).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Halo - Combat Evolved (USA) (Rev 2).webp",
+   "size": 3457,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "47613766",
+   "console": "Xbox",
+   "datTitle": "Halo 2 (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko)",
+   "displayTitle": "Halo 2 (USA, Europe)",
+   "searchKeys": [
+    "2",
+    "halo",
+    "halo 2"
+   ],
+   "romFile": "Halo 2 (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Halo 2 (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko).xiso.iso",
+   "coverFile": "Halo 2 (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Halo 2 (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko).webp",
+   "size": 4502,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "b0c510ac",
+   "console": "Xbox",
+   "datTitle": "House of the Dead III, The (USA)",
+   "displayTitle": "The House of the Dead III (USA)",
+   "searchKeys": [
+    "dead",
+    "house",
+    "house of the dead iii",
+    "iii",
+    "of",
+    "the"
+   ],
+   "romFile": "House of the Dead III, The (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\House of the Dead III, The (USA).xiso.iso",
+   "coverFile": "House of the Dead III, The (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\House of the Dead III, The (USA).webp",
+   "size": 980,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "e25c15bd",
+   "console": "Xbox",
+   "datTitle": "Hunter - The Reckoning - Redeemer (USA)",
+   "displayTitle": "Hunter - The Reckoning - Redeemer (USA)",
+   "searchKeys": [
+    "hunter",
+    "hunter the reckoning redeemer",
+    "reckoning",
+    "redeemer",
+    "the"
+   ],
+   "romFile": "Hunter - The Reckoning - Redeemer (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Hunter - The Reckoning - Redeemer (USA).xiso.iso",
+   "coverFile": "Hunter - The Reckoning - Redeemer (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Hunter - The Reckoning - Redeemer (USA).webp",
+   "size": 1842,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "d237bce1",
+   "console": "Xbox",
+   "datTitle": "IHRA Drag Racing 2004 (USA)",
+   "displayTitle": "IHRA Drag Racing 2004 (USA)",
+   "searchKeys": [
+    "2004",
+    "drag",
+    "ihra",
+    "ihra drag racing 2004",
+    "racing"
+   ],
+   "romFile": "IHRA Drag Racing 2004 (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\IHRA Drag Racing 2004 (USA).xiso.iso",
+   "coverFile": "IHRA Drag Racing 2004 (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\IHRA Drag Racing 2004 (USA).webp",
+   "size": 417,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "098be586",
+   "console": "Xbox",
+   "datTitle": "Inside Pitch 2003 (USA)",
+   "displayTitle": "Inside Pitch 2003 (USA)",
+   "searchKeys": [
+    "2003",
+    "inside",
+    "inside pitch 2003",
+    "pitch"
+   ],
+   "romFile": "Inside Pitch 2003 (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Inside Pitch 2003 (USA).xiso.iso",
+   "coverFile": "Inside Pitch 2003 (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Inside Pitch 2003 (USA).webp",
+   "size": 3215,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "4784c8a6",
+   "console": "Xbox",
+   "datTitle": "Iron Phoenix (USA)",
+   "displayTitle": "Iron Phoenix (USA)",
+   "searchKeys": [
+    "iron",
+    "iron phoenix",
+    "phoenix"
+   ],
+   "romFile": "Iron Phoenix (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Iron Phoenix (USA).xiso.iso",
+   "coverFile": "Iron Phoenix (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Iron Phoenix (USA).webp",
+   "size": 2211,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "d7410fa3",
+   "console": "Xbox",
+   "datTitle": "Jade Empire (USA, Europe) (En,Es,It)",
+   "displayTitle": "Jade Empire (USA, Europe)",
+   "searchKeys": [
+    "empire",
+    "jade",
+    "jade empire"
+   ],
+   "romFile": "Jade Empire (USA, Europe) (En,Es,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Jade Empire (USA, Europe) (En,Es,It).xiso.iso",
+   "coverFile": "Jade Empire (USA, Europe) (En,Es,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Jade Empire (USA, Europe) (En,Es,It).webp",
+   "size": 6282,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "b30ed3d1",
+   "console": "Xbox",
+   "datTitle": "JSRF - Jet Set Radio Future (USA)",
+   "displayTitle": "JSRF - Jet Set Radio Future (USA)",
+   "searchKeys": [
+    "future",
+    "jet",
+    "jsrf",
+    "jsrf jet set radio future",
+    "radio",
+    "set"
+   ],
+   "romFile": "JSRF - Jet Set Radio Future (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\JSRF - Jet Set Radio Future (USA).xiso.iso",
+   "coverFile": "JSRF - Jet Set Radio Future (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\JSRF - Jet Set Radio Future (USA).webp",
+   "size": 2386,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "a9915a53",
+   "console": "Xbox",
+   "datTitle": "Kabuki Warriors (USA)",
+   "displayTitle": "Kabuki Warriors (USA)",
+   "searchKeys": [
+    "kabuki",
+    "kabuki warriors",
+    "warriors"
+   ],
+   "romFile": "Kabuki Warriors (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Kabuki Warriors (USA).xiso.iso",
+   "coverFile": "Kabuki Warriors (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Kabuki Warriors (USA).webp",
+   "size": 405,
+   "xemuStatus": "Perfect"
+  },
+  {
+   "id": "1fcff075",
+   "console": "Xbox",
+   "datTitle": "Kingdom Under Fire - Heroes (USA, Europe) (En,Fr,De,Es,It,Ko)",
+   "displayTitle": "Kingdom Under Fire - Heroes (USA, Europe)",
+   "searchKeys": [
+    "fire",
+    "heroes",
+    "kingdom",
+    "kingdom under fire heroes",
+    "under"
+   ],
+   "romFile": "Kingdom Under Fire - Heroes (USA, Europe) (En,Fr,De,Es,It,Ko).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Kingdom Under Fire - Heroes (USA, Europe) (En,Fr,De,Es,It,Ko).xiso.iso",
+   "coverFile": "Kingdom Under Fire - Heroes (USA, Europe) (En,Fr,De,Es,It,Ko).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Kingdom Under Fire - Heroes (USA, Europe) (En,Fr,De,Es,It,Ko).webp",
+   "size": 3675,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "bb2e71d0",
+   "console": "Xbox",
+   "datTitle": "Kingdom Under Fire - The Crusaders (USA, Korea) (En,Ko)",
+   "displayTitle": "Kingdom Under Fire - The Crusaders (USA, Korea)",
+   "searchKeys": [
+    "crusaders",
+    "fire",
+    "kingdom",
+    "kingdom under fire the crusaders",
+    "the",
+    "under"
+   ],
+   "romFile": "Kingdom Under Fire - The Crusaders (USA, Korea) (En,Ko).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Kingdom Under Fire - The Crusaders (USA, Korea) (En,Ko).xiso.iso",
+   "coverFile": "Kingdom Under Fire - The Crusaders (USA, Korea) (En,Ko).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Kingdom Under Fire - The Crusaders (USA, Korea) (En,Ko).webp",
+   "size": 1910,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "09c47193",
+   "console": "Xbox",
+   "datTitle": "Knight's Apprentice - Memorick's Adventures (USA, Europe) (En,Fr,De,Es,It)",
+   "displayTitle": "Knight's Apprentice - Memorick's Adventures (USA, Europe)",
+   "searchKeys": [
+    "adventures",
+    "apprentice",
+    "knight",
+    "knight s apprentice memorick s adventures",
+    "memorick",
+    "s"
+   ],
+   "romFile": "Knight's Apprentice - Memorick's Adventures (USA, Europe) (En,Fr,De,Es,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Knight's Apprentice - Memorick's Adventures (USA, Europe) (En,Fr,De,Es,It).xiso.iso",
+   "coverFile": "Knight's Apprentice - Memorick's Adventures (USA, Europe) (En,Fr,De,Es,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Knight's Apprentice - Memorick's Adventures (USA, Europe) (En,Fr,De,Es,It).webp",
+   "size": 1668,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "42f26c0e",
+   "console": "Xbox",
+   "datTitle": "Kung Fu Chaos (USA, Asia) (En,Fr,De)",
+   "displayTitle": "Kung Fu Chaos (USA, Asia)",
+   "searchKeys": [
+    "chaos",
+    "fu",
+    "kung",
+    "kung fu chaos"
+   ],
+   "romFile": "Kung Fu Chaos (USA, Asia) (En,Fr,De).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Kung Fu Chaos (USA, Asia) (En,Fr,De).xiso.iso",
+   "coverFile": "Kung Fu Chaos (USA, Asia) (En,Fr,De).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Kung Fu Chaos (USA, Asia) (En,Fr,De).webp",
+   "size": 3317,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "85b41723",
+   "console": "Xbox",
+   "datTitle": "Links 2004 (USA)",
+   "displayTitle": "Links 2004 (USA)",
+   "searchKeys": [
+    "2004",
+    "links",
+    "links 2004"
+   ],
+   "romFile": "Links 2004 (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Links 2004 (USA).xiso.iso",
+   "coverFile": "Links 2004 (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Links 2004 (USA).webp",
+   "size": 3058,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "0d6f2545",
+   "console": "Xbox",
+   "datTitle": "Loons - The Fight for Fame (USA)",
+   "displayTitle": "Loons - The Fight for Fame (USA)",
+   "searchKeys": [
+    "fame",
+    "fight",
+    "for",
+    "loons",
+    "loons the fight for fame",
+    "the"
+   ],
+   "romFile": "Loons - The Fight for Fame (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Loons - The Fight for Fame (USA).xiso.iso",
+   "coverFile": "Loons - The Fight for Fame (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Loons - The Fight for Fame (USA).webp",
+   "size": 2264,
+   "xemuStatus": "Perfect"
+  },
+  {
+   "id": "e170bf82",
+   "console": "Xbox",
+   "datTitle": "Mad Dash Racing (USA)",
+   "displayTitle": "Mad Dash Racing (USA)",
+   "searchKeys": [
+    "dash",
+    "mad",
+    "mad dash racing",
+    "racing"
+   ],
+   "romFile": "Mad Dash Racing (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Mad Dash Racing (USA).xiso.iso",
+   "coverFile": "Mad Dash Racing (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Mad Dash Racing (USA).webp",
+   "size": 1219,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "d8983196",
+   "console": "Xbox",
+   "datTitle": "Magic - The Gathering - Battlegrounds (World) (En,Fr,De,Es,It)",
+   "displayTitle": "Magic - The Gathering - Battlegrounds (World)",
+   "searchKeys": [
+    "battlegrounds",
+    "gathering",
+    "magic",
+    "magic the gathering battlegrounds",
+    "the"
+   ],
+   "romFile": "Magic - The Gathering - Battlegrounds (World) (En,Fr,De,Es,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Magic - The Gathering - Battlegrounds (World) (En,Fr,De,Es,It).xiso.iso",
+   "coverFile": "Magic - The Gathering - Battlegrounds (World) (En,Fr,De,Es,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Magic - The Gathering - Battlegrounds (World) (En,Fr,De,Es,It).webp",
+   "size": 1521,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "989cb001",
+   "console": "Xbox",
+   "datTitle": "MechAssault (USA) (En,Fr,De) (Rev 1)",
+   "displayTitle": "MechAssault (USA)",
+   "searchKeys": [
+    "mechassault"
+   ],
+   "romFile": "MechAssault (USA) (En,Fr,De) (Rev 1).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\MechAssault (USA) (En,Fr,De) (Rev 1).xiso.iso",
+   "coverFile": "MechAssault (USA) (En,Fr,De) (Rev 1).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\MechAssault (USA) (En,Fr,De) (Rev 1).webp",
+   "size": 3121,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "913e43f4",
+   "console": "Xbox",
+   "datTitle": "MechAssault 2 - Lone Wolf (World) (En,Ja,Fr,De,Es,It)",
+   "displayTitle": "MechAssault 2 - Lone Wolf (World)",
+   "searchKeys": [
+    "2",
+    "lone",
+    "mechassault",
+    "mechassault 2 lone wolf",
+    "wolf"
+   ],
+   "romFile": "MechAssault 2 - Lone Wolf (World) (En,Ja,Fr,De,Es,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\MechAssault 2 - Lone Wolf (World) (En,Ja,Fr,De,Es,It).xiso.iso",
+   "coverFile": "MechAssault 2 - Lone Wolf (World) (En,Ja,Fr,De,Es,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\MechAssault 2 - Lone Wolf (World) (En,Ja,Fr,De,Es,It).webp",
+   "size": 2234,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "19ef83e6",
+   "console": "Xbox",
+   "datTitle": "Metal Dungeon (USA)",
+   "displayTitle": "Metal Dungeon (USA)",
+   "searchKeys": [
+    "dungeon",
+    "metal",
+    "metal dungeon"
+   ],
+   "romFile": "Metal Dungeon (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Metal Dungeon (USA).xiso.iso",
+   "coverFile": "Metal Dungeon (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Metal Dungeon (USA).webp",
+   "size": 906,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "cbc52205",
+   "console": "Xbox",
+   "datTitle": "Midtown Madness 3 (USA)",
+   "displayTitle": "Midtown Madness 3 (USA)",
+   "searchKeys": [
+    "3",
+    "madness",
+    "midtown",
+    "midtown madness 3"
+   ],
+   "romFile": "Midtown Madness 3 (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Midtown Madness 3 (USA).xiso.iso",
+   "coverFile": "Midtown Madness 3 (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Midtown Madness 3 (USA).webp",
+   "size": 2673,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "28a66e99",
+   "console": "Xbox",
+   "datTitle": "Monster Garage (USA)",
+   "displayTitle": "Monster Garage (USA)",
+   "searchKeys": [
+    "garage",
+    "monster",
+    "monster garage"
+   ],
+   "romFile": "Monster Garage (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Monster Garage (USA).xiso.iso",
+   "coverFile": "Monster Garage (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Monster Garage (USA).webp",
+   "size": 1132,
+   "xemuStatus": "Perfect"
+  },
+  {
+   "id": "b5ab47c3",
+   "console": "Xbox",
+   "datTitle": "MotoGP (USA)",
+   "displayTitle": "MotoGP (USA)",
+   "searchKeys": [
+    "motogp"
+   ],
+   "romFile": "MotoGP (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\MotoGP (USA).xiso.iso",
+   "coverFile": "MotoGP (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\MotoGP (USA).webp",
+   "size": 2044,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "a8f037ca",
+   "console": "Xbox",
+   "datTitle": "MotoGP - Ultimate Racing Technology 3 (USA, Europe) (En,Fr,De,Es)",
+   "displayTitle": "MotoGP - Ultimate Racing Technology 3 (USA, Europe)",
+   "searchKeys": [
+    "3",
+    "motogp",
+    "motogp ultimate racing technology 3",
+    "racing",
+    "technology",
+    "ultimate"
+   ],
+   "romFile": "MotoGP - Ultimate Racing Technology 3 (USA, Europe) (En,Fr,De,Es).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\MotoGP - Ultimate Racing Technology 3 (USA, Europe) (En,Fr,De,Es).xiso.iso",
+   "coverFile": "MotoGP - Ultimate Racing Technology 3 (USA, Europe) (En,Fr,De,Es).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\MotoGP - Ultimate Racing Technology 3 (USA, Europe) (En,Fr,De,Es).webp",
+   "size": 1557,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "9b883765",
+   "console": "Xbox",
+   "datTitle": "MotoGP 2 (USA) (En,Fr,De,Es,It)",
+   "displayTitle": "MotoGP 2 (USA)",
+   "searchKeys": [
+    "2",
+    "motogp",
+    "motogp 2"
+   ],
+   "romFile": "MotoGP 2 (USA) (En,Fr,De,Es,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\MotoGP 2 (USA) (En,Fr,De,Es,It).xiso.iso",
+   "coverFile": "MotoGP 2 (USA) (En,Fr,De,Es,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\MotoGP 2 (USA) (En,Fr,De,Es,It).webp",
+   "size": 2785,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "a79e5af1",
+   "console": "Xbox",
+   "datTitle": "Murakumo - Renegade Mech Pursuit (USA)",
+   "displayTitle": "Murakumo - Renegade Mech Pursuit (USA)",
+   "searchKeys": [
+    "mech",
+    "murakumo",
+    "murakumo renegade mech pursuit",
+    "pursuit",
+    "renegade"
+   ],
+   "romFile": "Murakumo - Renegade Mech Pursuit (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Murakumo - Renegade Mech Pursuit (USA).xiso.iso",
+   "coverFile": "Murakumo - Renegade Mech Pursuit (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Murakumo - Renegade Mech Pursuit (USA).webp",
+   "size": 1741,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "ecf540de",
+   "console": "Xbox",
+   "datTitle": "Myst IV - Revelation (USA, Canada)",
+   "displayTitle": "Myst IV - Revelation (USA, Canada)",
+   "searchKeys": [
+    "iv",
+    "myst",
+    "myst iv revelation",
+    "revelation"
+   ],
+   "romFile": "Myst IV - Revelation (USA, Canada).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Myst IV - Revelation (USA, Canada).xiso.iso",
+   "coverFile": "Myst IV - Revelation (USA, Canada).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Myst IV - Revelation (USA, Canada).webp",
+   "size": 4681,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "27620313",
+   "console": "Xbox",
+   "datTitle": "NBA Inside Drive 2003 (USA)",
+   "displayTitle": "NBA Inside Drive 2003 (USA)",
+   "searchKeys": [
+    "2003",
+    "drive",
+    "inside",
+    "nba",
+    "nba inside drive 2003"
+   ],
+   "romFile": "NBA Inside Drive 2003 (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\NBA Inside Drive 2003 (USA).xiso.iso",
+   "coverFile": "NBA Inside Drive 2003 (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\NBA Inside Drive 2003 (USA).webp",
+   "size": 3912,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "2c86b058",
+   "console": "Xbox",
+   "datTitle": "NBA Inside Drive 2004 (USA, Asia)",
+   "displayTitle": "NBA Inside Drive 2004 (USA, Asia)",
+   "searchKeys": [
+    "2004",
+    "drive",
+    "inside",
+    "nba",
+    "nba inside drive 2004"
+   ],
+   "romFile": "NBA Inside Drive 2004 (USA, Asia).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\NBA Inside Drive 2004 (USA, Asia).xiso.iso",
+   "coverFile": "NBA Inside Drive 2004 (USA, Asia).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\NBA Inside Drive 2004 (USA, Asia).webp",
+   "size": 4233,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "33097862",
+   "console": "Xbox",
+   "datTitle": "NFL Fever 2002 (USA)",
+   "displayTitle": "NFL Fever 2002 (USA)",
+   "searchKeys": [
+    "2002",
+    "fever",
+    "nfl",
+    "nfl fever 2002"
+   ],
+   "romFile": "NFL Fever 2002 (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\NFL Fever 2002 (USA).xiso.iso",
+   "coverFile": "NFL Fever 2002 (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\NFL Fever 2002 (USA).webp",
+   "size": 3305,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "0b967258",
+   "console": "Xbox",
+   "datTitle": "NFL Fever 2003 (USA) (Rev 1)",
+   "displayTitle": "NFL Fever 2003 (USA)",
+   "searchKeys": [
+    "2003",
+    "fever",
+    "nfl",
+    "nfl fever 2003"
+   ],
+   "romFile": "NFL Fever 2003 (USA) (Rev 1).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\NFL Fever 2003 (USA) (Rev 1).xiso.iso",
+   "coverFile": "NFL Fever 2003 (USA) (Rev 1).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\NFL Fever 2003 (USA) (Rev 1).webp",
+   "size": 3690,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "93de7a30",
+   "console": "Xbox",
+   "datTitle": "Night Caster - Defeat the Darkness (USA)",
+   "displayTitle": "Night Caster - Defeat the Darkness (USA)",
+   "searchKeys": [
+    "caster",
+    "darkness",
+    "defeat",
+    "night",
+    "night caster defeat the darkness",
+    "the"
+   ],
+   "romFile": "Night Caster - Defeat the Darkness (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Night Caster - Defeat the Darkness (USA).xiso.iso",
+   "coverFile": "Night Caster - Defeat the Darkness (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Night Caster - Defeat the Darkness (USA).webp",
+   "size": 782,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "d7c2e106",
+   "console": "Xbox",
+   "datTitle": "Night Caster II - Equinox (USA)",
+   "displayTitle": "Night Caster II - Equinox (USA)",
+   "searchKeys": [
+    "caster",
+    "equinox",
+    "ii",
+    "night",
+    "night caster ii equinox"
+   ],
+   "romFile": "Night Caster II - Equinox (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Night Caster II - Equinox (USA).xiso.iso",
+   "coverFile": "Night Caster II - Equinox (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Night Caster II - Equinox (USA).webp",
+   "size": 1177,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "c86f4c07",
+   "console": "Xbox",
+   "datTitle": "Ninja Gaiden (USA, Asia) (En,Ja)",
+   "displayTitle": "Ninja Gaiden (USA, Asia)",
+   "searchKeys": [
+    "gaiden",
+    "ninja",
+    "ninja gaiden"
+   ],
+   "romFile": "Ninja Gaiden (USA, Asia) (En,Ja).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Ninja Gaiden (USA, Asia) (En,Ja).xiso.iso",
+   "coverFile": "Ninja Gaiden (USA, Asia) (En,Ja).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Ninja Gaiden (USA, Asia) (En,Ja).webp",
+   "size": 6026,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "04f99d8c",
+   "console": "Xbox",
+   "datTitle": "Ninja Gaiden Black (USA) (En,Ja)",
+   "displayTitle": "Ninja Gaiden Black (USA)",
+   "searchKeys": [
+    "black",
+    "gaiden",
+    "ninja",
+    "ninja gaiden black"
+   ],
+   "romFile": "Ninja Gaiden Black (USA) (En,Ja).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Ninja Gaiden Black (USA) (En,Ja).xiso.iso",
+   "coverFile": "Ninja Gaiden Black (USA) (En,Ja).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Ninja Gaiden Black (USA) (En,Ja).webp",
+   "size": 6043,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "810ad483",
+   "console": "Xbox",
+   "datTitle": "Oddworld - Stranger's Wrath (USA)",
+   "displayTitle": "Oddworld - Stranger's Wrath (USA)",
+   "searchKeys": [
+    "oddworld",
+    "oddworld stranger s wrath",
+    "s",
+    "stranger",
+    "wrath"
+   ],
+   "romFile": "Oddworld - Stranger's Wrath (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Oddworld - Stranger's Wrath (USA).xiso.iso",
+   "coverFile": "Oddworld - Stranger's Wrath (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Oddworld - Stranger's Wrath (USA).webp",
+   "size": 2157,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "3ccc655e",
+   "console": "Xbox",
+   "datTitle": "Operation Flashpoint - Elite (USA, Europe) (En,Fr,De,It)",
+   "displayTitle": "Operation Flashpoint - Elite (USA, Europe)",
+   "searchKeys": [
+    "elite",
+    "flashpoint",
+    "operation",
+    "operation flashpoint elite"
+   ],
+   "romFile": "Operation Flashpoint - Elite (USA, Europe) (En,Fr,De,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Operation Flashpoint - Elite (USA, Europe) (En,Fr,De,It).xiso.iso",
+   "coverFile": "Operation Flashpoint - Elite (USA, Europe) (En,Fr,De,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Operation Flashpoint - Elite (USA, Europe) (En,Fr,De,It).webp",
+   "size": 1258,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "7a721209",
+   "console": "Xbox",
+   "datTitle": "Otogi - Myth of Demons (USA)",
+   "displayTitle": "Otogi - Myth of Demons (USA)",
+   "searchKeys": [
+    "demons",
+    "myth",
+    "of",
+    "otogi",
+    "otogi myth of demons"
+   ],
+   "romFile": "Otogi - Myth of Demons (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Otogi - Myth of Demons (USA).xiso.iso",
+   "coverFile": "Otogi - Myth of Demons (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Otogi - Myth of Demons (USA).webp",
+   "size": 2195,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "575a04ce",
+   "console": "Xbox",
+   "datTitle": "Otogi 2 - Immortal Warriors (USA)",
+   "displayTitle": "Otogi 2 - Immortal Warriors (USA)",
+   "searchKeys": [
+    "2",
+    "immortal",
+    "otogi",
+    "otogi 2 immortal warriors",
+    "warriors"
+   ],
+   "romFile": "Otogi 2 - Immortal Warriors (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Otogi 2 - Immortal Warriors (USA).xiso.iso",
+   "coverFile": "Otogi 2 - Immortal Warriors (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Otogi 2 - Immortal Warriors (USA).webp",
+   "size": 2887,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "06d43e0f",
+   "console": "Xbox",
+   "datTitle": "OutRun 2 (USA)",
+   "displayTitle": "OutRun 2 (USA)",
+   "searchKeys": [
+    "2",
+    "outrun",
+    "outrun 2"
+   ],
+   "romFile": "OutRun 2 (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\OutRun 2 (USA).xiso.iso",
+   "coverFile": "OutRun 2 (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\OutRun 2 (USA).webp",
+   "size": 1087,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "2b065e4e",
+   "console": "Xbox",
+   "datTitle": "Panzer Dragoon Orta (USA)",
+   "displayTitle": "Panzer Dragoon Orta (USA)",
+   "searchKeys": [
+    "dragoon",
+    "orta",
+    "panzer",
+    "panzer dragoon orta"
+   ],
+   "romFile": "Panzer Dragoon Orta (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Panzer Dragoon Orta (USA).xiso.iso",
+   "coverFile": "Panzer Dragoon Orta (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Panzer Dragoon Orta (USA).webp",
+   "size": 2954,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "00452730",
+   "console": "Xbox",
+   "datTitle": "Pariah (USA, Europe) (En,Fr,De,Es,It)",
+   "displayTitle": "Pariah (USA, Europe)",
+   "searchKeys": [
+    "pariah"
+   ],
+   "romFile": "Pariah (USA, Europe) (En,Fr,De,Es,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Pariah (USA, Europe) (En,Fr,De,Es,It).xiso.iso",
+   "coverFile": "Pariah (USA, Europe) (En,Fr,De,Es,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Pariah (USA, Europe) (En,Fr,De,Es,It).webp",
+   "size": 3599,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "2af256da",
+   "console": "Xbox",
+   "datTitle": "Phantom Crash (USA)",
+   "displayTitle": "Phantom Crash (USA)",
+   "searchKeys": [
+    "crash",
+    "phantom",
+    "phantom crash"
+   ],
+   "romFile": "Phantom Crash (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Phantom Crash (USA).xiso.iso",
+   "coverFile": "Phantom Crash (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Phantom Crash (USA).webp",
+   "size": 2598,
+   "xemuStatus": "Perfect"
+  },
+  {
+   "id": "c8a9db8e",
+   "console": "Xbox",
+   "datTitle": "Pirates of the Caribbean (USA)",
+   "displayTitle": "Pirates of the Caribbean (USA)",
+   "searchKeys": [
+    "caribbean",
+    "of",
+    "pirates",
+    "pirates of the caribbean",
+    "the"
+   ],
+   "romFile": "Pirates of the Caribbean (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Pirates of the Caribbean (USA).xiso.iso",
+   "coverFile": "Pirates of the Caribbean (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Pirates of the Caribbean (USA).webp",
+   "size": 1834,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "f925b0e9",
+   "console": "Xbox",
+   "datTitle": "Pro Cast - Sports Fishing Game (USA)",
+   "displayTitle": "Pro Cast - Sports Fishing Game (USA)",
+   "searchKeys": [
+    "cast",
+    "fishing",
+    "game",
+    "pro",
+    "pro cast sports fishing game",
+    "sports"
+   ],
+   "romFile": "Pro Cast - Sports Fishing Game (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Pro Cast - Sports Fishing Game (USA).xiso.iso",
+   "coverFile": "Pro Cast - Sports Fishing Game (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Pro Cast - Sports Fishing Game (USA).webp",
+   "size": 129,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "d6fdfd3c",
+   "console": "Xbox",
+   "datTitle": "Project Gotham Racing (USA)",
+   "displayTitle": "Project Gotham Racing (USA)",
+   "searchKeys": [
+    "gotham",
+    "project",
+    "project gotham racing",
+    "racing"
+   ],
+   "romFile": "Project Gotham Racing (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Project Gotham Racing (USA).xiso.iso",
+   "coverFile": "Project Gotham Racing (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Project Gotham Racing (USA).webp",
+   "size": 2119,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "aaa1e8f2",
+   "console": "Xbox",
+   "datTitle": "Project Gotham Racing 2 (USA, Asia) (En,Ja,Fr,De,Es,It,Zh,Ko)",
+   "displayTitle": "Project Gotham Racing 2 (USA, Asia)",
+   "searchKeys": [
+    "2",
+    "gotham",
+    "project",
+    "project gotham racing 2",
+    "racing"
+   ],
+   "romFile": "Project Gotham Racing 2 (USA, Asia) (En,Ja,Fr,De,Es,It,Zh,Ko).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Project Gotham Racing 2 (USA, Asia) (En,Ja,Fr,De,Es,It,Zh,Ko).xiso.iso",
+   "coverFile": "Project Gotham Racing 2 (USA, Asia) (En,Ja,Fr,De,Es,It,Zh,Ko).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Project Gotham Racing 2 (USA, Asia) (En,Ja,Fr,De,Es,It,Zh,Ko).webp",
+   "size": 5388,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "a7f5efe3",
+   "console": "Xbox",
+   "datTitle": "Pure Pinball (USA)",
+   "displayTitle": "Pure Pinball (USA)",
+   "searchKeys": [
+    "pinball",
+    "pure",
+    "pure pinball"
+   ],
+   "romFile": "Pure Pinball (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Pure Pinball (USA).xiso.iso",
+   "coverFile": "Pure Pinball (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Pure Pinball (USA).webp",
+   "size": 257,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "9e4a048d",
+   "console": "Xbox",
+   "datTitle": "Quantum Redshift (USA)",
+   "displayTitle": "Quantum Redshift (USA)",
+   "searchKeys": [
+    "quantum",
+    "quantum redshift",
+    "redshift"
+   ],
+   "romFile": "Quantum Redshift (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Quantum Redshift (USA).xiso.iso",
+   "coverFile": "Quantum Redshift (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Quantum Redshift (USA).webp",
+   "size": 3274,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "6b3e1d8a",
+   "console": "Xbox",
+   "datTitle": "RalliSport Challenge (USA) (Rev 1)",
+   "displayTitle": "RalliSport Challenge (USA)",
+   "searchKeys": [
+    "challenge",
+    "rallisport",
+    "rallisport challenge"
+   ],
+   "romFile": "RalliSport Challenge (USA) (Rev 1).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\RalliSport Challenge (USA) (Rev 1).xiso.iso",
+   "coverFile": "RalliSport Challenge (USA) (Rev 1).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\RalliSport Challenge (USA) (Rev 1).webp",
+   "size": 1866,
+   "xemuStatus": "Perfect"
+  },
+  {
+   "id": "5f03263e",
+   "console": "Xbox",
+   "datTitle": "RalliSport Challenge 2 (World) (En,Ja,Fr,De,Es,It)",
+   "displayTitle": "RalliSport Challenge 2 (World)",
+   "searchKeys": [
+    "2",
+    "challenge",
+    "rallisport",
+    "rallisport challenge 2"
+   ],
+   "romFile": "RalliSport Challenge 2 (World) (En,Ja,Fr,De,Es,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\RalliSport Challenge 2 (World) (En,Ja,Fr,De,Es,It).xiso.iso",
+   "coverFile": "RalliSport Challenge 2 (World) (En,Ja,Fr,De,Es,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\RalliSport Challenge 2 (World) (En,Ja,Fr,De,Es,It).webp",
+   "size": 6348,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "7716a193",
+   "console": "Xbox",
+   "datTitle": "Raze's Hell (USA)",
+   "displayTitle": "Raze's Hell (USA)",
+   "searchKeys": [
+    "hell",
+    "raze",
+    "raze s hell",
+    "s"
+   ],
+   "romFile": "Raze's Hell (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Raze's Hell (USA).xiso.iso",
+   "coverFile": "Raze's Hell (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Raze's Hell (USA).webp",
+   "size": 2142,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "09d977e1",
+   "console": "Xbox",
+   "datTitle": "Return to Castle Wolfenstein - Tides of War (World)",
+   "displayTitle": "Return to Castle Wolfenstein - Tides of War (World)",
+   "searchKeys": [
+    "castle",
+    "of",
+    "return",
+    "return to castle wolfenstein tides of war",
+    "tides",
+    "to",
+    "war",
+    "wolfenstein"
+   ],
+   "romFile": "Return to Castle Wolfenstein - Tides of War (World).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Return to Castle Wolfenstein - Tides of War (World).xiso.iso",
+   "coverFile": "Return to Castle Wolfenstein - Tides of War (World).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Return to Castle Wolfenstein - Tides of War (World).webp",
+   "size": 3562,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "efc2e730",
+   "console": "Xbox",
+   "datTitle": "SeaBlade (USA)",
+   "displayTitle": "SeaBlade (USA)",
+   "searchKeys": [
+    "seablade"
+   ],
+   "romFile": "SeaBlade (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\SeaBlade (USA).xiso.iso",
+   "coverFile": "SeaBlade (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\SeaBlade (USA).webp",
+   "size": 2119,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "8222c487",
+   "console": "Xbox",
+   "datTitle": "Sega GT 2002 (USA) (En,Ja)",
+   "displayTitle": "Sega GT 2002 (USA)",
+   "searchKeys": [
+    "2002",
+    "gt",
+    "sega",
+    "sega gt 2002"
+   ],
+   "romFile": "Sega GT 2002 (USA) (En,Ja).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Sega GT 2002 (USA) (En,Ja).xiso.iso",
+   "coverFile": "Sega GT 2002 (USA) (En,Ja).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Sega GT 2002 (USA) (En,Ja).webp",
+   "size": 1623,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "e9103312",
+   "console": "Xbox",
+   "datTitle": "Serious Sam (USA)",
+   "displayTitle": "Serious Sam (USA)",
+   "searchKeys": [
+    "sam",
+    "serious",
+    "serious sam"
+   ],
+   "romFile": "Serious Sam (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Serious Sam (USA).xiso.iso",
+   "coverFile": "Serious Sam (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Serious Sam (USA).webp",
+   "size": 1709,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "85cfffd0",
+   "console": "Xbox",
+   "datTitle": "Serious Sam II (USA, Europe) (En,Fr,De,It)",
+   "displayTitle": "Serious Sam II (USA, Europe)",
+   "searchKeys": [
+    "ii",
+    "sam",
+    "serious",
+    "serious sam ii"
+   ],
+   "romFile": "Serious Sam II (USA, Europe) (En,Fr,De,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Serious Sam II (USA, Europe) (En,Fr,De,It).xiso.iso",
+   "coverFile": "Serious Sam II (USA, Europe) (En,Fr,De,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Serious Sam II (USA, Europe) (En,Fr,De,It).webp",
+   "size": 3732,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "28e781d1",
+   "console": "Xbox",
+   "datTitle": "Shadow Ops - Red Mercury (USA)",
+   "displayTitle": "Shadow Ops - Red Mercury (USA)",
+   "searchKeys": [
+    "mercury",
+    "ops",
+    "red",
+    "shadow",
+    "shadow ops red mercury"
+   ],
+   "romFile": "Shadow Ops - Red Mercury (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Shadow Ops - Red Mercury (USA).xiso.iso",
+   "coverFile": "Shadow Ops - Red Mercury (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Shadow Ops - Red Mercury (USA).webp",
+   "size": 2840,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "b9ca52bf",
+   "console": "Xbox",
+   "datTitle": "Shattered Union (USA)",
+   "displayTitle": "Shattered Union (USA)",
+   "searchKeys": [
+    "shattered",
+    "shattered union",
+    "union"
+   ],
+   "romFile": "Shattered Union (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Shattered Union (USA).xiso.iso",
+   "coverFile": "Shattered Union (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Shattered Union (USA).webp",
+   "size": 773,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "aaead9c0",
+   "console": "Xbox",
+   "datTitle": "Soldier of Fortune II - Double Helix (USA, Australia)",
+   "displayTitle": "Soldier of Fortune II - Double Helix (USA, Australia)",
+   "searchKeys": [
+    "double",
+    "fortune",
+    "helix",
+    "ii",
+    "of",
+    "soldier",
+    "soldier of fortune ii double helix"
+   ],
+   "romFile": "Soldier of Fortune II - Double Helix (USA, Australia).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Soldier of Fortune II - Double Helix (USA, Australia).xiso.iso",
+   "coverFile": "Soldier of Fortune II - Double Helix (USA, Australia).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Soldier of Fortune II - Double Helix (USA, Australia).webp",
+   "size": 2021,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "17ccfb10",
+   "console": "Xbox",
+   "datTitle": "Spartan - Total Warrior (USA)",
+   "displayTitle": "Spartan - Total Warrior (USA)",
+   "searchKeys": [
+    "spartan",
+    "spartan total warrior",
+    "total",
+    "warrior"
+   ],
+   "romFile": "Spartan - Total Warrior (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Spartan - Total Warrior (USA).xiso.iso",
+   "coverFile": "Spartan - Total Warrior (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Spartan - Total Warrior (USA).webp",
+   "size": 1783,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "206c2bb3",
+   "console": "Xbox",
+   "datTitle": "Stake - Fortune Fighters (USA, Europe) (En,Fr,De,Es,It)",
+   "displayTitle": "Stake - Fortune Fighters (USA, Europe)",
+   "searchKeys": [
+    "fighters",
+    "fortune",
+    "stake",
+    "stake fortune fighters"
+   ],
+   "romFile": "Stake - Fortune Fighters (USA, Europe) (En,Fr,De,Es,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Stake - Fortune Fighters (USA, Europe) (En,Fr,De,Es,It).xiso.iso",
+   "coverFile": "Stake - Fortune Fighters (USA, Europe) (En,Fr,De,Es,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Stake - Fortune Fighters (USA, Europe) (En,Fr,De,Es,It).webp",
+   "size": 672,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "64f43929",
+   "console": "Xbox",
+   "datTitle": "Star Wars - Jedi Knight - Jedi Academy (USA) (En,Fr,De)",
+   "displayTitle": "Star Wars - Jedi Knight - Jedi Academy (USA)",
+   "searchKeys": [
+    "academy",
+    "jedi",
+    "knight",
+    "star",
+    "star wars jedi knight jedi academy",
+    "wars"
+   ],
+   "romFile": "Star Wars - Jedi Knight - Jedi Academy (USA) (En,Fr,De).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Star Wars - Jedi Knight - Jedi Academy (USA) (En,Fr,De).xiso.iso",
+   "coverFile": "Star Wars - Jedi Knight - Jedi Academy (USA) (En,Fr,De).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Star Wars - Jedi Knight - Jedi Academy (USA) (En,Fr,De).webp",
+   "size": 1425,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "4b1af858",
+   "console": "Xbox",
+   "datTitle": "Star Wars - Knights of the Old Republic II - The Sith Lords (USA)",
+   "displayTitle": "Star Wars - Knights of the Old Republic II - The Sith Lords (USA)",
+   "searchKeys": [
+    "ii",
+    "knights",
+    "lords",
+    "of",
+    "old",
+    "republic",
+    "sith",
+    "star",
+    "star wars knights of the old republic ii the sith lords",
+    "the",
+    "wars"
+   ],
+   "romFile": "Star Wars - Knights of the Old Republic II - The Sith Lords (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Star Wars - Knights of the Old Republic II - The Sith Lords (USA).xiso.iso",
+   "coverFile": "Star Wars - Knights of the Old Republic II - The Sith Lords (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Star Wars - Knights of the Old Republic II - The Sith Lords (USA).webp",
+   "size": 3921,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "9e9702c0",
+   "console": "Xbox",
+   "datTitle": "Star Wars - Republic Commando (USA)",
+   "displayTitle": "Star Wars - Republic Commando (USA)",
+   "searchKeys": [
+    "commando",
+    "republic",
+    "star",
+    "star wars republic commando",
+    "wars"
+   ],
+   "romFile": "Star Wars - Republic Commando (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Star Wars - Republic Commando (USA).xiso.iso",
+   "coverFile": "Star Wars - Republic Commando (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Star Wars - Republic Commando (USA).webp",
+   "size": 3469,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "7a4614ba",
+   "console": "Xbox",
+   "datTitle": "Still Life (USA) (En,Fr,De,Es,It)",
+   "displayTitle": "Still Life (USA)",
+   "searchKeys": [
+    "life",
+    "still",
+    "still life"
+   ],
+   "romFile": "Still Life (USA) (En,Fr,De,Es,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Still Life (USA) (En,Fr,De,Es,It).xiso.iso",
+   "coverFile": "Still Life (USA) (En,Fr,De,Es,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Still Life (USA) (En,Fr,De,Es,It).webp",
+   "size": 2418,
+   "xemuStatus": "Perfect"
+  },
+  {
+   "id": "35ba4531",
+   "console": "Xbox",
+   "datTitle": "Stubbs the Zombie in Rebel Without a Pulse (USA)",
+   "displayTitle": "Stubbs the Zombie in Rebel Without a Pulse (USA)",
+   "searchKeys": [
+    "a",
+    "in",
+    "pulse",
+    "rebel",
+    "stubbs",
+    "stubbs the zombie in rebel without a pulse",
+    "the",
+    "without",
+    "zombie"
+   ],
+   "romFile": "Stubbs the Zombie in Rebel Without a Pulse (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Stubbs the Zombie in Rebel Without a Pulse (USA).xiso.iso",
+   "coverFile": "Stubbs the Zombie in Rebel Without a Pulse (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Stubbs the Zombie in Rebel Without a Pulse (USA).webp",
+   "size": 1957,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "0d36b5da",
+   "console": "Xbox",
+   "datTitle": "Superman - The Man of Steel (USA)",
+   "displayTitle": "Superman - The Man of Steel (USA)",
+   "searchKeys": [
+    "man",
+    "of",
+    "steel",
+    "superman",
+    "superman the man of steel",
+    "the"
+   ],
+   "romFile": "Superman - The Man of Steel (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Superman - The Man of Steel (USA).xiso.iso",
+   "coverFile": "Superman - The Man of Steel (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Superman - The Man of Steel (USA).webp",
+   "size": 2222,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "f81ad1d2",
+   "console": "Xbox",
+   "datTitle": "Tao Feng - Fist of the Lotus (USA, Asia)",
+   "displayTitle": "Tao Feng - Fist of the Lotus (USA, Asia)",
+   "searchKeys": [
+    "feng",
+    "fist",
+    "lotus",
+    "of",
+    "tao",
+    "tao feng fist of the lotus",
+    "the"
+   ],
+   "romFile": "Tao Feng - Fist of the Lotus (USA, Asia).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Tao Feng - Fist of the Lotus (USA, Asia).xiso.iso",
+   "coverFile": "Tao Feng - Fist of the Lotus (USA, Asia).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Tao Feng - Fist of the Lotus (USA, Asia).webp",
+   "size": 1365,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "50dc4e32",
+   "console": "Xbox",
+   "datTitle": "Tecmo Classic Arcade (USA, Japan) (En,Ja)",
+   "displayTitle": "Tecmo Classic Arcade (USA, Japan)",
+   "searchKeys": [
+    "arcade",
+    "classic",
+    "tecmo",
+    "tecmo classic arcade"
+   ],
+   "romFile": "Tecmo Classic Arcade (USA, Japan) (En,Ja).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Tecmo Classic Arcade (USA, Japan) (En,Ja).xiso.iso",
+   "coverFile": null,
+   "coverPath": null,
+   "size": 259,
+   "xemuStatus": "Perfect"
+  },
+  {
+   "id": "d3bf7aee",
+   "console": "Xbox",
+   "datTitle": "Tenchu - Return from Darkness (USA, Asia)",
+   "displayTitle": "Tenchu - Return from Darkness (USA, Asia)",
+   "searchKeys": [
+    "darkness",
+    "from",
+    "return",
+    "tenchu",
+    "tenchu return from darkness"
+   ],
+   "romFile": "Tenchu - Return from Darkness (USA, Asia).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Tenchu - Return from Darkness (USA, Asia).xiso.iso",
+   "coverFile": "Tenchu - Return from Darkness (USA, Asia).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Tenchu - Return from Darkness (USA, Asia).webp",
+   "size": 2298,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "35337a00",
+   "console": "Xbox",
+   "datTitle": "Tetris Worlds (USA)",
+   "displayTitle": "Tetris Worlds (USA)",
+   "searchKeys": [
+    "tetris",
+    "tetris worlds",
+    "worlds"
+   ],
+   "romFile": "Tetris Worlds (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Tetris Worlds (USA).xiso.iso",
+   "coverFile": "Tetris Worlds (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Tetris Worlds (USA).webp",
+   "size": 453,
+   "xemuStatus": "Perfect"
+  },
+  {
+   "id": "f43f5821",
+   "console": "Xbox",
+   "datTitle": "Thief - Deadly Shadows (USA)",
+   "displayTitle": "Thief - Deadly Shadows (USA)",
+   "searchKeys": [
+    "deadly",
+    "shadows",
+    "thief",
+    "thief deadly shadows"
+   ],
+   "romFile": "Thief - Deadly Shadows (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Thief - Deadly Shadows (USA).xiso.iso",
+   "coverFile": "Thief - Deadly Shadows (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Thief - Deadly Shadows (USA).webp",
+   "size": 2242,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "281778b7",
+   "console": "Xbox",
+   "datTitle": "ToeJam & Earl III - Mission to Earth (USA)",
+   "displayTitle": "ToeJam & Earl III - Mission to Earth (USA)",
+   "searchKeys": [
+    "and",
+    "earl",
+    "earth",
+    "iii",
+    "mission",
+    "to",
+    "toejam",
+    "toejam and earl iii mission to earth"
+   ],
+   "romFile": "ToeJam & Earl III - Mission to Earth (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\ToeJam & Earl III - Mission to Earth (USA).xiso.iso",
+   "coverFile": "ToeJam & Earl III - Mission to Earth (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\ToeJam & Earl III - Mission to Earth (USA).webp",
+   "size": 2545,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "167334db",
+   "console": "Xbox",
+   "datTitle": "Tom Clancy's Ghost Recon - Island Thunder (USA)",
+   "displayTitle": "Tom Clancy's Ghost Recon - Island Thunder (USA)",
+   "searchKeys": [
+    "clancy",
+    "ghost",
+    "island",
+    "recon",
+    "s",
+    "thunder",
+    "tom",
+    "tom clancy s ghost recon island thunder"
+   ],
+   "romFile": "Tom Clancy's Ghost Recon - Island Thunder (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Tom Clancy's Ghost Recon - Island Thunder (USA).xiso.iso",
+   "coverFile": "Tom Clancy's Ghost Recon - Island Thunder (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Tom Clancy's Ghost Recon - Island Thunder (USA).webp",
+   "size": 838,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "122aa4c5",
+   "console": "Xbox",
+   "datTitle": "Tom Clancy's Rainbow Six - Critical Hour (USA) (En,Fr)",
+   "displayTitle": "Tom Clancy's Rainbow Six - Critical Hour (USA)",
+   "searchKeys": [
+    "clancy",
+    "critical",
+    "hour",
+    "rainbow",
+    "s",
+    "six",
+    "tom",
+    "tom clancy s rainbow six critical hour"
+   ],
+   "romFile": "Tom Clancy's Rainbow Six - Critical Hour (USA) (En,Fr).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Tom Clancy's Rainbow Six - Critical Hour (USA) (En,Fr).xiso.iso",
+   "coverFile": "Tom Clancy's Rainbow Six - Critical Hour (USA) (En,Fr).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Tom Clancy's Rainbow Six - Critical Hour (USA) (En,Fr).webp",
+   "size": 2019,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "a4b6180c",
+   "console": "Xbox",
+   "datTitle": "Tork - Prehistoric Punk (USA)",
+   "displayTitle": "Tork - Prehistoric Punk (USA)",
+   "searchKeys": [
+    "prehistoric",
+    "punk",
+    "tork",
+    "tork prehistoric punk"
+   ],
+   "romFile": "Tork - Prehistoric Punk (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Tork - Prehistoric Punk (USA).xiso.iso",
+   "coverFile": "Tork - Prehistoric Punk (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Tork - Prehistoric Punk (USA).webp",
+   "size": 1319,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "7faf92bd",
+   "console": "Xbox",
+   "datTitle": "UFC - Ultimate Fighting Championship - Tapout (USA)",
+   "displayTitle": "UFC - Ultimate Fighting Championship - Tapout (USA)",
+   "searchKeys": [
+    "championship",
+    "fighting",
+    "tapout",
+    "ufc",
+    "ufc ultimate fighting championship tapout",
+    "ultimate"
+   ],
+   "romFile": "UFC - Ultimate Fighting Championship - Tapout (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\UFC - Ultimate Fighting Championship - Tapout (USA).xiso.iso",
+   "coverFile": "UFC - Ultimate Fighting Championship - Tapout (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\UFC - Ultimate Fighting Championship - Tapout (USA).webp",
+   "size": 1037,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "621befc2",
+   "console": "Xbox",
+   "datTitle": "Ultra Bust-A-Move (USA)",
+   "displayTitle": "Ultra Bust-A-Move (USA)",
+   "searchKeys": [
+    "a",
+    "bust",
+    "move",
+    "ultra",
+    "ultra bust a move"
+   ],
+   "romFile": "Ultra Bust-A-Move (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Ultra Bust-A-Move (USA).xiso.iso",
+   "coverFile": "Ultra Bust-A-Move (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Ultra Bust-A-Move (USA).webp",
+   "size": 137,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "2cd8320b",
+   "console": "Xbox",
+   "datTitle": "Unreal Championship (USA, Europe) (En,Fr,De,Es,It)",
+   "displayTitle": "Unreal Championship (USA, Europe)",
+   "searchKeys": [
+    "championship",
+    "unreal",
+    "unreal championship"
+   ],
+   "romFile": "Unreal Championship (USA, Europe) (En,Fr,De,Es,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Unreal Championship (USA, Europe) (En,Fr,De,Es,It).xiso.iso",
+   "coverFile": "Unreal Championship (USA, Europe) (En,Fr,De,Es,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Unreal Championship (USA, Europe) (En,Fr,De,Es,It).webp",
+   "size": 709,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "129c3928",
+   "console": "Xbox",
+   "datTitle": "Unreal Championship 2 - The Liandri Conflict (USA, Europe) (En,Fr,De,Es,It)",
+   "displayTitle": "Unreal Championship 2 - The Liandri Conflict (USA, Europe)",
+   "searchKeys": [
+    "2",
+    "championship",
+    "conflict",
+    "liandri",
+    "the",
+    "unreal",
+    "unreal championship 2 the liandri conflict"
+   ],
+   "romFile": "Unreal Championship 2 - The Liandri Conflict (USA, Europe) (En,Fr,De,Es,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Unreal Championship 2 - The Liandri Conflict (USA, Europe) (En,Fr,De,Es,It).xiso.iso",
+   "coverFile": "Unreal Championship 2 - The Liandri Conflict (USA, Europe) (En,Fr,De,Es,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Unreal Championship 2 - The Liandri Conflict (USA, Europe) (En,Fr,De,Es,It).webp",
+   "size": 2163,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "d05d774e",
+   "console": "Xbox",
+   "datTitle": "Virtual Pool - Tournament Edition (USA, Europe) (En,Fr,De,It)",
+   "displayTitle": "Virtual Pool - Tournament Edition (USA, Europe)",
+   "searchKeys": [
+    "edition",
+    "pool",
+    "tournament",
+    "virtual",
+    "virtual pool tournament edition"
+   ],
+   "romFile": "Virtual Pool - Tournament Edition (USA, Europe) (En,Fr,De,It).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Virtual Pool - Tournament Edition (USA, Europe) (En,Fr,De,It).xiso.iso",
+   "coverFile": "Virtual Pool - Tournament Edition (USA, Europe) (En,Fr,De,It).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Virtual Pool - Tournament Edition (USA, Europe) (En,Fr,De,It).webp",
+   "size": 422,
+   "xemuStatus": "Perfect"
+  },
+  {
+   "id": "e2daa916",
+   "console": "Xbox",
+   "datTitle": "Volvo - Drive for Life (USA)",
+   "displayTitle": "Volvo - Drive for Life (USA)",
+   "searchKeys": [
+    "drive",
+    "for",
+    "life",
+    "volvo",
+    "volvo drive for life"
+   ],
+   "romFile": "Volvo - Drive for Life (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Volvo - Drive for Life (USA).xiso.iso",
+   "coverFile": null,
+   "coverPath": null,
+   "size": 847,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "4920f1ca",
+   "console": "Xbox",
+   "datTitle": "Voodoo Vince (USA)",
+   "displayTitle": "Voodoo Vince (USA)",
+   "searchKeys": [
+    "vince",
+    "voodoo",
+    "voodoo vince"
+   ],
+   "romFile": "Voodoo Vince (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Voodoo Vince (USA).xiso.iso",
+   "coverFile": "Voodoo Vince (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Voodoo Vince (USA).webp",
+   "size": 2523,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "05d38056",
+   "console": "Xbox",
+   "datTitle": "Whacked! (USA, Europe)",
+   "displayTitle": "Whacked! (USA, Europe)",
+   "searchKeys": [
+    "whacked"
+   ],
+   "romFile": "Whacked! (USA, Europe).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Whacked! (USA, Europe).xiso.iso",
+   "coverFile": "Whacked! (USA, Europe).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Whacked! (USA, Europe).webp",
+   "size": 3954,
+   "xemuStatus": "Perfect"
+  },
+  {
+   "id": "031fc838",
+   "console": "Xbox",
+   "datTitle": "Wings of War (USA)",
+   "displayTitle": "Wings of War (USA)",
+   "searchKeys": [
+    "of",
+    "war",
+    "wings",
+    "wings of war"
+   ],
+   "romFile": "Wings of War (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Wings of War (USA).xiso.iso",
+   "coverFile": "Wings of War (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Wings of War (USA).webp",
+   "size": 1210,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "29b55464",
+   "console": "Xbox",
+   "datTitle": "World Series Baseball (USA)",
+   "displayTitle": "World Series Baseball (USA)",
+   "searchKeys": [
+    "baseball",
+    "series",
+    "world",
+    "world series baseball"
+   ],
+   "romFile": "World Series Baseball (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\World Series Baseball (USA).xiso.iso",
+   "coverFile": "World Series Baseball (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\World Series Baseball (USA).webp",
+   "size": 1640,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "81fc591e",
+   "console": "Xbox",
+   "datTitle": "World War II Combat - Iwo Jima (USA)",
+   "displayTitle": "World War II Combat - Iwo Jima (USA)",
+   "searchKeys": [
+    "combat",
+    "ii",
+    "iwo",
+    "jima",
+    "war",
+    "world",
+    "world war ii combat iwo jima"
+   ],
+   "romFile": "World War II Combat - Iwo Jima (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\World War II Combat - Iwo Jima (USA).xiso.iso",
+   "coverFile": "World War II Combat - Iwo Jima (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\World War II Combat - Iwo Jima (USA).webp",
+   "size": 891,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "a866e910",
+   "console": "Xbox",
+   "datTitle": "World War II Combat - Road to Berlin (USA)",
+   "displayTitle": "World War II Combat - Road to Berlin (USA)",
+   "searchKeys": [
+    "berlin",
+    "combat",
+    "ii",
+    "road",
+    "to",
+    "war",
+    "world",
+    "world war ii combat road to berlin"
+   ],
+   "romFile": "World War II Combat - Road to Berlin (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\World War II Combat - Road to Berlin (USA).xiso.iso",
+   "coverFile": "World War II Combat - Road to Berlin (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\World War II Combat - Road to Berlin (USA).webp",
+   "size": 753,
+   "xemuStatus": "Perfect"
+  },
+  {
+   "id": "1a1db6f8",
+   "console": "Xbox",
+   "datTitle": "WWE Raw 2 (USA)",
+   "displayTitle": "WWE Raw 2 (USA)",
+   "searchKeys": [
+    "2",
+    "raw",
+    "wwe",
+    "wwe raw 2"
+   ],
+   "romFile": "WWE Raw 2 (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\WWE Raw 2 (USA).xiso.iso",
+   "coverFile": "WWE Raw 2 (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\WWE Raw 2 (USA).webp",
+   "size": 1547,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "29f37288",
+   "console": "Xbox",
+   "datTitle": "WWE WrestleMania 21 (USA) (Rev 1)",
+   "displayTitle": "WWE WrestleMania 21 (USA)",
+   "searchKeys": [
+    "21",
+    "wrestlemania",
+    "wwe",
+    "wwe wrestlemania 21"
+   ],
+   "romFile": "WWE WrestleMania 21 (USA) (Rev 1).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\WWE WrestleMania 21 (USA) (Rev 1).xiso.iso",
+   "coverFile": "WWE WrestleMania 21 (USA) (Rev 1).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\WWE WrestleMania 21 (USA) (Rev 1).webp",
+   "size": 2725,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "56bc5eba",
+   "console": "Xbox",
+   "datTitle": "WWF Raw (USA)",
+   "displayTitle": "WWF Raw (USA)",
+   "searchKeys": [
+    "raw",
+    "wwf",
+    "wwf raw"
+   ],
+   "romFile": "WWF Raw (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\WWF Raw (USA).xiso.iso",
+   "coverFile": "WWF Raw (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\WWF Raw (USA).webp",
+   "size": 2640,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "302eae3b",
+   "console": "Xbox",
+   "datTitle": "Xyanide (USA) (En,Fr,De,Es)",
+   "displayTitle": "Xyanide (USA)",
+   "searchKeys": [
+    "xyanide"
+   ],
+   "romFile": "Xyanide (USA) (En,Fr,De,Es).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Xyanide (USA) (En,Fr,De,Es).xiso.iso",
+   "coverFile": "Xyanide (USA) (En,Fr,De,Es).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Xyanide (USA) (En,Fr,De,Es).webp",
+   "size": 2682,
+   "xemuStatus": "Playable"
+  },
+  {
+   "id": "9d12c7af",
+   "console": "Xbox",
+   "datTitle": "Yu-Gi-Oh! The Dawn of Destiny (USA)",
+   "displayTitle": "Yu-Gi-Oh! The Dawn of Destiny (USA)",
+   "searchKeys": [
+    "dawn",
+    "destiny",
+    "gi",
+    "of",
+    "oh",
+    "the",
+    "yu",
+    "yu gi oh the dawn of destiny"
+   ],
+   "romFile": "Yu-Gi-Oh! The Dawn of Destiny (USA).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Yu-Gi-Oh! The Dawn of Destiny (USA).xiso.iso",
+   "coverFile": "Yu-Gi-Oh! The Dawn of Destiny (USA).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Yu-Gi-Oh! The Dawn of Destiny (USA).webp",
+   "size": 1637,
+   "xemuStatus": "Playable"
+  }
+ ]
+}

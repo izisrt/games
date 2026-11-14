@@ -20,6 +20,7 @@ const CONSOLE_CONFIG = {
   PS2:         { icon: "ps2.png",       color: "#374151" },
   PS1:         { icon: "PS1.png",       color: "#9ca3af" },
   PSP:         { icon: "missing.webp",  color: "#2563eb" },
+  Xbox:        { icon: "missing.webp",  color: "#107c10" },  // green; add icons/xbox.png to replace the placeholder
 };
 
 const OVERSCAN = 8;
@@ -93,6 +94,7 @@ function getConsoleKey(consoleName) {
   if (c === "atari 2600" || c === "2600") return "atari_2600";
   if (c === "atari jaguar" || c === "jaguar" || c === "jag") return "atari_jaguar";
   if (c === "dreamcast" || c === "dc") return "dreamcast";
+  if (c === "xbox") return "xbox";
   if (c === "genesis" || c === "sega genesis" || c === "md" || c === "mega drive") return "genesis";
   if (c === "gamecube") return "gamecube";
   if (c === "wii") return "wii";

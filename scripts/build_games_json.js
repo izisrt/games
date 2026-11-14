@@ -46,6 +46,7 @@ function consoleDisplayName(metaSystem, folderName) {
   if (sys.toLowerCase() === "atari 2600" || folder.startsWith("atari_2600")) return "Atari 2600";
   if (sys.toLowerCase() === "atari jaguar" || folder.startsWith("atari_jaguar") || folder.startsWith("atarijaguar") || folder.startsWith("jaguar")) return "Atari Jaguar";
   if (sys.toLowerCase() === "dreamcast" || folder.startsWith("dreamcast")) return "Dreamcast";
+  if (sys.toLowerCase() === "xbox" || folder.startsWith("xbox")) return "Xbox";
   if (sys.toLowerCase() === "genesis" || sys.toLowerCase() === "sega genesis" || folder.startsWith("genesis") || folder.startsWith("sega_genesis")) return "Genesis";
 
   // Fall back to system string as-is if present
@@ -78,6 +79,7 @@ function consoleTag(metaSystem, fallback) {
   if (sys.toLowerCase() === "atari jaguar") return "JAG";
   if (sys.toLowerCase() === "playstation portable") return "PSP";
   if (sys.toLowerCase() === "dreamcast") return "DC";
+  if (sys.toLowerCase() === "xbox") return "XBOX";
   return sys || String(fallback || "").trim() || null;
 }
 

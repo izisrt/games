@@ -55,6 +55,7 @@ function consoleKeyFromIndexFolder(folderName) {
   if (base.startsWith("atari_2600")) return "atari_2600";
   if (base.startsWith("atari_jaguar") || base.startsWith("atarijaguar") || base.startsWith("jaguar")) return "atari_jaguar";
   if (base.startsWith("dreamcast")) return "dreamcast";
+  if (base.startsWith("xbox")) return "xbox";
   if (base.startsWith("genesis") || base.startsWith("sega_genesis")) return "genesis";
   if (base.startsWith("n64")) return "n64";
   if (base.startsWith("nes")) return "nes";

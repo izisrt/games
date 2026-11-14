@@ -15,6 +15,7 @@
     "Atari 2600": true,
     "Atari Jaguar": true,
     "Dreamcast": true,
-    "Genesis": true
+    "Genesis": true,
+    "Xbox": true
   }
 }
