@@ -1,7 +1,7 @@
 {
  "meta": {
   "system": "Xbox",
-  "generated_at": "2026-11-14T12:14:53",
+  "generated_at": "2026-11-14T13:20:55",
   "roms_dir": "F:\\xbox\\XISO",
   "art_dir": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox",
   "box_art_source": "F:\\xbox\\boxArt\\Microsoft XBOX (2D Boxes)(8bit)(Robin55 1.2)",
@@ -2305,6 +2305,28 @@
    "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Star Wars - Jedi Knight - Jedi Academy (USA) (En,Fr,De).webp",
    "size": 1425,
    "xemuStatus": "Playable"
+  },
+  {
+   "id": "98cfff87",
+   "console": "Xbox",
+   "datTitle": "Star Wars - Knights of the Old Republic (USA) (Rev 1)",
+   "displayTitle": "Star Wars - Knights of the Old Republic (USA)",
+   "searchKeys": [
+    "knights",
+    "of",
+    "old",
+    "republic",
+    "star",
+    "star wars knights of the old republic",
+    "the",
+    "wars"
+   ],
+   "romFile": "Star Wars - Knights of the Old Republic (USA) (Rev 1).xiso.iso",
+   "romPath": "F:\\xbox\\XISO\\Star Wars - Knights of the Old Republic (USA) (Rev 1).xiso.iso",
+   "coverFile": "Star Wars - Knights of the Old Republic (USA) (Rev 1).webp",
+   "coverPath": "C:\\Users\\izidore\\Desktop\\WiiCovers v2\\Covers\\xbox\\Star Wars - Knights of the Old Republic (USA) (Rev 1).webp",
+   "size": 3756,
+   "xemuStatus": "Starts (tested OK by us)"
   },
   {
    "id": "4b1af858",
